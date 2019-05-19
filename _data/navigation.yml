@@ -1,10 +1,5 @@
 # Site navigation links
 
-- title: Overview
-  url: /
-  excerpt: Research interests and news  
-  image:
-    
 - title: Blog
   url: /posts/
   excerpt: Take a look at my posts
