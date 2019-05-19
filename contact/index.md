@@ -17,4 +17,3 @@ image:
       <p> 32 Campus Dr, Missoula, MT 59812 </p>
       <p> jg.rubalcaba@gmail.com </p>
 
-</div><!-- /.tile -->
