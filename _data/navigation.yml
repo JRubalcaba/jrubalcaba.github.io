@@ -1,21 +1,21 @@
 # Site navigation links
 
 - title: Overview
-  url: /portfolio/
-  excerpt: 
+  url: /
+  excerpt: Research interests and news  
   image:
     
 - title: Blog
   url: /posts/
-  excerpt: 
+  excerpt: Take a look at my posts
   image:
   
 - title: Publications
   url: /publications/
-  excerpt: 
+  excerpt: Rublications
   image:
   
 - title: Contact
   url: /contact/
-  excerpt: 
+  excerpt: Contact
   image:
