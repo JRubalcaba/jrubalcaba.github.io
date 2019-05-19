@@ -6,10 +6,7 @@ image:
   feature: Mt Kenya.JPG
 ---
 
-A postdoctoral researcher in ecology and evolution. 
-
 <div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
+  <h2 class="post-title">About me</h2>
+  <p class="post-excerpt">I'm a postdoctoral researcher in ecology and evolution.</p>
 </div><!-- /.tiles -->
