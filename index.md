@@ -2,10 +2,11 @@
 layout: archive
 permalink: /
 title: "Overview"
-description: A postdoctoral researcher in ecology and evolution
 image:
   feature: Mt Kenya.JPG
 ---
+
+A postdoctoral researcher in ecology and evolution. 
 
 <div class="tiles">
 {% for post in site.posts %}
