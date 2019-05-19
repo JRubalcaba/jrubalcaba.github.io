@@ -1,19 +1,17 @@
 ---
 layout: home
-title: "Contact"
-date: 2018-02-28T11:39:03-04:00
-modified: 2018-03-30
-#excerpt: ""
-tags: []
+permalink: /
 image:
-  feature:
-fbcomments: yes
-#TopicShare: true
-
+  feature: mtkenya.jpg
 ---
 
-# Currently at
-University of Montana
-32 Campus Dr, Missoula, MT 59812
+<div class="tiles">
 
-jg.rubalcaba@gmail.com
+<div class="tile">
+  <h2 class="post-title">Currently at</h2>
+  <p class="post-excerpt">
+      <p> University of Montana </p>
+      <p> 32 Campus Dr, Missoula, MT 59812 </p>
+      <p> jg.rubalcaba@gmail.com </p>
+
+</div><!-- /.tile -->
