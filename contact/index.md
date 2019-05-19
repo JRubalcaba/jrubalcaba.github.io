@@ -1,9 +1,12 @@
 ---
 layout: home
-permalink: /
+title: "Contact"
+#excerpt: ""
+tags: []
 image:
   feature: mtkenya.jpg
 ---
+
 
 <div class="tiles">
 
