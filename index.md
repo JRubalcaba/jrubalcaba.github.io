@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "About"
 image:
-  feature: Mt Kenya.JPG
+  feature: sample-image-1.jpg
 ---
 
 <div class="tiles">
