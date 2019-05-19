@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: Mt Kenya.JPG
+  feature: sample-image-1.jpg
 ---
 
 <div class="tiles">
