@@ -9,17 +9,12 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">VnmrJ is now Open Source!</h2>
-  <p class="post-excerpt">VnmrJ has been released as open source software under the name OpenVnmrJ.</p>
+  <h2 class="post-title">I'm a postdoc in ecology and evolution</h2>
+  <p class="post-excerpt">interested in modeling, statistics and computing</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Download the Latest Release</h2>
-  <p class="post-excerpt"><a href="{{site.baseurl}}Downloading/">Download</a> and install the latest release of OpenVnmrJ</p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">Contribute</h2>
-  <p class="post-excerpt">Learn how to <a href="{{site.baseurl}}Contributing/">contribute</a> documentation, pulse sequences, macros, or other code to OpenVnmrJ.</p>
+  <h2 class="post-title">Take a look at my blog</h2>
+  <p class="post-excerpt"><a href="{{site.baseurl}}posts/">Here</a> some ideas in ecological modelling</p>
 </div><!-- /.tile -->
 
