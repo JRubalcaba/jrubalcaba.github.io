@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "Latest Posts"
+image:
+  feature: Mt Kenya.JPG
 ---
 
 <div class="tiles">
