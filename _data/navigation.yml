@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Overview
+  url: /portfolio/
+  excerpt: 
+  image:
+    
+- title: Blog
+  url: /posts/
+  excerpt: 
+  image:
+  
+- title: Publications
+  url: /publications/
+  excerpt: 
+  image:
+  
+- title: Contact
+  url: /contact/
+  excerpt: 
   image:
