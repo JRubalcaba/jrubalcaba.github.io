@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "Rubal"
+title: "Juan Rubalcaba"
 description: "Models in ecology and evolution"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -25,10 +25,10 @@ gems:
 
 
 # Site owner
-owner:
+owner: Juan G. Rubalcaba
   name:
-  email:
-  twitter:
+  email: jg.rubalcaba@gmail.com
+  twitter: JGRubalcaba
   google:
     ad-client:
     ad-slot:
