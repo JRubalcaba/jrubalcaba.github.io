@@ -7,6 +7,11 @@ image:
   feature: mtkenya.jpg
 ---
 
+<!--
+<img src="../../images/LinuxBible.jpeg">
+-->
+
+<img src="../images/jr.jpg" width="250px"  />
 
 <div class="tiles">
 
