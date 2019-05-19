@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: article
 title: "Contact"
 date: 
 modified: 
@@ -12,7 +12,6 @@ fbcomments: yes
 #TopicShare: true
 
 ## Contact me
-
-jg.rubalcaba@gmail.com
+# jg.rubalcaba@gmail.com
 
 
