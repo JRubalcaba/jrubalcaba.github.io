@@ -23,13 +23,3 @@ image:
   <p class="post-excerpt">Learn how to <a href="{{site.baseurl}}Contributing/">contribute</a> documentation, pulse sequences, macros, or other code to OpenVnmrJ.</p>
 </div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title">Support</h2>
-<p class="post-excerpt"><a href="http://spinsights.chem.agilent.com">Connect</a> with the <a href="https://spinsights.chem.agilent.com">Spinsights</a> community to ask questions and get help with VnmrJ and OpenVnmrJ.</p>
-</div><!-- /.tile -->
-
-</div><!-- /.tiles -->
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
