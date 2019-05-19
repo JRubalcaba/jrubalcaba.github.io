@@ -12,4 +12,8 @@ fbcomments: yes
 
 ---
 
-# jg.rubalcaba@gmail.com
+# Currently at
+University of Montana
+32 Campus Dr, Missoula, MT 59812
+
+jg.rubalcaba@gmail.com
