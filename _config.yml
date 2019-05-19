@@ -25,10 +25,10 @@ gems:
 
 
 # Site owner
-owner: "JGRubalcaba"
+owner:
   name:
-  email: jg.rubalcaba@gmail.com
-  twitter: JGRubalcaba
+  email:
+  twitter:
   google:
     ad-client:
     ad-slot:
