@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Overview"
+description: A postdoctoral researcher in ecology and evolution
 image:
   feature: Mt Kenya.JPG
 ---
