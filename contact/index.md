@@ -9,7 +9,7 @@ image:
 <div class="tiles">
 <div class="tile">
 <img src="../images/jr.jpg" width="250px"  />
-
+  </div>
 <div class="tile">
   <h2 class="post-title">Currently at</h2>
   <p class="post-excerpt">
