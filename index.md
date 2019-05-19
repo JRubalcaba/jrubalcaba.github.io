@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /
-title: "Home"
 image:
   feature: Mt Kenya.JPG
 ---
