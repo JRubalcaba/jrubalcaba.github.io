@@ -2,8 +2,8 @@
 
 title: J.Rubalcaba
 description: "Modeling ecology and evolution"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: 120x120.gif # 120x120 px default image used for Twitter summary card
+teaser: 400x250.gif # 400x250 px default teaser image used in image archive grid
 locale: en
 url: //jrubalcaba.github.io
 feed:
