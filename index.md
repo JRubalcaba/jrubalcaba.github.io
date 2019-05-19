@@ -1,12 +1,12 @@
 ---
 layout: archive
 permalink: /
-title: "About"
+title: "Home"
 image:
-  feature: sample-image-1.jpg
+  feature: Mt Kenya.JPG
 ---
 
 <div class="tiles">
-  <h2 class="post-title"></h2>
-  <p class="post-excerpt">A postdoctoral researcher in ecology and evolution.</p>
+  <h2 class="post-title"> About </h2>
+  <p class="post-excerpt">I am a postdoctoral researcher in ecology and evolution.</p>
 </div><!-- /.tiles -->
