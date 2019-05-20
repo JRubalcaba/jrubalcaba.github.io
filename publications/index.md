@@ -10,11 +10,13 @@ image:
 ---
 
 <a href=""> <img src="/images/bio-photo.jpg" height="100px" width="75px" /></a> 
-Fuentes, D., **Rubalcaba, J.G.**, Veiga, J.P., Polo, V. (in press). Long-term fitness consequences of breeding density in starling colonies: an observational approach. Journal of Ornithology.
+Fuentes, D., **Rubalcaba, J.G.**, Veiga, J.P., Polo, V. (in press). 
+Long-term fitness consequences of breeding density in starling colonies: an observational approach. Journal of Ornithology.
 
 ---
 
-<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> **Rubalcaba, J. G.**, Gouveia, S. & Olalla-Tárraga, M. A (2019). Upscaling microclimatic conditions into body temperature distributions of ectotherms. American Naturalist, 193, 677-687. DOI: 10.1086/702717.
+<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> **Rubalcaba, J. G.**, Gouveia, S. & Olalla-Tárraga, M. A (2019). 
+Upscaling microclimatic conditions into body temperature distributions of ectotherms. American Naturalist, 193, 677-687. DOI: 10.1086/702717.
 
 ---
 
