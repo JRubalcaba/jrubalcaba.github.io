@@ -14,7 +14,7 @@ Fuentes, D., **Rubalcaba, J.G.**, Veiga, J.P., Polo, V. (accepted). Long-term fi
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a>
 **Rubalcaba, J. G.**, Gouveia, S. & Olalla-Tárraga, M. A (2019). Upscaling microclimatic conditions into body temperature distributions of ectotherms. American Naturalist, 193, 677-687. DOI: 10.1086/702717.
 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/f" height="100px" width="75px" /></a>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a>
 **Rubalcaba, J. G.**, Gouveia, S. & Olalla-Tárraga, M. A (2019). A mechanistic model to scale up biophysical 1 processes into geographical size gradients in ectotherms. Global Ecology and Biogeography, 26, 793-803. DOI: 10.1111/geb.12893.
 
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/700833?mobileUi=0"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a>
@@ -23,7 +23,7 @@ Gouveia S., Bovo, R., **Rubalcaba, J.G.**, Da Silva, F., Maciel, N., Andrade D.,
 <a href="https://academic.oup.com/auk/article-abstract/135/3/400/5148873?redirectedFrom=fulltext"> <img src="/images/jcovers/AUK.gif" height="100px" width="75px" /></a>
 **Rubalcaba, J. G.**, & Polo, V. (2018). Sex differences in early determinants of lifetime reproductive success inGEB.pnga polygynous bird: Should mothers adjust offspring sex ratios?. The Auk, 135, 400-408. DOI: 10.1642/AUK-17-227.1.
 
-<a href="https://academic.oup.com/beheco/article/28/5/1369/4064360"> <img src="/images/jcovers/BE17.gif" height="100px" width="75px" /></a>
+<a href="https://academic.oup.com/beheco/article/28/5/1369/4064360"> <img src="/images/jcovers/BE17.png" height="100px" width="75px" /></a>
 **Rubalcaba, J. G.**, Fuentes, D., Veiga, J. P. & Polo, V. (2017). Nest decoration as social signals by males and females: greenery and feathers in starling colonies. Behavioral Ecology, 28, 1369–1375. DOI: 10.1093/beheco/arx101.
 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12893"> <img src="/images/jcovers/JEB.jpg" height="100px" width="75px" /></a>
