@@ -21,7 +21,7 @@ image:
 <!---><!--->
 
 <figure class = "third">
-  <div align = "right"> 
+  <div align = "center"> 
     <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> 
   </div>
   <div align = "left"> 
@@ -32,7 +32,7 @@ image:
 <!---><!--->
 
 <figure class = "third">
-  <div align = "right"> 
+  <div align = "center"> 
     <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a> 
   </div>
   <div align = "left"> 
@@ -43,7 +43,7 @@ image:
 <!---><!--->
 
 <figure class = "third">
-  <div align = "right"> 
+  <div align = "center"> 
     <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/700833?mobileUi=0"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> 
   </div>
   <div align = "left">  
@@ -54,7 +54,7 @@ image:
 <!---><!--->
 
 <figure class = "third">
-  <div align = "right"> 
+  <div align = "center"> 
     <a href="https://academic.oup.com/auk/article-abstract/135/3/400/5148873?redirectedFrom=fulltext"> <img src="/images/jcovers/AUK.gif" height="100px" width="75px" /></a> 
   </div>
   <div align = "left">   
@@ -65,7 +65,7 @@ image:
 <!---><!--->
 
 <figure class = "third">
-  <div align = "right"> 
+  <div align = "center"> 
     <a href="https://academic.oup.com/beheco/article/28/5/1369/4064360"> <img src="/images/jcovers/BE17.png" height="100px" width="75px" /></a> 
   </div>
   <div align = "left"> 
@@ -76,7 +76,7 @@ image:
 <!---><!--->
 
 <figure class = "third">
-  <div align = "right"> 
+  <div align = "center"> 
     <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12893"> <img src="/images/jcovers/JEB.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
@@ -87,10 +87,10 @@ image:
 <!---><!--->
 
 <figure class = "third">
-  <div align = "right"> 
+  <div align = "center"> 
     <a href="https://onlinelibrary.wiley.com/doi/10.1111/jav.00974"> <img src="/images/jcovers/JAV.jpg" height="100px" width="75px" /></a>
   </div>
-  <div align = "left
+  <div align = "left">
      <b>Rubalcaba, J.G.</b>, Veiga, J.P. & Polo, V. (2016). Is offspring dispersal related to male mating status? An experiment with the facultatively polygynous spotless starling. <i>Journal of Avian Biology</i>, 48, 203-208. DOI: 10.1111/jav.00974.
   </div>
 </figure>
@@ -98,9 +98,9 @@ image:
 <!---><!--->
 
 <figure class = "third">
-  <div align = "right"> 
+  <div align = "center"> 
   <a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> <img src="/images/jcovers/BE15.gif" height="100px" width="75px" /></a>                                                                                                                                        <div>
-   <div align = "right">                                                                                                                      Polo, V., <b>Rubalcaba, J.G.</b> & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. <i>Behavioral Ecology</i>, 26, 1131–1137. DOI: 10.1093/beheco/arv056.
+   <div align = "left">                                                                                                                      Polo, V., <b>Rubalcaba, J.G.</b> & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. <i>Behavioral Ecology</i>, 26, 1131–1137. DOI: 10.1093/beheco/arv056.
     </div>
 </figure>
                        
