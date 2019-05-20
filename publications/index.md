@@ -9,7 +9,7 @@ image:
   feature: mtkenya.jpg
 ---
 <figure class = "half">
-  <div align = "center"> 
+  <div align = "left"> 
     <a href=""> <img src="/images/bio-photo.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
@@ -18,7 +18,7 @@ image:
 </figure>
 ---
 <figure class = "half">
-  <div align = "center"> 
+  <div align = "left"> 
     <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> 
   </div>
   <div align = "left"> 
