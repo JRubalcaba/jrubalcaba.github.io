@@ -10,7 +10,7 @@ image:
 ---
 
 <figure class = "third">
-  <div align = "right"> 
+  <div align = "center"> 
     <a href=""> <img src="/images/bio-photo.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
