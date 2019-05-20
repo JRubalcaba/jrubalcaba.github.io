@@ -8,6 +8,8 @@ tags: []
 image:
   feature: mtkenya.jpg
 ---
+
+<div class = "title>
 <p>&nbsp;</p>
 
 <a href=""> <img class="size-medium wp-image-86 alignleft" src="/images/bio-photo.jpg" height="150px" width="75px" /></a> 
@@ -45,3 +47,4 @@ Fuentes, D., **Rubalcaba, J.G.**, Veiga, J.P., Polo, V. (in press). Long-term fi
 
 <a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> <img src="/images/jcovers/BE15.gif" height="100px" width="75px" /></a> Polo, V., **Rubalcaba, J.G.** & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. *Behavioral Ecology*, 26, 1131–1137. DOI: 10.1093/beheco/arv056.
 
+</div>
