@@ -9,7 +9,7 @@ image:
   feature: mtkenya.jpg
 ---
 
-<div class = "title>
+<div class = "title">
 <p>&nbsp;</p>
 
 <a href=""> <img class="size-medium wp-image-86 alignleft" src="/images/bio-photo.jpg" height="150px" width="75px" /></a> 
