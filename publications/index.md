@@ -25,7 +25,6 @@ image:
     <b>Rubalcaba, J. G.</b>, Gouveia, S. & Olalla-Tárraga, M. A (2019). Upscaling microclimatic conditions into body temperature distributions of ectotherms. <i>American Naturalist</i>, 193, 677-687. DOI: 10.1086/702717.
   </div>
 </figure>
-  
 ---
 <figure class = "half">
   <div align = "right"> 
@@ -36,13 +35,23 @@ image:
   </div>
 </figure>
 ---
-<div class = "title">
-<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/700833?mobileUi=0"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> Gouveia S., Bovo, R., <b>Rubalcaba, J.G.</b>, Da Silva, F., Maciel, N., Andrade D., Martinez, P. (2018). Biophysical modeling of water economy and geographic gradient of body size in anurans. <i>American Naturalist</i>, 193, 51-58. DOI: 10.1086/700833.
-</div>
+<figure class = "half">
+  <div align = "right"> 
+    <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/700833?mobileUi=0"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> 
+  </div>
+  <div align = "left">  
+    Gouveia S., Bovo, R., <b>Rubalcaba, J.G.</b>, Da Silva, F., Maciel, N., Andrade D., Martinez, P. (2018). Biophysical modeling of water economy and geographic gradient of body size in anurans. <i>American Naturalist</i>, 193, 51-58. DOI: 10.1086/700833.
+  </div>
+</figure>
 ---
-<div class = "title">
-<a href="https://academic.oup.com/auk/article-abstract/135/3/400/5148873?redirectedFrom=fulltext"> <img src="/images/jcovers/AUK.gif" height="100px" width="75px" /></a> <b>Rubalcaba, J. G.</b>, & Polo, V. (2018). Sex differences in early determinants of lifetime reproductive success inGEB.pnga polygynous bird: Should mothers adjust offspring sex ratios?. <i>The Auk</i>, 135, 400-408. DOI: 10.1642/AUK-17-227.1.
-</div>
+<figure class = "half">
+  <div align = "right"> 
+    <a href="https://academic.oup.com/auk/article-abstract/135/3/400/5148873?redirectedFrom=fulltext"> <img src="/images/jcovers/AUK.gif" height="100px" width="75px" /></a> 
+  </div>
+  <div align = "left">   
+    <b>Rubalcaba, J. G.</b>, & Polo, V. (2018). Sex differences in early determinants of lifetime reproductive success inGEB.pnga polygynous bird: Should mothers adjust offspring sex ratios?. <i>The Auk</i>, 135, 400-408. DOI: 10.1642/AUK-17-227.1.
+  </div>
+</figure>
 ---
 <div class = "title">
 <a href="https://academic.oup.com/beheco/article/28/5/1369/4064360"> <img src="/images/jcovers/BE17.png" height="100px" width="75px" /></a> <b>Rubalcaba, J. G.</b>, Fuentes, D., Veiga, J. P. & Polo, V. (2017). Nest decoration as social signals by males and females: greenery and feathers in starling colonies. <i>Behavioral Ecology</i>, 28, 1369–1375. DOI: 10.1093/beheco/arx101.
