@@ -17,7 +17,7 @@ Fuentes, D., <strong>Rubalcaba, J.G.</strong>, Veiga, J.P., Polo, V. (in press).
 
 ---
 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a> **Rubalcaba, J. G.**, Gouveia, S. & Olalla-Tárraga, M. A (2019). A mechanistic model to scale up biophysical 1 processes into geographical size gradients in ectotherms. <i>Global Ecology and Biogeography</i>, 26, 793-803. DOI: 10.1111/geb.12893.
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a> **Rubalcaba, J. G.**, Gouveia, S. & Olalla-Tárraga, M. A (2019). A mechanistic model to scale up biophysical processes into geographical size gradients in ectotherms. <i>Global Ecology and Biogeography</i>, 26, 793-803. DOI: 10.1111/geb.12893.
 
 ---
 
