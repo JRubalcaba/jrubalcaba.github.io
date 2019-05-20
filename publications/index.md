@@ -1,8 +1,6 @@
 ---
 title: "Publications"
 layout: home
-font-family: Helvetica
-font-size: 12pt
 output:
   html_document: home
   pdf_document: home
