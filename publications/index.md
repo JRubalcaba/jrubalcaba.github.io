@@ -8,6 +8,8 @@ tags: []
 image:
   feature: mtkenya.jpg
 ---
+<div class="tile">
+  
 <p><a href=""> <img class="size-medium wp-image-86 alignleft" src="/images/bio-photo.jpg" height="100px" width="75px" /></a> 
 Fuentes, D., <strong>Rubalcaba, J.G.</strong>, Veiga, J.P., Polo, V. (in press). Long-term fitness consequences of breeding density in starling colonies: an observational approach. <i>Journal of Ornithology</i>.</p>
 
@@ -43,3 +45,4 @@ Fuentes, D., <strong>Rubalcaba, J.G.</strong>, Veiga, J.P., Polo, V. (in press).
 
 <a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> <img src="/images/jcovers/BE15.gif" height="100px" width="75px" /></a> Polo, V., **Rubalcaba, J.G.** & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. <i>Behavioral Ecology</i>, 26, 1131–1137. DOI: 10.1093/beheco/arv056.
 
+</div>
