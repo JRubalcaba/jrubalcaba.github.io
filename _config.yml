@@ -42,6 +42,7 @@ owner:
 
 include:
   - .htaccess
+  - jekyll-gist
 exclude:
   - "*.less"
   - "*.sublime-project"
