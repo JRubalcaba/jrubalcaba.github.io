@@ -13,8 +13,6 @@ image:
 <div class="tile">
   <h2 class="post-title">Currently at</h2>
   <p class="post-excerpt">
-    <font face = "Calibri", size = 4>
-      <p> - University of Montana - </p>
+      <p> University of Montana </p>
       <p> 32 Campus Dr, Missoula, MT 59812 </p>
       <p> jg.rubalcaba@gmail.com </p>
-    </font>
