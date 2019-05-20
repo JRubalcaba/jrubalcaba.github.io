@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /
+permalink: /posts/
 image:
   feature: mtkenya.jpg
 ---
