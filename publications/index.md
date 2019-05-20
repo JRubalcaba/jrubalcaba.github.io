@@ -15,9 +15,13 @@ image:
   </div>
 </figure>
 ---
-<div class = "title">
-<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> <b>Rubalcaba, J. G.</b>, Gouveia, S. & Olalla-Tárraga, M. A (2019). Upscaling microclimatic conditions into body temperature distributions of ectotherms. <i>American Naturalist</i>, 193, 677-687. DOI: 10.1086/702717.
-</div>
+<figure class = "half">
+  <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img class="size-medium wp-image-86 aligncenter"      src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> 
+  <div align = "left"> 
+    <b>Rubalcaba, J. G.</b>, Gouveia, S. & Olalla-Tárraga, M. A (2019). Upscaling microclimatic conditions into body temperature distributions of ectotherms. <i>American Naturalist</i>, 193, 677-687. DOI: 10.1086/702717.
+  </div>
+</figure>
+  
 ---
 <div class = "title">
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a> <b>Rubalcaba, J. G.</b>, Gouveia, S. & Olalla-Tárraga, M. A (2019). A mechanistic model to scale up biophysical processes into geographical size gradients in ectotherms. <i>Global Ecology and Biogeography</i>, 26, 793-803. DOI: 10.1111/geb.12893.
