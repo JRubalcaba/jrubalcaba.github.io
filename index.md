@@ -17,6 +17,3 @@ image:
   <p class="post-excerpt"><a href="{{site.baseurl}}posts/"> Here </a> some recent posts on my work</p>
 </div><!-- /.tile -->
 
-<div class='jekyll-twitter-plugin' align="left">
-    {% twitter https://twitter.com/JGRubalcaba maxwidth=500 limit=5 %}
-</div>
