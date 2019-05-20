@@ -9,10 +9,8 @@ image:
   feature: mtkenya.jpg
 ---
 
-<div>
+<div, align = "center">
 <a href=""> <img src="/images/bio-photo.jpg" height="100px" width="75px" /></a> 
-</div>
-<div>
 Fuentes, D., **Rubalcaba, J.G.**, Veiga, J.P., Polo, V. (in press). Long-term fitness consequences of breeding density in starling colonies: an observational approach. Journal of Ornithology.
 </div>
 ---
