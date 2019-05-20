@@ -53,18 +53,39 @@ image:
   </div>
 </figure>
 ---
-<div class = "title">
-<a href="https://academic.oup.com/beheco/article/28/5/1369/4064360"> <img src="/images/jcovers/BE17.png" height="100px" width="75px" /></a> <b>Rubalcaba, J. G.</b>, Fuentes, D., Veiga, J. P. & Polo, V. (2017). Nest decoration as social signals by males and females: greenery and feathers in starling colonies. <i>Behavioral Ecology</i>, 28, 1369–1375. DOI: 10.1093/beheco/arx101.
-</div>
+<figure class = "third">
+  <div align = "right"> 
+    <a href="https://academic.oup.com/beheco/article/28/5/1369/4064360"> <img src="/images/jcovers/BE17.png" height="100px" width="75px" /></a> 
+  </div>
+  <div align = "left"> 
+    <b>Rubalcaba, J. G.</b>, Fuentes, D., Veiga, J. P. & Polo, V. (2017). Nest decoration as social signals by males and females: greenery and feathers in starling colonies. <i>Behavioral Ecology</i>, 28, 1369–1375. DOI: 10.1093/beheco/arx101.
+  </div>
+</figure>
 ---
-<div class = "title">
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12893"> <img src="/images/jcovers/JEB.jpg" height="100px" width="75px" /></a> <b>Rubalcaba, J.G.</b>, Polo, V., Maia, R., Rubenstein, D.R. & Veiga, J.P. (2016). Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings. <i>Journal of Evolutionary Biology</i>, 29, 1585-1592. DOI: 10.1111/jeb.12893.
-</div>
+<figure class = "third">
+  <div align = "right"> 
+    <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12893"> <img src="/images/jcovers/JEB.jpg" height="100px" width="75px" /></a>
+  </div>
+  <div align = "left"> 
+     <b>Rubalcaba, J.G.</b>, Polo, V., Maia, R., Rubenstein, D.R. & Veiga, J.P. (2016). Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings. <i>Journal of Evolutionary Biology</i>, 29, 1585-1592. DOI: 10.1111/jeb.12893.
+  </div>
+</figure>
 ---
-<div class = "title">
-<a href="https://onlinelibrary.wiley.com/doi/10.1111/jav.00974"> <img src="/images/jcovers/JAV.jpg" height="100px" width="75px" /></a> <b>Rubalcaba, J.G.</b>, Veiga, J.P. & Polo, V. (2016). Is offspring dispersal related to male mating status? An experiment with the facultatively polygynous spotless starling. <i>Journal of Avian Biology</i>, 48, 203-208. DOI: 10.1111/jav.00974.
-</div>
+<figure class = "third">
+  <div align = "right"> 
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/jav.00974"> <img src="/images/jcovers/JAV.jpg" height="100px" width="75px" /></a>
+  </div>
+  <div align = "left
+     <b>Rubalcaba, J.G.</b>, Veiga, J.P. & Polo, V. (2016). Is offspring dispersal related to male mating status? An experiment with the facultatively polygynous spotless starling. <i>Journal of Avian Biology</i>, 48, 203-208. DOI: 10.1111/jav.00974.
+  </div>
+</figure
 ---
-<div class = "title">
-<a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> <img src="/images/jcovers/BE15.gif" height="100px" width="75px" /></a> Polo, V., <b>Rubalcaba, J.G.</b> & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. <i>Behavioral Ecology</i>, 26, 1131–1137. DOI: 10.1093/beheco/arv056.
-</div>
+<figure class = "third">
+  <div align = "right"> 
+  <a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> <img src="/images/jcovers/BE15.gif" height="100px" width="75px" /></a>                                                                                                                                        <div>
+   <div align = "right">                                                                                                                      Polo, V., <b>Rubalcaba, J.G.</b> & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. <i>Behavioral Ecology</i>, 26, 1131–1137. DOI: 10.1093/beheco/arv056.
+    </div>
+</figure>
+                       
+            
+                       
