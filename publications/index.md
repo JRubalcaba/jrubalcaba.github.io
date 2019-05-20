@@ -17,7 +17,7 @@ image:
   </div>
 </figure>
 ---
-<figure class = "half">
+<figure class = "third">
   <div align = "right"> 
     <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> 
   </div>
@@ -26,7 +26,7 @@ image:
   </div>
 </figure>
 ---
-<figure class = "half">
+<figure class = "third">
   <div align = "right"> 
     <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a> 
   </div>
@@ -35,7 +35,7 @@ image:
   </div>
 </figure>
 ---
-<figure class = "half">
+<figure class = "third">
   <div align = "right"> 
     <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/700833?mobileUi=0"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> 
   </div>
@@ -44,7 +44,7 @@ image:
   </div>
 </figure>
 ---
-<figure class = "half">
+<figure class = "third">
   <div align = "right"> 
     <a href="https://academic.oup.com/auk/article-abstract/135/3/400/5148873?redirectedFrom=fulltext"> <img src="/images/jcovers/AUK.gif" height="100px" width="75px" /></a> 
   </div>
