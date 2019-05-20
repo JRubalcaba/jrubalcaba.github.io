@@ -99,7 +99,7 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
-  <a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> <img src="/images/jcovers/BE15.gif" height="100px" width="75px" /></a>                                                                                                                                        <div>
+  <a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> <img src="/images/jcovers/BE15.gif" height="100px" width="75px" /></a>                                                                                                                                        </div>
    <div align = "left">                                                                                                                      Polo, V., <b>Rubalcaba, J.G.</b> & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. <i>Behavioral Ecology</i>, 26, 1131–1137. DOI: 10.1093/beheco/arv056.
     </div>
 </figure>
