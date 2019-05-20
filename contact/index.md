@@ -12,7 +12,7 @@ image:
   </div>
 <div class="tile">
   <h2 class="post-title">Currently at</h2>
-  <p class="post-excerpt">
-      <p> University of Montana </p>
-      <p> 32 Campus Dr, Missoula, MT 59812 </p>
-      <p> jg.rubalcaba@gmail.com </p>
+
+    University of Montana 
+    32 Campus Dr, Missoula, MT 59812 
+    jg.rubalcaba@gmail.com
