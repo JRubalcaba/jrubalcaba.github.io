@@ -1,10 +1,11 @@
 ---
 layout: home
-permalink: /posts/
+title: "Posts"
+#excerpt: ""
+tags: []
 image:
   feature: mtkenya.jpg
 ---
-
 <div class="tiles">
 
 <div class="tile">
