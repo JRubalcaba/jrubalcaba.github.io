@@ -49,7 +49,7 @@ image:
   
   
 <div class="tile">
-Fuentes, D., <strong>Rubalcaba, J.G.</strong>, Veiga, J.P., Polo, V. (in press). Long-term fitness consequences of breeding density in starling colonies: an observational approach. <i>Journal of Ornithology</i>.
+Fuentes, D., **Rubalcaba, J.G.**, Veiga, J.P., Polo, V. (in press). Long-term fitness consequences of breeding density in starling colonies: an observational approach. <i>Journal of Ornithology</i>.
 
 ---
 
