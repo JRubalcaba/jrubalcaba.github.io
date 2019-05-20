@@ -18,7 +18,7 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
   input: GFM
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
 collections:
