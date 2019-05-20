@@ -9,16 +9,17 @@ image:
   feature: mtkenya.jpg
 ---
 
+<div>
 <a href=""> <img src="/images/bio-photo.jpg" height="100px" width="75px" /></a> Fuentes, D., **Rubalcaba, J.G.**, Veiga, J.P., Polo, V. (in press). Long-term fitness consequences of breeding density in starling colonies: an observational approach. Journal of Ornithology.
-
+</div>
 ---
-
+<div>
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> **Rubalcaba, J. G.**, Gouveia, S. & Olalla-Tárraga, M. A (2019). Upscaling microclimatic conditions into body temperature distributions of ectotherms. American Naturalist, 193, 677-687. DOI: 10.1086/702717.
-
+</div>
 ---
-
+<div>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a> **Rubalcaba, J. G.**, Gouveia, S. & Olalla-Tárraga, M. A (2019). A mechanistic model to scale up biophysical 1 processes into geographical size gradients in ectotherms. Global Ecology and Biogeography, 26, 793-803. DOI: 10.1111/geb.12893.
-
+</div>
 ---
 
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/700833?mobileUi=0"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> Gouveia S., Bovo, R., **Rubalcaba, J.G.**, Da Silva, F., Maciel, N., Andrade D., Martinez, P. (2018). Biophysical modeling of water economy and geographic gradient of body size in anurans. American Naturalist, 193, 51-58. DOI: 10.1086/700833.
