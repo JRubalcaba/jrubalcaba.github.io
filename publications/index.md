@@ -10,7 +10,7 @@ image:
 ---
 <figure class = "half">
   <div align = "right">
-    <a href=""> <img class="size-medium wp-image-86 alignleft" src="/images/bio-photo.jpg" height="150px" width="75px" /></a> 
+    <a href=""> <img class="size-medium wp-image-86 alignleft" src="/images/bio-photo.jpg" height="100px" width="75px" /></a> 
   </div>
   <div align = "left"> 
     Fuentes, D., <b>Rubalcaba, J.G.</b>, Veiga, J.P., Polo, V. (in press). Long-term fitness consequences of breeding density in    starling colonies: an observational approach. <i>Journal of Ornithology</i>.
