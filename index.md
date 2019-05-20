@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: sample-image-1.jpg
+  feature: mtkenya.jpg
 ---
 
 <div class="tiles">
