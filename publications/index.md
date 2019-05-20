@@ -9,7 +9,7 @@ image:
   feature: mtkenya.jpg
 ---
 <figure class = "half">
-  <div align = "left"> 
+  <div align = "right"> 
     <a href=""> <img src="/images/bio-photo.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
@@ -18,7 +18,7 @@ image:
 </figure>
 ---
 <figure class = "half">
-  <div align = "left"> 
+  <div align = "right"> 
     <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> 
   </div>
   <div align = "left"> 
@@ -27,9 +27,14 @@ image:
 </figure>
   
 ---
-<div class = "title">
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a> <b>Rubalcaba, J. G.</b>, Gouveia, S. & Olalla-Tárraga, M. A (2019). A mechanistic model to scale up biophysical processes into geographical size gradients in ectotherms. <i>Global Ecology and Biogeography</i>, 26, 793-803. DOI: 10.1111/geb.12893.
-</div>
+<figure class = "half">
+  <div align = "right"> 
+    <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a> 
+  </div>
+  <div align = "left"> 
+    <b>Rubalcaba, J. G.</b>, Gouveia, S. & Olalla-Tárraga, M. A (2019). A mechanistic model to scale up biophysical processes into geographical size gradients in ectotherms. <i>Global Ecology and Biogeography</i>, 26, 793-803. DOI: 10.1111/geb.12893.
+  </div>
+</figure>
 ---
 <div class = "title">
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/700833?mobileUi=0"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> Gouveia S., Bovo, R., <b>Rubalcaba, J.G.</b>, Da Silva, F., Maciel, N., Andrade D., Martinez, P. (2018). Biophysical modeling of water economy and geographic gradient of body size in anurans. <i>American Naturalist</i>, 193, 51-58. DOI: 10.1086/700833.
