@@ -18,5 +18,5 @@ image:
 </div><!-- /.tile -->
 
 <div class='jekyll-twitter-plugin' align="left">
-    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
+    {% twitter https://twitter.com/JGRubalcaba maxwidth=500 limit=5 %}
 </div>
