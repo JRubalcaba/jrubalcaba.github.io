@@ -9,11 +9,11 @@ image:
   feature: mtkenya.jpg
 ---
 <figure class = "half">
-<div class = "title">
+
 <a href=""> <img class="size-medium wp-image-86 alignleft" src="/images/bio-photo.jpg" height="150px" width="75px" /></a> 
 Fuentes, D., <b>Rubalcaba, J.G.</b>, Veiga, J.P., Polo, V. (in press). Long-term fitness consequences of breeding density in starling colonies: an observational approach. <i>Journal of Ornithology</i>.
-</div>
-  </figure>
+
+</figure>
 ---
 <div class = "title">
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/702717"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a> <b>Rubalcaba, J. G.</b>, Gouveia, S. & Olalla-Tárraga, M. A (2019). Upscaling microclimatic conditions into body temperature distributions of ectotherms. <i>American Naturalist</i>, 193, 677-687. DOI: 10.1086/702717.
