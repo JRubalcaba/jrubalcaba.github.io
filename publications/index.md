@@ -8,7 +8,7 @@ tags: []
 image:
   feature: mtkenya.jpg
 ---
-<figure class = "half">
+<figure class = "third">
   <div align = "right"> 
     <a href=""> <img src="/images/bio-photo.jpg" height="100px" width="75px" /></a>
   </div>
