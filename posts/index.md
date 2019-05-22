@@ -28,7 +28,7 @@ image:
 
 <div class="tile">
   <img src="/images/posts/bodytemp.jpg" height="200px"/>
-  <h2 class="post-title"><a href="{{site.baseurl}}posts/"> Modelling body temperature of ectotherms </a></h2>
-  <p class="post-excerpt"> Using biophysical models to simulate body temperature from climatic data </p>
+  <h2 class="post-title"><a href="{{site.baseurl}}posts/"> More biophysical models </a></h2>
+  <p class="post-excerpt"> how to use biophysical models to simulate body temperature of ectotherms </p>
 </div><!-- /.tile -->
 
