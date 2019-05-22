@@ -9,7 +9,7 @@ image:
 <div class="tiles">
 <div class="tie">
   <img src="/images/posts/attractor.gif" width=200px>
-  <h2 class="post-title"><a href="{{site.baseurl}}posts/"> A toy chaotic model </a></h2>
+  <h2 class="post-title"><a href="{{site.baseurl}}posts/"> A chaotic toy model </a></h2>
   <p class="post-excerpt"> to simulate population dynamics of three interacting species: plant - polinator - parasite </p>
 </div><!-- /.tile -->
 
