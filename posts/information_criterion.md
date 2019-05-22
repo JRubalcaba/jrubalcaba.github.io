@@ -1,5 +1,5 @@
 ---
-title: "Cosas que conviene saber al usar AIC, DIC y otros criterios de informaciÃƒÂ³n"
+title: "Cosas que conviene saber al usar AIC, DIC y otros criterios de información"
 layout: article
 ---
 Una de las herramientas estadísticas que más se usan en ecología son los indicadores de información (AIC, BIC, DIC y muchos otros). Aunque muchas veces los usamos como simples herramientas, hay una lógica muy potente e interesante detrás. Entender algo de esa lógica nos puede ayudar bastante. La idea de esta entrada es pensar un poco qué son los criterios de informaicón, de dónde vienen y cómo se interpretan. 
