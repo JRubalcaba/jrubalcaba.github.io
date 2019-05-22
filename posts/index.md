@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: articles
 title: "Blog"
 #excerpt: ""
 tags: []
