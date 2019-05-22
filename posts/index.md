@@ -17,14 +17,14 @@ image:
 
 <div class="tile">
   <h2 class="post-title"><a href="/posts/">
-  <img src="/images/posts/attractor.gif"/>
+  <img src="/images/posts/atractor.gif"/>
   Simulating chaotic dynamics </a></h2>
   <p class="post-excerpt"> with a toy model of plant-polinator-parasite dynamics </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"><a href="/posts/">
-  <img src="/images/posts/Bayes_icon.svg"/>
+  <img src="/images/posts/Bayes_icon.jpg"/>
   Qué son los indicadores de información </a></h2>
   <p class="post-excerpt">Some recommendations (in spanish) for the use of AIC BIC and DIC </p>
 </div><!-- /.tile -->
