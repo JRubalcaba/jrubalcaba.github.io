@@ -6,6 +6,7 @@ tags: []
 image:
   feature: mtkenya.jpg
 ---
+<div class="tiles">
 <div class="tile">
   <img src="/images/posts/attractor.gif" width=200px>
   <h2 class="post-title"><a href="{{site.baseurl}}posts/"> A toy chaotic model </a></h2>
