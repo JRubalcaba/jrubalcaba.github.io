@@ -34,11 +34,11 @@ Como veremos, AIC tiene una forma menos restrictiva que otros indicadores de med
 ### Criterio de Información Bayesiano
 
 Muy similar al AIC es el criterio bayesiano de información, BIC (Bayesian Information Criterion) de Schwarz, que viene dado por:
-
+```tex
 \begin{align}
 \ BIC = k \ln(n) -  2 \ln(L) \\
 \end{align}
-
+```
 
 Donde, de nuevo k es el número de parámetros, L es el valor de máxima verosimilitud y n es el número de datos. Igual que el AIC se basa en la máxima verosimilitud como método de medida de la bondad de ajuste. Aquí vemos que la medida de la complejidad incorpora tanto k como ln(n). Esto independiza al indicador del tamaño muestral y hace que penalice más la complejidad que el AIC.
 
@@ -51,7 +51,7 @@ Otra cuestión importante de medir la complejidad con el número de parámetros 
 
 ### Criterio de Información de la Devianza
 
-El DIC (Deviance Information Criterion) de Spiegelhalter es una versión generalizada del AIC y del BIC que incorpora la batería de procedimientos y la lógica de la estadística bayesiana. El DIC utiliza cadenas de Monte Carlo para buscar la distribución de los parámetros. Es decir, no se buscan los valores puntuales de los parámetros que maximizan la función de verosimilitud, sino que se trabaja con la función completa de verosimilitud. Así, recordamos que la verosimilitud es la probabilidad condicionada de los datos al modelo, p(y|θk), y que AIC y BIC miden la bondad de ajuste como la altura del punto de máxima verosimilitud, L. Por su parte, el DIC extrae la devianza, -2 ln[p(y|\thetak)], la cual tiene en cuenta la función completa de versomilitud. La medida de bondad de ajuste es el promedio de la devianza:
+El DIC (Deviance Information Criterion) de Spiegelhalter es una versión generalizada del AIC y del BIC que incorpora la batería de procedimientos y la lógica de la estadística bayesiana. El DIC utiliza cadenas de Monte Carlo para buscar la distribución de los parámetros. Es decir, no se buscan los valores puntuales de los parámetros que maximizan la función de verosimilitud, sino que se trabaja con la función completa de verosimilitud. Así, recordamos que la verosimilitud es la probabilidad condicionada de los datos al modelo, p(y|θk), y que AIC y BIC miden la bondad de ajuste como la altura del punto de máxima verosimilitud, L. Por su parte, el DIC extrae la devianza, -2, la cual tiene en cuenta la función completa de versomilitud. La medida de bondad de ajuste es el promedio de la devianza:
 
 \begin{align}
 \ \bar{D}(\theta) = -2 \int \log(p(y|\theta)) \, d\theta\\
