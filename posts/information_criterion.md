@@ -8,7 +8,7 @@ La idea general es... Cómo obtenemos una medida de la calidad de los modelos es
 
 Pues esto es lo que hacen los indicadores de información (medir el balance entre capacidad predictiva y complejidad) y por eso tienen siempre esta forma:
 
-\begin{align}
+\begin{equation}
 \ xIC = complejidad - bondad de ajuste \\
 \end{align}
 
