@@ -9,7 +9,7 @@ La idea general es... Cómo obtenemos una medida de la calidad de los modelos es
 Pues esto es lo que hacen los indicadores de información (medir el balance entre capacidad predictiva y complejidad) y por eso tienen siempre esta forma:
 
 \begin{align}
-\ xIC = complejidad - bondad de ajuste\\
+\ xIC = complejidad - ajuste\\
 \end{align}
 
 Donde xIC puede ser AIC (Aikaike Information Criterion), BIC (Bayesian Information Criterion), DIC (Deviance Information Criterion) y muchos otros, aquí sólo vamos a hablar de esos tres. Los dos primeros utilizan Maximum Likelihood como criterio de bondad de ajuste y el número de parámetros como medida de complejidad. El DIC es más complejo, trabaja con la distribución a posteriori de los parámetros, y mide la complejidad como el número y grado de interrelación entre los parámetros.
@@ -34,11 +34,9 @@ Como veremos, AIC tiene una forma menos restrictiva que otros indicadores de med
 
 Muy similar al AIC es el criterio bayesiano de información, BIC (Bayesian Information Criterion) de Schwarz, que viene dado por:
 
-```text
 \begin{align}
 \ BIC = k \ln(n) -  2 \ln(L) \\
 \end{align}
-```
 
 Donde, de nuevo k es el número de parámetros, L es el valor de máxima verosimilitud y n es el número de datos. Igual que el AIC se basa en la máxima verosimilitud como método de medida de la bondad de ajuste. Aquí vemos que la medida de la complejidad incorpora tanto k como ln(n). Esto independiza al indicador del tamaño muestral y hace que penalice más la complejidad que el AIC.
 
