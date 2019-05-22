@@ -2,7 +2,7 @@
 title: "Cosas que conviene saber al usar AIC, DIC y otros criterios de información"
 layout: article
 ---
-<div class = "tiles">
+
 Una de las herramientas estadísticas que más se usan en ecología son los indicadores de información (AIC, BIC, DIC y muchos otros). Aunque los solemos utilizar como simples herramientas, detrás hay una lógica muy potente e interesante. Entender algo de esa lógica nos puede ayudar bastante. La idea de esta entrada es indagar un poco más en la lógica detrás de los criterios de informaicón, ver de dónde vienen y cómo se interpretan. 
 
 La idea general es esta: necesitamos una manera de elegir (formalmente) entre una serie de modelos estadísticos que difieren en complejidad y en calidad de ajuste (o capacidad de explicar nuestros datos). Generalmente, cuanto más complejo es un modelo (porque tiene muchas variables, interacciones, etc) mejor describirá el proceso que estamos analizando, pero si es demasiado complejo perderá generalidad (será muy bueno prediciendo los datos para los que está entrenado, pero nada más allá de eso). Asique tenemos un compromiso: queremos un modelo lo suficientemente complejo para que sea una buena descripción de nuestro sistema de estudio, pero no tan complejo como para que no tenga validez general.  
