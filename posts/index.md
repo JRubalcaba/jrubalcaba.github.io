@@ -6,7 +6,7 @@ tags: []
 image:
   feature: mtkenya.jpg
 ---
-<div class="tiles">
+<div class="titles">
   
 <div class="tile">
   <img src="/images/posts/attractor.gif" width=200px>
