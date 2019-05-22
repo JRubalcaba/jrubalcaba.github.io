@@ -15,6 +15,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
+  <img src="/images/posts/Bayes_icon.svg" height="200px" />
   <h2 class="post-title"><a href="{{site.baseurl}}posts/"> Qué son los indicadores de información </a></h2>
   <p class="post-excerpt">Notes (spanish) on the use of AIC BIC and DIC in ecology </p>
 </div><!-- /.tile -->
