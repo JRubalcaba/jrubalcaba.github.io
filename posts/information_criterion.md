@@ -1,6 +1,6 @@
 ---
 title: "Cosas que conviene saber al usar AIC, DIC y otros criterios de información"
-layout: home
+layout: article
 ---
 Una de las herramientas estadísticas que más se usan en ecología son los indicadores de información (AIC, BIC, DIC y muchos otros). Aunque muchas veces los usamos como simples herramientas, hay una lógica muy potente e interesante detrás. Entender algo de esa lógica nos puede ayudar bastante. La idea de esta entrada es pensar un poco qué son los criterios de informaicón, de dónde vienen y cómo se interpretan. 
 
@@ -73,3 +73,4 @@ El número efectivo de parámetros tiene en cuenta simultáneamente el tamaño m
 Por supuesto el DIC no está exento de críticas. En concreto, el sistema por el que penaliza el número de parámetros no equivale a una forma de cross-validation como ocurre en el AIC, lo que lleva a seleccionar modelos sobre-parametrizados. La forma de corregir esto es multiplicar por un factor el número efectivo de parámetros, tal que el indicador converja al método de leave one out al igual que el AIC. Existen múltiples revisiones del método implementadas en winBUGS y JAGS.
 
 En resumen, el DIC se puede entender como una generalización de AIC y BIC que relaja la asunciones de independencia y certidumbre de los parámetros. El DIC hace una búsqueda del modelo verdadero implementando técnicas de MCMC que aportan una visión más completa de las propiedades de los modelos estadísticos.
+
