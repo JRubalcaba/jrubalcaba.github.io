@@ -52,11 +52,11 @@ Otra cuestión importante de medir la complejidad con el número de parámetros 
 ### Criterio de Información de la Devianza
 
 El DIC (Deviance Information Criterion) de Spiegelhalter es una versión generalizada del AIC y del BIC que incorpora la batería de procedimientos y la lógica de la estadística bayesiana. El DIC utiliza cadenas de Monte Carlo para buscar la distribución de los parámetros. Es decir, no se buscan los valores puntuales de los parámetros que maximizan la función de verosimilitud, sino que se trabaja con la función completa de verosimilitud. Así, recordamos que la verosimilitud es la probabilidad condicionada de los datos al modelo, p(y|θk), y que AIC y BIC miden la bondad de ajuste como la altura del punto de máxima verosimilitud, L. Por su parte, el DIC extrae la devianza, -2, la cual tiene en cuenta la función completa de versomilitud. La medida de bondad de ajuste es el promedio de la devianza:
-
+```tex
 \begin{align}
 \ \bar{D}(\theta) = -2 \int \log(p(y|\theta)) \, d\theta\\
 \end{align}
-
+```
 Para medir la complejidad del modelo, el DIC utiliza de nuevo la devianza de las funciones de los parámetros. Así, cuando los parámetros de un modelo están correlacionados, la búsqueda con MCMC genera distribuciones con alta devianza. Esto es, si los parámetros covarían habrá mayor variabilidad en el espacio de parámetros. Para penalizar la complejidad, el DIC calcula el número efectivo de parámetros, pD, que se define como el promedio de la devianza menos la devianza evaluada en el promedio de los parámetros:
 
 \begin{align}
