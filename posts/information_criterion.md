@@ -11,18 +11,17 @@ Pues esto es lo que hacen los indicadores de información (medir el balance entr
 ```tex
 xIC = complejidad - bondad de ajuste
 ```
-$$y-y_0=m(x-x_0)$$
 
 Donde xIC puede ser AIC (Aikaike Information Criterion), BIC (Bayesian Information Criterion), DIC (Deviance Information Criterion) y muchos otros, aquí sólo vamos a hablar de esos tres. Los dos primeros utilizan Maximum Likelihood como criterio de bondad de ajuste y el número de parámetros como medida de complejidad. El DIC es más complejo, trabaja con la distribución a posteriori de los parámetros, y mide la complejidad como el número y grado de interrelación entre los parámetros.
 
 ### Criterio de Información de Akaike
 
 Algo que en ecología usamos constantemente:
-
+$$$
 \begin{align}
 \ AIC = 2k -  2 \ln(L) \\
 \end{align}
-
+$$$
 Donde k es el número de parámetros y L el máximo de la función de verosimilitud (Maximum likelihood). Según AIC, la bondad de ajuste es el valor de Maximum Likelihood y la complejidad es el número de parámetros. 
 
 La medida de **bondad de ajuste** aquí es 2 ln(L). No vamos a entrar en detalles sobre qué es L (la versimilitud o likelihood), sólo un par de nociones. Primero, L es el producto de las probabilidades de cada dato condicionado al modelo, por lo que L se obtiene multiplicando n valores entre 0 y 1 (o sumando sus logaritmos). Segundo, ln(L) es una función creciente, pero la hacemos decrecer al multiplicarle -1. Así, cuando L tiende a infinito, la expresión -2 ln(L) tiende a un valor muy pequeño (AIC decrece cuando aumenta la bondad de ajuste). Una última nota es que L depende tanto de la distancia de cada dato al modelo (el likelihood) como del número de datos, n.
@@ -34,11 +33,11 @@ Como veremos, AIC tiene una forma menos restrictiva que otros indicadores de med
 ### Criterio de Información Bayesiano
 
 Muy similar al AIC es el criterio bayesiano de información, BIC (Bayesian Information Criterion) de Schwarz, que viene dado por:
-```tex
+$$$
 \begin{align}
 \ BIC = k \ln(n) -  2 \ln(L) \\
 \end{align}
-```
+$$$
 
 Donde, de nuevo k es el número de parámetros, L es el valor de máxima verosimilitud y n es el número de datos. Igual que el AIC se basa en la máxima verosimilitud como método de medida de la bondad de ajuste. Aquí vemos que la medida de la complejidad incorpora tanto k como ln(n). Esto independiza al indicador del tamaño muestral y hace que penalice más la complejidad que el AIC.
 
@@ -52,23 +51,23 @@ Otra cuestión importante de medir la complejidad con el número de parámetros 
 ### Criterio de Información de la Devianza
 
 El DIC (Deviance Information Criterion) de Spiegelhalter es una versión generalizada del AIC y del BIC que incorpora la batería de procedimientos y la lógica de la estadística bayesiana. El DIC utiliza cadenas de Monte Carlo para buscar la distribución de los parámetros. Es decir, no se buscan los valores puntuales de los parámetros que maximizan la función de verosimilitud, sino que se trabaja con la función completa de verosimilitud. Así, recordamos que la verosimilitud es la probabilidad condicionada de los datos al modelo, p(y|θk), y que AIC y BIC miden la bondad de ajuste como la altura del punto de máxima verosimilitud, L. Por su parte, el DIC extrae la devianza, -2, la cual tiene en cuenta la función completa de versomilitud. La medida de bondad de ajuste es el promedio de la devianza:
-```tex
+$$$
 \begin{align}
 \ \bar{D}(\theta) = -2 \int \log(p(y|\theta)) \, d\theta\\
 \end{align}
-```
+$$$
 Para medir la complejidad del modelo, el DIC utiliza de nuevo la devianza de las funciones de los parámetros. Así, cuando los parámetros de un modelo están correlacionados, la búsqueda con MCMC genera distribuciones con alta devianza. Esto es, si los parámetros covarían habrá mayor variabilidad en el espacio de parámetros. Para penalizar la complejidad, el DIC calcula el número efectivo de parámetros, pD, que se define como el promedio de la devianza menos la devianza evaluada en el promedio de los parámetros:
-
+$$$
 \begin{align}
 \ p_D = \bar{D} - D(\bar{\theta})\\
 \end{align}
-
+$$$
 Con ello, el DIC se define como:
-
+$$$
 \begin{align}
 \ DIC = \bar{D}(\theta) + p_D = D(\bar{\theta}) + 2 p_D\\
 \end{align}
-
+$$$
 El número efectivo de parámetros tiene en cuenta simultáneamente el tamaño muestral, la relación (covariación) entre los parámetros, el número de parámetros y el tamaño de los efectos de las variables.
 
 Por supuesto el DIC no está exento de críticas. En concreto, el sistema por el que penaliza el número de parámetros no equivale a una forma de cross-validation como ocurre en el AIC, lo que lleva a seleccionar modelos sobre-parametrizados. La forma de corregir esto es multiplicar por un factor el número efectivo de parámetros, tal que el indicador converja al método de leave one out al igual que el AIC. Existen múltiples revisiones del método implementadas en winBUGS y JAGS.
