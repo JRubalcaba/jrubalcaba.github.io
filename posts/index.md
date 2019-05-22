@@ -23,7 +23,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><a href="/posts/">
+  <h2 class="post-title"><a href="/posts/information_criterion">
   <img src="/images/posts/Bayes_icon.jpg"/>
   Qué son los indicadores de información </a></h2>
   <p class="post-excerpt">Some recommendations (in spanish) for the use of AIC BIC and DIC </p>
