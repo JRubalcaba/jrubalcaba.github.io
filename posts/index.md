@@ -30,7 +30,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><a href="/posts/">
+  <h2 class="post-title"><a href="https://jrubalcaba.shinyapps.io/jrubalcabagithub/">
   <img src="/images/posts/bodytemp.jpg"/>
   More biophysical models </a></h2>
   <p class="post-excerpt"> how to use biophysical models to simulate body temperature of ectotherms. </p>
