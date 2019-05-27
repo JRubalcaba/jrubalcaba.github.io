@@ -10,4 +10,3 @@ is important because it allows ectotherms to buffer variations in environmental 
 
 <p><a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> Take a look at the paper </a></p>
 <p><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try it yourself </a></p>
-<p>[https://jrubalcaba.shinyapps.io/jrubalcabagithub/](Try it){:target="_blank"}</p>
