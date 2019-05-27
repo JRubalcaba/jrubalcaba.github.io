@@ -8,5 +8,5 @@ selecting sunny or shaded areas, basking sites or burrows to control body temper
 is important because it allows ectotherms to buffer variations in environmental temperatures such as those resulting from climate warming.
 
 
-<a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> Take a look at the paper </a>
-<a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try it yourself </a>
+<p><a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> Take a look at the paper </a></p>
+<p><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try it yourself </a></p>
