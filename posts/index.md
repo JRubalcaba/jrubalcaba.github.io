@@ -9,7 +9,7 @@ image:
 <div class="titles">
 
 <div class="tile">
-  <h2 class="post-title"> <a href="https://www.amnat.org/an/newpapers/MayRubalcaba.html"> 
+  <h2 class="post-title"> <a href="/posts/temperature_distributions"> 
   <img src="/images/posts/lizard.jpg"/>
   Modelling temperature distributions from climatic data </a></h2>
   <p class="post-excerpt"> An information-theoretical model to predict body temperature of ectotherms from microclimatic data </p>
