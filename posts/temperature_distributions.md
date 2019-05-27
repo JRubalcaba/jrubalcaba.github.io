@@ -17,7 +17,7 @@ But knowing the repertoire of operative temperatures is only part of the job. We
 
 But can we actually estimate this probability? and beyond that, can we model the probability distribution of body temperatures that individuals will experience while moving among microhabitats? This is what we aimed <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> here </a>, applying the maximum entropy framework, a procedure to derive statistical distributions when we know little about the rules governing the behaviour of the system. 
 
-Using the maximum entropy framework to model behavioural thermoregulation sounds trickier than it is. This is why I'm writting this post (and the online app below).
+Using the maximum entropy framework to model behavioural thermoregulation sounds trickier than it is. This is why I'm writting this post (and this <p><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> online app </a></p>).
 
 
 
