@@ -3,6 +3,7 @@ title: "Modelling body temperature of ectotherms"
 layout: article
 author: Juan G. Rubalcaba
 ---
+From <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> Rubalcaba et al. (2019). *American Naturalist* 193:677-687.</a>
 
 Many ectotherms (cold-blooded animals like invertebrates, frogs or lizards) can control body temperature taking advantage of the thermal heterogeneity of their environment, for example, selecting sunny areas early in the morning, or moving to the shade or a burrow when it is warm ourside. It is thought that this capacity for "behavioural thermoregulation" is being critical for ectotherms to buffer the impacts of climate warming.
 
