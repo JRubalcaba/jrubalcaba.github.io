@@ -12,7 +12,7 @@ image:
   <h2 class="post-title"> <a href="/posts/temperature_distributions"> 
   <img src="/images/posts/lizard.jpg"/>
   Modelling temperature of ectotherms from climatic data </a></h2>
-  This posts shows how to use the model published in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with a little interactive example. I hope it is useful!
+  This posts shows how to use the model published in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with a little interactive example.
 </div><!-- /.tile -->
 
 <div class="tile">
