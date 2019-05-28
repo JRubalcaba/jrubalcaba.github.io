@@ -19,7 +19,8 @@ But can we actually estimate this probability? and beyond that, can we model the
 
 Using the maximum entropy framework to model behavioural thermoregulation sounds trickier than it is. This is why I'm writting this post (and this <a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> online app </a>).
 
->><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try the app! </a>
+><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try the app! </a>
+><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Download the R code </a>
 
 Imagine that we know the temperature that individuals of a small lizard species target in the field (we can get this information by just measuring body temperature of individuals in the field at any time). Futhermore, we know the operative temperatures of each microhabitat (basking sites, shades and burrows) either because we measured them, or because we have a good mathematical model estimating these temperatures. We ask what is the probability of finding an animal in each site.
 
@@ -33,14 +34,10 @@ In this case, we are showing a very simplistic example where lambda 0 means equa
 
 What happens if we increase lambda? 
 
-Why is that useful? There are two main questions that we can address with this model. First, when we know the repertoire of operative temperatures, modelling the distribution of body temperatures gives us information about what is the probability that animals experience, for example, temperatures above their heat tolerance limits. 
+Why is that useful? There are two main questions that we can address with this model. First, when we know the repertoire of operative temperatures, modelling the distribution of body temperatures gives us information about what is the probability that animals experience, for example, temperatures above their heat tolerance limits. Recent advances in biophysical modelling now allow to model operative temperatures of microclimates from macroclimatic data at any geographical location. We just need to feed the maximum-entropy model with these data to derive distributions and thus forecast the risks of climate warming.
 
+Second, in the paper we show how to contrast predicted distributions with observed body temperature data. With this information, we can derive the actual value of lambda (the thermoregulatory strategy) displayed by our population. This measure informs about the potential of behaviour to buffer climate change. 
 
+There are still a lot of questions that we can address and (honestly) I have no idea how the model behaves under different circumstances. I hope it can provide insights for new studies and open new avenues to investigate the responses of ectotherms to climate warming!
 
-
-
-
-
-
-<p><a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> Take a look at the paper </a></p>
-<p><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try it yourself </a></p>
+> contact me! jg.rubalcaba@gmail.com
