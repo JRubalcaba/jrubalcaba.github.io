@@ -19,7 +19,7 @@ Based on this information, can we estimate the probability of use each microenvi
 
 Using the maximum entropy framework to model behavioural thermoregulation sounds trickier than it is. This is why I'm writting this post (and this <a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> online app </a>).
 
-><p><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try the app! </a></p>
+><p><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try the app online </a></p>
 ><p><a href = "https://www.journals.uchicago.edu/doi/suppl/10.1086/702717/suppl_file/58531data.zip"> Download the R code </a></p>
 
 Imagine that we know the temperature that a small lizard species target in the field (we can just measure body temperature of individuals in the field to know that). Futhermore, we know the operative temperatures of each microhabitat (basking sites, shades and burrows) either because we measured them, or because we have a good biophysical model estimating these temperatures. We ask what is the probability of finding an animal in each site.
