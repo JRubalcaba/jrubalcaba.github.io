@@ -4,14 +4,15 @@ layout: article
 author: Juan G. Rubalcaba
 ---
 
+This posts shows how to use the model published in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">  Rubalcaba et al. 2019 (Am Nat)</a>. I hope it is useful!
+
 Many ectotherms (cold-blooded animals like invertebrates, frogs or lizards) can control body temperature taking advantage of the thermal heterogeneity of their environment, for example, selecting sunny areas early in the morning, or moving to the shade or a burrow when it is warm ourside. It is thought that this capacity for "behavioural thermoregulation" is being critical for ectotherms to buffer the impacts of climate warming.
 
-It is important to measure or model the temperatures that organisms experience in each microhabitat. We use the concept of "operative temperature", defined as the equilibrium temperature of an individual in a microhabitat, to obtain information on the repertoire of microclimates that individuals can use for thermoregulation. 
+It is important to measure or model the temperatures that organisms experience in each microhabitat. We use "operative temperatures", defined as the equilibrium temperature of an individual in a microhabitat, to measure the repertoire of microclimates that individuals use for thermoregulation. 
 
 <img src="/images/posts/bodytemp.jpg">
 
 >The operative temperature is the equilibrium temperature of an individual in a microenvironment, and depends on multiple heat transfer pathways, body size, shape and radiative proprieties of the animal.
-
 
 But knowing the repertoire of operative temperatures is only part of the job. We also need to understand how individuals use these microhabitats to control body temperature throughout the day. For example, if lizards target a preferred temperature of 31ºC and they can select amongst basking sites (operative temperature 37ºC), shaded areas (26ºC) and burrows (21ºC), they will probably move between exposed and shaded areas to maintain body temperature near their preferred value. 
 
