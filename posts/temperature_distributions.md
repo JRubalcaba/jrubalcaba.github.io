@@ -33,6 +33,8 @@ In this case, we are showing a very simplistic example where lambda 0 means equa
 
 What happens if we increase lambda? 
 
+Why is that useful? There are two main questions that we can address with this model. First, when we know the repertoire of operative temperatures, modelling the distribution of body temperatures gives us information about what is the probability that animals experience, for example, temperatures above their heat tolerance limits. 
+
 
 
 
