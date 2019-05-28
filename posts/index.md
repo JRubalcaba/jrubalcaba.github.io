@@ -11,8 +11,8 @@ image:
 <div class="tile">
   <h2 class="post-title"> <a href="/posts/temperature_distributions"> 
   <img src="/images/posts/lizard.jpg"/>
-  Modelling temperature distributions from climatic data </a></h2>
-  <p class="post-excerpt"> An information-theoretical model to predict body temperature of ectotherms from microclimatic data </p>
+  Modelling temperature of ectotherms from climatic data </a></h2>
+  This posts shows how to use the model published in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, *Am Nat*)</a> with a little interactive example. I hope it is useful!
 </div><!-- /.tile -->
 
 <div class="tile">
