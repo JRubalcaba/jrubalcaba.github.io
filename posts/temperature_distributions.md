@@ -1,6 +1,7 @@
 ---
 title: "Modelling body temperature of ectotherms"
 layout: article
+author: Juan G. Rubalcaba
 ---
 
 Many ectotherms (cold-blooded animals like invertebrates, frogs or lizards) can exploit the heterogeneity of their environment 
@@ -38,6 +39,5 @@ Why is that useful? There are two main questions that we can address with this m
 
 Second, in the paper we show how to contrast predicted distributions with observed body temperature data. With this information, we can derive the actual value of lambda (the thermoregulatory strategy) displayed by our population. This measure informs about the potential of behaviour to buffer climate change. 
 
-There are still a lot of questions that we can address and (honestly) I have no idea how the model behaves under different circumstances. I hope it can provide insights for new studies and open new avenues to investigate the responses of ectotherms to climate warming!
+There are still a lot of questions that we can address and (honestly) I have no idea how the model will behave with other species / different sites / different planets (it would be cool to try this). I hope this paper opens new avenues to investigate the responses of ectotherms to climate warming!
 
-> contact me! jg.rubalcaba@gmail.com
