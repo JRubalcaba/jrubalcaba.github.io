@@ -26,7 +26,7 @@ Imagine that we know the temperature that a small lizard species targets in the 
 
 <img src="/images/posts/Tbdistributions/inputs.jpg">
 
-We may also need to know if they really care about experiencing body temperatures away from their preferred temperature and how much variation are they willing to accept. If we talk about lizards, we know that many species are actually very good at controlling body temperature, while others act as thermoconformers. We therfore need a way to quantify *how much thermoregulator* is our species. This is what parameter *lambda* tells us. Although *lambda* can take any real value, we will just focus on lambda equal or lower than 0. When equal to 0, there will be no constraint on the allocation of individuals among microhabitats and thus they will be distributed randomly:
+We may also need to know "how much they care" about experiencing body temperatures away from their preferred temperature, and how much variation are they willing to accept. If we talk about lizards, we know that many species are actually very good at controlling body temperature, while others act as thermoconformers. We therfore need a way to quantify *how much thermoregulator* is our species. This is what parameter *lambda* tells us. Although *lambda* can take any real value, we will just focus on lambda equal or lower than 0. When equal to 0, there will be no constraint on the allocation of individuals among microhabitats and thus they will be distributed randomly:
 
 <img src="/images/posts/Tbdistributions/lambda0.jpg">
 
