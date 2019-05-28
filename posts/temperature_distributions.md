@@ -15,14 +15,14 @@ It is important to measure or model the temperatures that organisms experience i
 
 But knowing the repertoire of operative temperatures is only part of the job. We also need to understand how individuals use these microhabitats to control body temperature throughout the day. For example, if lizards target a preferred temperature of 31ºC and they can select amongst basking sites (operative temperature 37ºC), shaded areas (26ºC) and burrows (21ºC), they will probably move between exposed and shaded areas to maintain body temperature near their preferred value. 
 
-Based on this information, can we estimate the probability of use each microenvironment? and beyond that, can we model the probability distribution of body temperatures that individuals experience when moving among microhabitats? This is what we aimed <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> here </a>, applying the maximum entropy framework, a procedure to derive statistical distributions when we know little about the rules governing the behaviour of the system. 
+Can we estimate the probability of use each microenvironment based on this information? and beyond that, can we model the probability distribution of body temperatures that individuals experience when moving among microhabitats? This is what we aimed <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> here </a>, applying the maximum entropy framework, a procedure to derive statistical distributions when we know little about the rules governing the behaviour of the system. 
 
 Using the maximum entropy framework to model behavioural thermoregulation sounds trickier than it is. This is why I'm writting this post (and this <a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> online app </a>).
 
 ><p><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try the app online </a></p>
 ><p><a href = "https://www.journals.uchicago.edu/doi/suppl/10.1086/702717/suppl_file/58531data.zip"> Download the R code </a></p>
 
-Imagine that we know the temperature that a small lizard species target in the field (we can just measure body temperature of individuals in the field to know that). Futhermore, we know the operative temperatures of each microhabitat (basking sites, shades and burrows) either because we measured them, or because we have a good biophysical model estimating these temperatures. We ask what is the probability of finding an animal in each site.
+Imagine that we know the temperature that a small lizard species targets in the field (we can just measure body temperature of individuals in the field to know that). Futhermore, we know the operative temperatures of each microhabitat (basking sites, shades and burrows) either because we measured them, or because we have a good biophysical model estimating these temperatures. We ask what is the probability of finding an animal in each site.
 
 <img src="/images/posts/Tbdistributions/inputs.jpg">
 
