@@ -71,3 +71,5 @@ Por supuesto el DIC no está exento de críticas. En concreto, el sistema por el
 
 En resumen, el DIC se puede entender como una generalización de AIC y BIC que relaja la asunciones de independencia y certidumbre de los parámetros. El DIC hace una búsqueda del modelo verdadero implementando técnicas de MCMC que aportan una visión más completa de las propiedades de los modelos estadísticos.
 
+Juan G. Rubalcaba
+
