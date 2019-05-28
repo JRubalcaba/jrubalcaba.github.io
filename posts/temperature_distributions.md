@@ -41,3 +41,4 @@ Second, in the paper we show how to contrast predicted distributions with observ
 
 There are still a lot of questions that we can address and (honestly) I have no idea how the model will behave with other species / different sites / different planets (it would be cool to try this). I hope this paper provides new insights into the responses of ectotherms to climate warming!
 
+Juan G. Rubalcaba
