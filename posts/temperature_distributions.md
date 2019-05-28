@@ -19,6 +19,24 @@ But can we actually estimate this probability? and beyond that, can we model the
 
 Using the maximum entropy framework to model behavioural thermoregulation sounds trickier than it is. This is why I'm writting this post (and this <a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> online app </a>).
 
+>><a href = "https://jrubalcaba.shinyapps.io/jrubalcabagithub/" target="_blank"> Try the app! </a>
+
+Imagine that we know the temperature that individuals of a small lizard species target in the field (we can get this information by just measuring body temperature of individuals in the field at any time). Futhermore, we know the operative temperatures of each microhabitat (basking sites, shades and burrows) either because we measured them, or because we have a good mathematical model estimating these temperatures. We ask what is the probability of finding an animal in each site.
+
+FOTO DE INPUTS
+
+A question would be *do they really care about having body temperatures that are not exactly equal to their preferred temperature?* If we talk about lizards, we know that many species are actually very good at thermoregulating behaviourally, but others act as thermoconformers. We therfore need a way to quantify *how much thermoreconformer* is our species. This is what parameter *lambda* tells us. Although *lambda* can take any real value, we will just focus on lambda equal or lower than 0. When equal to 0, there will be no constraint on the allocation of individuals among microhabitats and thus they will be distributed randomly:
+
+FOTO LAMBDA 0
+
+In this case, we are showing a very simplistic example where lambda 0 means equal probability of sun, shade or burrow. But when individuals are randomly allocated they must sample the actual proportion of sunny areas, shades and burrows. The relative frequencies of microhabitats are prior probabilities in the model (here we assume a flat prior) and actually a topic for a further post. 
+
+What happens if we increase lambda? 
+
+
+
+
+
 
 
 
