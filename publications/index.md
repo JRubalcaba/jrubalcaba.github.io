@@ -11,7 +11,7 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
-    <a href=""> <img src="/images/bio-photo.jpg" height="100px" width="75px" /></a>
+    <a href=""> <img src="/images/jcovers/JORN.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
     Fuentes, D., <b>Rubalcaba, J.G.</b>, Veiga, J.P., Polo, V. (in press). Long-term fitness consequences of breeding density in    starling colonies: an observational approach. <i>Journal of Ornithology</i>.
