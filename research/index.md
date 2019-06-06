@@ -10,6 +10,6 @@ image:
 
 ---
 
-Can we explain patterns in biology by looking at simple mechanisms, physical processes, physiological constraints and biological principles? I think we can, but understanding how physiology, behaviour and ecological interactions scale across levels of biological complexity 
+**Can we explain complex patterns in biology by just looking at the physical and physiological mechanisms that determine how organisms interact with their environment and with other organisms? The answer to this question is not trivial and actually requires ecologists to develop novel theory capable of integrating research areas with contrasted approahces and traditions such as physics, physiology and ecology.**
 
 
