@@ -25,6 +25,6 @@ I develop mechanistic models based on physical processes (heat and mass transfer
 </figure>
 
 
-**Sexual selection, demography and the evolution of behaviour in birds**
+**Sexual selection, demography and the evolution of animal behaviour**
 
 
