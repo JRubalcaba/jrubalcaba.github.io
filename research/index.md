@@ -17,7 +17,7 @@ In macroecology and macrophysiology, we investigate the causes of broad-scale ec
 
 <figure class = "half">
   <div align = "left"> 
-    <img src="/images/maps.jpg" height="400px" > 
+    <img src="/images/maps.jpg" height="100px" > 
   </div>
   <div align = "left"> 
 I develop mechanistic models based on physical processes (heat and mass transfer) to understand how organisms interact with their   environment and then scale-up these calculations to generate predictions at broad spatial scales. For example, undertanding how body size and shape of cold-blooded animals determine body temperature and evaporative water loss, allows understanding why many lizards are smaller at warm latitudes or why amphibians are bigger in dry regions. 
