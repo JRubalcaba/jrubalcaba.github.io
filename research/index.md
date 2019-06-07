@@ -22,7 +22,7 @@ In macroecology and macrophysiology, we investigate the causes of broad-scale ec
 
 <img src="/images/maps.jpg" height="370px" width="400px"> 
 <figcaption>Body size and thermoregulatory accuracy of dry- and wet-skinned ectotherms.
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893">Rubalcaba et al. (2019).</figcaption>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893">Rubalcaba et al. (2019)</a>.</figcaption>
   
 </figure>
 
