@@ -11,6 +11,10 @@ image:
 ---
 
 <div class = "row">
+<b>Can we explain complex patterns in biology by just looking at the physical, physiological and behavioural mechanisms determining organism-environment and organism-organism interactions?</b> The answer to this question is not trivial, we need to develop novel theory and integrate different research areas with contrasted approahces and traditions such as physics, physiology and ecology. In my work, I combine theory and data to understand broad patterns in ecology and evolution from first physical principles, physiological constraints and behavioural processes.
+</div>
+
+<div class = "row">
   <div class = "column"> 
     <img src="/images/maps.jpg" height="370px" width="400px"> 
   </div>
@@ -22,4 +26,9 @@ image:
 
   </div>
 </div>
+
+
+
+**Sexual selection, demography and the evolution of animal behaviour**
+
 
