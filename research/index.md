@@ -15,7 +15,7 @@ image:
 **The role of physiology and behaviour in determining broad-scale ecological patterns**
 <figure class = "half">
   <div align = "left"> 
-    <img src="/images/maps.jpg" height="370px" width="400px"> 
+    <img src="/images/maps.jpg" height="100px" width="75px"> 
   </div>
   <div align = "left"> 
 
