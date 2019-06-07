@@ -18,11 +18,12 @@ In macroecology and macrophysiology, we investigate the causes of broad-scale ec
 
 <figure class="half">
   
-<p>I develop mechanistic models based on physical processes (heat and mass transfer) to understand how organisms interact with their   environment and then scale-up these calculations to generate predictions at broad spatial scales. For example, undertanding how body size and shape of cold-blooded animals determine body temperature and evaporative water loss, allows understanding why many lizards are smaller at warm latitudes or why amphibians are bigger in dry regions.</p>
+I develop mechanistic models based on physical processes (heat and mass transfer) to understand how organisms interact with their   environment and then scale-up these calculations to generate predictions at broad spatial scales. For example, undertanding how body size and shape of cold-blooded animals determine body temperature and evaporative water loss, allows understanding why many lizards are smaller at warm latitudes or why amphibians are bigger in dry regions.
 
 <img src="/images/maps.jpg" height="370px" width="400px"> 
 <figcaption>Body size and thermoregulatory accuracy of dry- and wet-skinned ectotherms.
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893">Rubalcaba et al. (2019)</a>.</figcaption>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893">Rubalcaba et al. (2019)</a>
+</figcaption>
   
 </figure>
 
