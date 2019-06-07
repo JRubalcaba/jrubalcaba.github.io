@@ -14,7 +14,7 @@ image:
 
 <h3>The role of physiology and behaviour in determining broad-scale ecological patterns</h3>
 
-<figure class="half">
+<figure class="third">
   
 <p>In macroecology and macrophysiology, we investigate the causes of broad-scale ecological patterns such as the latitudinal gradient of species richenss (with greater richness at lower latitudes), latitudinal gradients of body size (the Bergmann's rule), or the latitudinal variation in physiological traits of organisms living in warm or cold regions. Understanding the mechanisms causing these variety of patterns is important to forecast how organisms will respond to environmental and climate change.</p>
 
