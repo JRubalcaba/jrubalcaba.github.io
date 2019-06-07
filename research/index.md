@@ -14,7 +14,7 @@ image:
 
 
 
-<h3>The role of physiology and behaviour in determining broad-scale ecological patterns</h3>
+<h3>Mechanisms of broad-scale ecological patterns</h3>
 
 <figure class = "half">
 <img src="/images/maps.jpg" height="370px" width="400px"> 
