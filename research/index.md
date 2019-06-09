@@ -18,7 +18,6 @@ image:
 
 <figure class = "half">
 <img src="/images/maps.jpg" height="370px" width="400px"> 
-<figcaption> From <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12893"> Rubalcaba et al. (2019) </a> </figcaption>
 
 <p>In macroecology and macrophysiology, we investigate the causes of broad-scale ecological patterns such as the latitudinal diversity gradient (species richness decreases with increasing latitude), latitudinal gradients of body size (the Bergmann's rule), or the latitudinal variation in physiological traits of organisms living in warm or cold regions. Understanding the mechanisms causing these variety of patterns is important to forecast how organisms will respond to environmental and climate change.</p>
 
@@ -30,7 +29,6 @@ image:
 
 <figure class = "half">
 <img src="/images/tree.jpg" height="370px" width="400px"> 
-<figcaption> From <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12893"> Rubalcaba et al. (2016) </a> </figcaption>
 
 <p>The evolution</p>
 
