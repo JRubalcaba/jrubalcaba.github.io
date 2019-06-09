@@ -30,7 +30,9 @@ image:
 <figure class = "half">
 <img src="/images/tree.jpg" height="370px" width="400px"> 
 
-<p>The evolution</p>
+<p> Individual behaviour and collective patterns arising from conspecific interactions are the result of an evolutionary history that involves selective forces such as natural and sexual selection. For example, many animals display elaborated behaviours during reproduction to attract the opposite sex or signal their condition to competitors. Understanding the ultimate causes of these behaviours is often challeging as they arise from a complex interplay between natural and sexual selection. </p>
+
+<p> In my work, I try to undertand the mechanisms underpining animal behaviour  </p>
 
 </figure>
 
