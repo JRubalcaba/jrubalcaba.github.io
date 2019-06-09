@@ -12,7 +12,7 @@ image:
 
 **Can we explain the patterns that we observe in biology by looking at simple mechanisms underpinning organism-environment and organism-organism interactions?** The answer to this question is not trivial. In biology, we need to develop theory that integrates different research areas with contrasted approahces and traditions such as physics, physiology and ecology. In my work, I combine theory and data to understand the ecological and evolutionary mechanisms underpining animal behaviour and the emergence of broad-scale ecological patterns.
 
-<h4> Physical, physiological and behavioural mechanisms to explain broad-scale ecological patterns </h4>
+<h4> Physical, physiological and behavioural processes to explain broad-scale ecological patterns </h4>
 
 <figure class = "half">
 <img src="/images/maps.jpg" height="370px" width="400px"> 
@@ -23,12 +23,12 @@ image:
 
 </figure>
 
-<h4>Sexual selection, demography and the evolution of animal behaviour</h4>
+<h4> Natural and sexual selection in the evolution of animal behaviour </h4>
 
 <figure class = "half">
 <img src="/images/tree.jpg" height="370px" width="400px"> 
 
-<p> Individual behaviour and collective patterns arising from conspecific interactions are the result of an evolutionary history that involves selective forces such as natural and sexual selection. For example, many animals display elaborated behaviours during reproduction to attract the opposite sex or signal their condition to competitors. Understanding the ultimate causes of these behaviours is often challeging as they arise from a complex interplay between natural and sexual selection. </p>
+<p>Animal behaviour, life history and morphology is not only the result of current ecological factors but also historical proccesses involving evolutionary forces such as natural and sexual selection. For example, many animals display elaborated behaviours during reproduction to attract the opposite sex or signal their condition to competitors. Understanding the ultimate causes of these behaviours is often challeging as they arise from a complex interplay between natural and sexual selection. </p>
 
 <p> In my work, I try to undertand the mechanisms underpining animal behaviour by looking at both the ecological factors that influence behavioural displays and the evolutionary history of specific behaviours.  </p>
 
