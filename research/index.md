@@ -30,7 +30,7 @@ image:
 
 <p>Animal behaviour, life history and morphology is not only the result of current ecological factors but also historical proccesses involving evolutionary forces such as natural and sexual selection. For example, many animals display elaborated behaviours during reproduction to attract the opposite sex or signal their condition to competitors. Understanding the ultimate causes of these behaviours is often challeging as they arise from a complex interplay between natural and sexual selection. </p>
 
-<p> In my work, I try to undertand the mechanisms underpining animal behaviour by looking at both the ecological factors that influence behavioural displays and the evolutionary history of specific behaviours.  </p>
+<p> I investigate the ultimate causes of life history traits, reproductive decissions and sexual behaviours by looking at both the ecological factors that influence behavioural displays and the evolutionary history of specific behaviours.  </p>
 
 </figure>
 
