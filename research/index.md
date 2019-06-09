@@ -30,6 +30,7 @@ image:
 
 <figure class = "half">
 <img src="/images/tree.jpg" height="370px" width="400px"> 
+<figcaption> From <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12893"> Rubalcaba et al. (2016) </a> </figcaption>
 
 <p>The evolution</p>
 
