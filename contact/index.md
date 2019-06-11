@@ -14,6 +14,8 @@ image:
   <h2 class="post-title">Currently at</h2>
 
     University of Montana 
+    
+    Division of Biological Sciences
     32 Campus Dr, Missoula, MT 59812 
     
     
