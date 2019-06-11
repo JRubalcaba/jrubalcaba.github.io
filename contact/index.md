@@ -11,12 +11,11 @@ image:
 <img src="../images/jr.jpg" width="250px"  />
   </div>
 <div class="tile">
-  <h2 class="post-title">Currently at</h2>
 
-    University of Montana 
+University of Montana 
     
-    Division of Biological Sciences
-    32 Campus Dr, Missoula, MT 59812 
+Division of Biological Sciences
+32 Campus Dr, Missoula, MT 59812 
     
-    
-    jg.rubalcaba@gmail.com
+jg.rubalcaba@gmail.com
+  </div>
