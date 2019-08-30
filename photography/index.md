@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Contact"
+title: "Photography"
 #excerpt: ""
 tags: []
 image:
