@@ -6,7 +6,7 @@ output:
   pdf_document: home
 tags: []
 image:
-  feature: mtkenya.jpg
+  feature: Mpala.jpg
 
 ---
 
