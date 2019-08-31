@@ -4,7 +4,7 @@ title: "Blog"
 #excerpt: ""
 tags: []
 image:
-  feature: mtkenya.jpg
+  feature: mpgranch.jpg
 ---
 <div class="titles">
 
