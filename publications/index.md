@@ -6,7 +6,7 @@ output:
   pdf_document: home
 tags: []
 image:
-  feature: mtkenya.jpg
+  feature: lakemontana.jpg
 ---
 
 <figure class = "third">
