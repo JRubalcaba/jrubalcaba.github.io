@@ -9,7 +9,6 @@ image:
 
 <div class="title">
   <a href="/research/">
-    <h2 class="post-title">The life of a postdoc</h2>
-    <p class="post-excerpt">interested in ecological modeling, statistics and computing</p>
+    I am an ecologist interested in ecological modeling, computing and simulation of natural processes across ecological scales.
   </a>
 </div>
