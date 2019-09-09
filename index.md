@@ -9,8 +9,8 @@ image:
 
 <div class="title">
   <a href="/research/">
-    <p>
+    <h2>
     I am an ecologist interested in ecological modeling, computing and simulation of natural processes across ecological scales.
-    </p>
+    </h2>
   </a>
 </div>
