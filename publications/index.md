@@ -108,7 +108,7 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
-  <a href="/publications/TESIS DOCTORAL Juan G Rubalcaba.pdf"> <img src="/images/jcovers/thesis.gif" height="100px" width="75px" /></a>                                                                                                                                        </div>
+  <a href="/publications/JGR_Thesis.pdf"> <img src="/images/jcovers/thesis.gif" height="100px" width="75px" /></a>                          </div>
    <div align = "left">                                                                                                                      <b>Rubalcaba, J.G.</b> (2017). PhD Thesis. Sexual asymmetry of avian life histories: a comparative study in Sturnidae, and  experimental and theoretical approaches in the polygynous spotless starling.
     </div>
 </figure>
