@@ -12,10 +12,12 @@ image:
   </div>
 <div class="tile">
 
-University of Montana 
+<p> McGill University </p> 
     
-Division of Biological Sciences
-32 Campus Dr, Missoula, MT 59812 
+<p> Stewart Biology Building
+  Room N 4/17
+1205 Docteur Penfield
+Montreal, Quebec Canada H3A 1B1 </p>
     
 jg.rubalcaba@gmail.com
   </div>
