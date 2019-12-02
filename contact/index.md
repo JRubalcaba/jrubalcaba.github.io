@@ -14,7 +14,7 @@ image:
 
 <h4> Juan G. Rubalcaba </h4> 
 <p> jg.rubalcaba@gmail.com  </p>
-<p> McGill University 
+<p> Marie-Curie Fellow at McGill University, 
 Stewart Biology Building </p>
 <p> Room N 4/17 </p>
 1205 Docteur Penfield
