@@ -11,6 +11,17 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
+    <a href="..."> <img src="..." height="100px" width="75px" /></a>
+  </div>
+  <div align = "left"> 
+    <b>Rubalcaba, J.G.</b>, Olalla-Tárraga, M.Á. (Accepted). The biogeography of thermal risk for terrestrial ectotherms: scaling of thermal sensitivity with body size and latitude. <i>Journal of Animal Ecology </i>.
+  </div>
+</figure>
+
+<!---><!--->
+
+<figure class = "third">
+  <div align = "center"> 
     <a href="https://link.springer.com/article/10.1007/s10336-019-01674-7"> <img src="/images/jcovers/JORN.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
