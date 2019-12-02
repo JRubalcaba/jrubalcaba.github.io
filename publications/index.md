@@ -11,7 +11,7 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
-    <a href="..."> <img src="..." height="100px" width="75px" /></a>
+    <a href="..."> <img src="/images/bio-photo.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
     <b>Rubalcaba, J.G.</b>, Olalla-Tárraga, M.Á. (Accepted). The biogeography of thermal risk for terrestrial ectotherms: scaling of thermal sensitivity with body size and latitude. <i>Journal of Animal Ecology </i>.
