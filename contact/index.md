@@ -14,8 +14,8 @@ image:
 
 <p> McGill University </p> 
     
-<p> Stewart Biology Building
-  Room N 4/17
+<p> Stewart Biology Building </p>
+<p> Room N 4/17 </p>
 1205 Docteur Penfield
 Montreal, Quebec Canada H3A 1B1 </p>
     
