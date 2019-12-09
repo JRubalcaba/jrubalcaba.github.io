@@ -18,10 +18,9 @@ image:
 <figure class = "half">
 <img src="/images/SCALE.jpg" height="370px" width="400px"> 
 
-<p> Macroecology and macrophysiology investigate the causes of broad-scale ecological patterns such as the latitudinal diversity gradient (species richness decreases from the tropics to the poles), latitudinal gradients of body size (the Bergmann's rule), or the latitudinal variation in physiological traits of organisms living in warm or cold regions. We need to understand these mechanisms 
-to develop models capable of predicting the organismal responses to climate change.</p>
-
-<p>SCALE is a Marie-Curie funded project that combines biophysical modeling (heat and mass transfer), biogeography and macrophysiology to investigate the mechanisms underpinning broad-scale patterns in macroecology and their responses to climate change. </p>
+<p>Realistic projections of the biological impacts of climate change require a unified framework capable of integrating advances from distinct research areas such as ecophysiology, behavioural ecology, and biogeography. Mechanistic modelling in macroecology arises as a promising framework to address this challenge, because it aims at describing biodiversity patterns from biophysical, physiological, and behavioural processes determining the way organisms interact with their environment. Nonetheless, mechanistic modelling face further challenges such as the need to connect processes across scales and levels of ecological organization: e.g., to assess the impacts of individual-environment interactions into population and community structure.</p>
+<p>SCALE is a Marie-Curie funded project that investigates how organismal-microclimate interactions influence broad-scale patterns and thermal adaptations of ectotherms, a group that is especially vulnerable to global change, across climatic gradients.</p>
+<p>The project brings together three researchers with backgrounds in evolutionary ecology and modelling (Juan G. Rubalcaba, postdoctoral fellow), and macroecology (Jennifer Sunday, supervisor at McGill University, Montreal) and Miguel Á. Ollala-Tárraga (supervisor at Rey Juan Carlos University, Madrid).</p>
 
 </figure>
 
@@ -33,6 +32,9 @@ to develop models capable of predicting the organismal responses to climate chan
 <p> 
   
 </p>
+
+<p> Macroecology and macrophysiology investigate the causes of broad-scale ecological patterns such as the latitudinal diversity gradient (species richness decreases from the tropics to the poles), latitudinal gradients of body size (the Bergmann's rule), or the latitudinal variation in physiological traits of organisms living in warm or cold regions. We need to understand these mechanisms 
+to develop models capable of predicting the organismal responses to climate change.</p>
 
 <p>I develop mechanistic models based on physical processes (heat and mass transfer) to understand how organisms interact with their   environment and then scale-up these calculations to generate predictions at broad spatial scales. For example, undertanding how body size and shape of cold-blooded animals determine body temperature and evaporative water loss, allows understanding why many lizards are smaller at warm latitudes or why amphibians are bigger in dry regions.</p>
 
