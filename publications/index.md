@@ -69,7 +69,7 @@ image:
     <a href="https://academic.oup.com/auk/article-abstract/135/3/400/5148873?redirectedFrom=fulltext"> <img src="/images/jcovers/AUK.gif" height="100px" width="75px" /></a> 
   </div>
   <div align = "left">   
-    <b>Rubalcaba, J. G.</b>, & Polo, V. (2018). Sex differences in early determinants of lifetime reproductive success inGEB.pnga polygynous bird: Should mothers adjust offspring sex ratios?. <i>The Auk</i>, 135, 400-408. DOI: 10.1642/AUK-17-227.1.
+    <b>Rubalcaba, J. G.</b>, & Polo, V. (2018). Sex differences in early determinants of lifetime reproductive success in a polygynous bird: Should mothers adjust offspring sex ratios?. <i>The Auk</i>, 135, 400-408. DOI: 10.1642/AUK-17-227.1.
   </div>
 </figure>
 
