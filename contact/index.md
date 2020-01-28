@@ -6,6 +6,7 @@ tags: []
 image:
   feature: mtkenya.jpg
 ---
+
 <div class="tiles">
 <div class="tile">
 <img src="../images/jr.jpg" height="300px" width="500px"/>
