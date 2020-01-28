@@ -1,6 +1,10 @@
 ---
+title: "Home"
 layout: home
 permalink: /
+#excerpt: 
+  html_document: home
+  pdf_document: home
 image:
   feature: mtkenya.jpg
 ---
