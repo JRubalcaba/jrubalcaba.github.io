@@ -9,19 +9,18 @@ image:
   feature: lakemontana.jpg
 ---
 
-<div class="tiles">
-
-<img src="../images/jr.jpg" height="300px" width="500px"/>
-
-<div class="tile">
-
-<h4> Juan G. Rubalcaba </h4> 
-<p> jg.rubalcaba@gmail.com  </p>
-<p> Marie-Curie Fellow at McGill University, 
-Stewart Biology Building, 
-Room N 4/17 </p>
-1205 Docteur Penfield
-Montreal, Quebec, Canada H3A 1B1.
-
-</div>
-</div>
+<figure class = "third">
+  <div align = "center"> 
+    <img src="../images/jr.jpg" height="300px" width="500px"/>
+  </div>
+  <div align = "left"> 
+    
+  <h4> Juan G. Rubalcaba </h4> 
+    <p> jg.rubalcaba@gmail.com  </p>
+    <p> Marie-Curie Fellow at McGill University, 
+    Stewart Biology Building, 
+    Room N 4/17 </p>
+    1205 Docteur Penfield
+    Montreal, Quebec, Canada H3A 1B1.
+  </div>
+</figure>
