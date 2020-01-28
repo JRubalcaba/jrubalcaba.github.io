@@ -20,6 +20,6 @@ image:
     <p> Marie-Curie Fellow at McGill University, 
     Stewart Biology Building, 
     Room N 4/17, 1205 Docteur Penfield
-    Montreal, Quebec, Canada H3A 1B1.
+    Montreal, Quebec, Canada H3A 1B1. </p>
   </div>
 </figure>
