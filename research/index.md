@@ -10,8 +10,7 @@ image:
 
 ---
 
-**Can we explain patterns in ecology by looking at simple mechanisms underpinning organism-environment and organism-organism interactions?** The answer is not trivial. In biology, we need to develop theory that integrates different research areas with contrasted approahces and traditions such as physics, physiology and ecology. In my work, I combine theory and data to understand the ecological and evolutionary mechanisms underpining animal behaviour and the emergence of broad-scale ecological patterns.
-
+**Can we explain patterns in ecology by looking at simple mechanisms underpinning organism-environment and organism-organism interactions?** The answer is not trivial. In biology, we need to develop theory that integrates different research areas with contrasted approahces and traditions such as physics, physiology and ecology. I combine theory and data to understand the ecological and evolutionary mechanisms underpining animal behaviour and the emergence of broad-scale ecological patterns.
 
 <h4> Projecting global biodiversity responses from first biological principles (SCALE) </h4>
 
