@@ -12,7 +12,7 @@ image:
 <div class="tiles">
 <div class="tile">
 <img src="../images/jr.jpg" height="300px" width="500px"/>
-  </div>
+</div>
 <div class="tile">
 
 <h4> Juan G. Rubalcaba </h4> 
