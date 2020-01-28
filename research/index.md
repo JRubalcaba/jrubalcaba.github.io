@@ -24,19 +24,14 @@ image:
 
 </figure>
 
-<h4> Connecting ecological processes across scales </h4>
+<h4> The biophysics of body size and climate </h4>
 
 <figure class = "half">
 <img src="/images/maps.jpg" height="370px" width="400px"> 
 
-<p> 
-  
-</p>
+<p> Body size is the most important variable determining how animals interact with their environment, modulating their physiology, metabolism, behaviour, and life history. Most of these traits scale with size following specific "allometric rules" governed by physical processes such as the exchange of energy (heat) and mass (water, oxygen, or nutrients) between the animal and its environment. Although this may sound purely theoretical, it is actually critical to understand these processes to explain, for example, why many organisms are smaller in warmer areas, and why many animals are shrinking body size in response to climate warming. </p>
 
-<p> Macroecology and macrophysiology investigate the causes of broad-scale ecological patterns such as the latitudinal diversity gradient (species richness decreases from the tropics to the poles), latitudinal gradients of body size (the Bergmann's rule), or the latitudinal variation in physiological traits of organisms living in warm or cold regions. We need to understand these mechanisms 
-to develop models capable of predicting the organismal responses to climate change.</p>
-
-<p>I develop mechanistic models based on physical processes (heat and mass transfer) to understand how organisms interact with their   environment and then scale-up these calculations to generate predictions at broad spatial scales. For example, undertanding how body size and shape of cold-blooded animals determine body temperature and evaporative water loss, allows understanding why many lizards are smaller at warm latitudes or why amphibians are bigger in dry regions.</p>
+<p>I use biophysical models that describe how animals exchange heat and mass with their environment trying to understand the interaction between body size and climate in animals. </p>
 
 </figure>
 
@@ -45,9 +40,8 @@ to develop models capable of predicting the organismal responses to climate chan
 <figure class = "half">
 <img src="/images/tree.jpg" height="370px" width="400px"> 
 
-<p>Animal behaviour, life history and morphology are not only the result of current ecological factors but also historical proccesses involving evolutionary forces such as natural and sexual selection. For example, many animals display elaborated behaviours during reproduction to attract the opposite sex or signal their condition to competitors. Understanding the ultimate causes of these behaviours is often challeging as they arise from a complex interplay between natural and sexual selection. </p>
+<p>Animal behaviour, life history and morphology are not only the result of current ecological factors but also historical proccesses involving evolutionary forces such as natural and sexual selection. For example, many animals display elaborated behaviours during reproduction either to attract the opposite sex, or signal their condition to competitors. Understanding the ultimate causes of these behaviours is often challeging as they arise from a complex interplay between natural and sexual selection. </p>
 
-<p> I investigate the ultimate causes of life history traits, reproductive decissions and sexual behaviours by looking at both the ecological factors that influence behavioural displays and the evolutionary history of specific behaviours.</p>
+<p> I investigate the ultimate causes of life history traits, reproductive decissions and sexual behaviours by looking at both the ecological factors that influence behavioural displays, and the evolutionary history of specific behaviours.</p>
 
 </figure>
-
