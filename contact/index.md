@@ -1,7 +1,9 @@
 ---
-layout: home
 title: "Contact"
-#excerpt: ""
+layout: home
+#excerpt: 
+  html_document: home
+  pdf_document: home
 tags: []
 image:
   feature: mtkenya.jpg
