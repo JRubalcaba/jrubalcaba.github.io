@@ -1,12 +1,12 @@
 ---
 title: "Home"
 layout: home
-permalink: /
-#excerpt: 
+output:
   html_document: home
   pdf_document: home
+tags: []
 image:
-  feature: mtkenya.jpg
+  feature: lakemontana.jpg
 ---
 
 <div class="tiles">
