@@ -24,12 +24,20 @@ image:
 
 </figure>
 
+<<<<<<< HEAD
 <h4> The biophysics of body size and climate </h4>
+=======
+<h4> Biophysics of body size and climate </h4>
+>>>>>>> 9541f79d2c096ec44756b1fb8f732eaaa68d30dc
 
 <figure class = "half">
 <img src="/images/maps.jpg" height="370px" width="400px"> 
 
+<<<<<<< HEAD
 <p> Body size is the most important variable determining how animals interact with their environment, modulating their physiology, metabolism, behaviour, and life history. Most of these traits scale with size following specific "allometric rules" governed by physical processes such as the exchange of energy (heat) and mass (water, oxygen, or nutrients) between the animal and its environment. Although this may sound purely theoretical, it is actually critical to understand these processes to explain, for example, why many organisms are smaller in warmer areas, and why many animals are shrinking body size in response to climate warming. </p>
+=======
+<p> Body size is the most important variable determining how animals interact with their environment, and thus it modulates their physiology, metabolism, behaviour, and life history. Most of these traits scale with size following specific "allometric rules" governed by physical processes such as the exchange of energy (heat) and mass (water, oxygen, or nutrients) between the animal and its environment. Although this may sound purely theoretical, it is actually critical to understand these processes to explain, for example, why many organisms are smaller in warmer areas, and why many animals are shrinking body size in response to climate warming. </p>
+>>>>>>> 9541f79d2c096ec44756b1fb8f732eaaa68d30dc
 
 <p>I use biophysical models that describe how animals exchange heat and mass with their environment trying to understand the interaction between body size and climate in animals. </p>
 
@@ -44,4 +52,4 @@ image:
 
 <p> I investigate the ultimate causes of life history traits, reproductive decissions and sexual behaviours by looking at both the ecological factors that influence behavioural displays, and the evolutionary history of specific behaviours.</p>
 
-</figure>
+</figure> 
