@@ -9,7 +9,7 @@ image:
   feature: lakemontana.jpg
 ---
 
-<figure class = "half">
+<figure class = "third">
   <div align = "left"> 
     <img src="../images/jr.jpg" height="300px" width="500px"/>
   </div>
