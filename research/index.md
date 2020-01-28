@@ -10,8 +10,7 @@ image:
 
 ---
 
-**Can we explain patterns in ecology by looking at simple mechanisms underpinning organism-environment and organism-organism interactions?** The answer is not trivial. In biology, we need to develop theory that integrates different research areas with contrasted approahces and traditions such as physics, physiology and ecology. In my work, I combine theory and data to understand the ecological and evolutionary mechanisms underpining animal behaviour and the emergence of broad-scale ecological patterns.
-
+**Can we explain patterns in ecology by looking at simple mechanisms underpinning organism-environment and organism-organism interactions?** The answer is not trivial. In biology, we need to develop theory that integrates different research areas with contrasted approahces and traditions such as physics, physiology and ecology. I combine theory and data to understand the ecological and evolutionary mechanisms underpining animal behaviour and the emergence of broad-scale ecological patterns.
 
 <h4> Projecting global biodiversity responses from first biological principles (SCALE) </h4>
 
@@ -30,7 +29,7 @@ image:
 
 <p> Body size is the most important variable determining how animals interact with their environment, modulating their physiology, metabolism, behaviour, and life history. Most of these traits scale with size following specific "allometric rules" governed by physical processes such as the exchange of energy (heat) and mass (water, oxygen, or nutrients) between the animal and its environment. Although this may sound purely theoretical, it is actually critical to understand these processes to explain, for example, why many organisms are smaller in warmer areas, and why many animals are shrinking body size in response to climate warming. </p>
 
-<p>I use biophysical models that describe how animals exchange heat and mass with their environment trying to understand the interaction between body size and climate in animals. </p>
+<p>I use biophysical models that describe how animals exchange heat and mass with their environments. I use these models to predict how body size determines body temperature of lizards, water loss in amphibians, or the dynamics of oxygen demand and supply in aquatic ectotherms such as fish. </p>
 
 </figure> 
 
