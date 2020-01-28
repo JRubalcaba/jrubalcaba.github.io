@@ -5,13 +5,18 @@
   excerpt: 
   image:
   
+- title: Publications
+  url: /publications/
+  excerpt:
+  image:
+  
 - title: Blog
   url: /posts/
   excerpt: 
   image:
   
-- title: Publications
-  url: /publications/
+- title: Photography
+  url: /photography/
   excerpt:
   image:
   
@@ -20,7 +25,3 @@
   excerpt:
   image:
   
-- title: Photography
-  url: /photography/
-  excerpt:
-  image:
