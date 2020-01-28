@@ -8,7 +8,7 @@ image:
 ---
 <div class="tiles">
 <div class="tile">
-<img src="../images/jr.jpg" width="250px"  />
+<img src="../images/jr.jpg" width="500px"  />
   </div>
 <div class="tile">
 
