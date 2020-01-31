@@ -9,7 +9,7 @@ image:
   feature: lakemontana.jpg
 ---
 <div>
-<p> I am a postdoc interested in combining theory and data to understand the physiological and behavioural mechanisms determining broad patterns in macroecology and the responses of organisms to climate change. Currently I am a Marie-Curie fellow working with <a href="http://jennsunday.weebly.com/"> Jennifer Sunday </a> in McGill University (Montreal).</p>
+I am a postdoc interested in combining theory and data to understand the physiological and behavioural mechanisms determining broad patterns in macroecology and the responses of organisms to climate change. Currently I am a Marie-Curie fellow working with <a href="http://jennsunday.weebly.com/"> Jennifer Sunday </a> in McGill University (Montreal).
 </div>
 
 <div class="grid">
