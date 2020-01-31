@@ -20,6 +20,7 @@ image:
 
 <div class="cols">
 <h5>News</h5>The last paper of my last postdoc with <a href="http://olallalab.com/"> Miguel Á. Olalla </a> is finally out! Find out what biophysical models can tell us about the effect of body size on lizard's thermal traits, and how this determines their biogeography.
-
+<a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181">
+<img width="400px" src="/images/news/rubalcaba&olalla_tarraga2020.png"></a>  
 </div>
 
