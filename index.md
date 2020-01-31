@@ -15,3 +15,7 @@ image:
       Currently, I am a Marie-Curie fellow working with <a href="http://jennsunday.weebly.com/"> Jennifer Sunday </a> in McGill University (Montreal).
     </a>
 </div>
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
+</div>
