@@ -21,7 +21,3 @@ image:
       <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181">
     <img height="200px" src="/images/news/rubalcaba&olalla_tarraga2020.png"></a>
 </div>
-
-
-
-
