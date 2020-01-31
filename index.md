@@ -23,12 +23,12 @@ image:
     <div class="column12">
        <div class="content">
           <h5>News</h5>
-            Jan-2020
+            |Jan-2020
             <p>The last paper of my last postdoc with <a href="http://olallalab.com/"> Miguel Á. Olalla </a> is finally out! Find out what biophysical models can tell us about the effect of body size on lizard's thermal traits, and how this affects their biogeography.</p>
-          <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181">
-            <img width="400px" src="/images/news/rubalcaba&olalla_tarraga2020.png"></a>
-           Dec-2019
-           <p>So excited to start my Marie Curie at <a href="http://jennsunday.weebly.com/"> Jenn Sunday's lab </a> in Montreal!</p>
+          <p><a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181">
+            <img width="400px" src="/images/news/rubalcaba&olalla_tarraga2020.png"></a></p>
+           |Dec-2019
+           <p>So excited to start my new postdoc at <a href="http://jennsunday.weebly.com/"> Jenn Sunday's lab </a> in Montreal!</p>
     </div>
 </div>
 
