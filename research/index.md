@@ -11,30 +11,18 @@ image:
 ---
 
 Now more than ever, ecologists face the challenge of predicting how diversity will respond to a changing environment, which requires integrating theories and methods from disciplines such as physiology, population ecology, biogeography, and macroecology. I'm interested in developing theory that connects these ideas and ultimately understand the causes of the broad-scale patterns that we observe in macroecology and biogeography.
-  
+
+
 <h4> Projecting global biodiversity responses from first biological principles (SCALE) </h4>
 
-<div class="grid">
-    <div class="column12">
-       <div class="content">
-           <img src="/images/SCALE.jpg" height="370px" width="400px"> 
-       </div>
-    </div>
-    <div class="column12">
-       <div class="content">
-          <p>Realistic projections of the biological impacts of climate change require a unified framework capable of integrating advances from distinct research areas such as ecophysiology, behavioural ecology, and biogeography. Mechanistic modelling in macroecology arises as a promising framework to address this challenge, because it aims at describing biodiversity patterns from biophysical, physiological, and behavioural processes determining the way organisms interact with their environment. Nonetheless, mechanistic modelling face further challenges such as the need to connect processes across scales and levels of ecological organization.</p>
-          <p>SCALE is a Marie-Curie funded project that investigates how organismal-microclimate interactions influence broad-scale patterns and thermal adaptations of ectotherms, a group that is especially vulnerable to global change, across climatic gradients.</p>
-          <p>The project brings together three researchers with backgrounds in evolutionary ecology and modelling (Juan G. Rubalcaba, postdoctoral fellow), and macroecology (Jennifer Sunday, supervisor at McGill University, Montreal) and Miguel Á. Ollala-Tárraga (supervisor at Rey Juan Carlos University, Madrid).</p>
-      </div>
-    </div>
-</div>
+<figure class = "half">
+<img src="/images/SCALE.jpg" height="370px" width="400px"> 
 
+<p>Realistic projections of the biological impacts of climate change require a unified framework capable of integrating advances from distinct research areas such as ecophysiology, behavioural ecology, and biogeography. Mechanistic modelling in macroecology arises as a promising framework to address this challenge, because it aims at describing biodiversity patterns from biophysical, physiological, and behavioural processes determining the way organisms interact with their environment. Nonetheless, mechanistic modelling face further challenges such as the need to connect processes across scales and levels of ecological organization.</p>
+<p>SCALE is a Marie-Curie funded project that investigates how organismal-microclimate interactions influence broad-scale patterns and thermal adaptations of ectotherms, a group that is especially vulnerable to global change, across climatic gradients.</p>
+<p>The project brings together three researchers with backgrounds in evolutionary ecology and modelling (Juan G. Rubalcaba, postdoctoral fellow), and macroecology (Jennifer Sunday, supervisor at McGill University, Montreal) and Miguel Á. Ollala-Tárraga (supervisor at Rey Juan Carlos University, Madrid).</p>
 
-
-
-
-
-
+</figure>
 
 <h4> The biophysics of body size and climate </h4>
 <figure class = "half">
