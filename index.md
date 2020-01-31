@@ -26,5 +26,3 @@ image:
     </a>
   </div> 
 </figure> 
-
-
