@@ -8,18 +8,6 @@ tags: []
 image:
   feature: lakemontana.jpg
 ---
-<style>
- .grid {
-  display: flex;
- }
-.col-1-2 {
-  flex: 1;
-}
-.cole-1-2:last-child {
-  margin-left: 20px;
-}
-</style>
-
 <div>
    <h5>Welcome to my site!</h5> 
       I'm a postdoc interested in ecological modelling, and how combining models and data can help understanding broad questions in macroecology and evolution. Currently, I am a Marie-Curie fellow working with <a href="http://jennsunday.weebly.com/"> Jennifer Sunday      </a> in McGill University (Montreal).
