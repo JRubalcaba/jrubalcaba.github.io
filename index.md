@@ -9,8 +9,7 @@ image:
   feature: lakemontana.jpg
 ---
 <div>
-   <h5>Welcome to my site!</h5> 
-      I'm a postdoc interested in ecological modelling, and how combining models and data can help understanding broad questions in macroecology and evolution. Currently, I am a Marie-Curie fellow working with <a href="http://jennsunday.weebly.com/"> Jennifer Sunday      </a> in McGill University (Montreal).
+<p> I am a postdoc interested in combining theory and data to understand the physiological and behavioural mechanisms determining broad patterns in macroecology and the responses of organisms to climate change. Currently I am a Marie-Curie fellow working with <a href="http://jennsunday.weebly.com/"> Jennifer Sunday </a> in McGill University (Montreal).</p>
 </div>
 
 <div class="grid">
