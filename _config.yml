@@ -68,8 +68,6 @@ exclude:
   - tmp
 
 # Twitter timeline
-
-source 'https://rubygems.org'
-group :jekyll_plugins do
+source: 'https://rubygems.org'
+group: jekyll_plugins do
     gem 'github-pages'
-end
