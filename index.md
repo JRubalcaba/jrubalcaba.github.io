@@ -26,7 +26,7 @@ image:
     <h5>News</h5>
     The last paper of my postdoc at <a href=""> Bioma lab</a> is finally out! We use biophysical models to address a classic question "are large lizards experiencing warmer body temperatures?". Apparently yes, but only at low latitudes, and it means that they are more at risk of overheating than small lizards. 
     <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181"> 
-      <img src="/images/news/rubalcaba&olalla_tarraga2020.png">
+      <img height="200px" src="/images/news/rubalcaba&olalla_tarraga2020.png">
     </a>
   </div>
 </figure>
