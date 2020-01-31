@@ -16,4 +16,4 @@ image:
     </a>
 </div>
 
-<iframe style="width: 300px; height: 500px;" src="https://yourgithubusername.github.io/twitter-embed/" width="300" height="150"></iframe>
+<iframe style="width: 300px; height: 500px;" src="https://jrubalcaba.github.io/twitter-embed/" width="300" height="150"></iframe>
