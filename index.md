@@ -17,5 +17,5 @@ image:
 </div>
 
 <div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/JGRubalcaba maxwidth=500 limit=5 %}
+    {% https://twitter.com/JGRubalcaba maxwidth=500 limit=5 %}
 </div>
