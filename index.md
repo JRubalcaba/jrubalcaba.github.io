@@ -24,11 +24,12 @@ image:
     </div> 
   <div align = "left">
     <h5>News</h5>
-    <p>The last paper of my postdoc with <a href="http://olallalab.com/"> Miguel Á. Olalla </a> is finally out! We used biophysical models to ask a classic question: "have larger lizards warmer body temperatures?". Apparently yes, but only at low latitudes, where the intensity of solar radiation is higher. Would this mean that large, tropical lizards are more at risk of overheating? 
+    <p>The last paper of my postdoc with <a href="http://olallalab.com/"> Miguel Á. Olalla </a> is finally out! We used biophysical models to ask a classic question: "have larger lizards warmer body temperatures?". Apparently yes, but only at low latitudes, where the intensity of solar radiation is higher. Does it mean that large, tropical lizards are more at risk of overheating? 
     <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181"> 
       <img src="/images/news/rubalcaba&olalla_tarraga2020.png">
     </a>
   </div> 
+
 </figure>
 
 
