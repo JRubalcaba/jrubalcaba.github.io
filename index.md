@@ -28,7 +28,8 @@ image:
           <p><a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181">
             <img width="400px" src="/images/news/rubalcaba&olalla_tarraga2020.png"></a></p>
            |Dec-2019
-           <p>So excited to start my new postdoc at <a href="http://jennsunday.weebly.com/"> Jenn Sunday's lab </a> in Montreal!</p>
+           <p>So excited to start my new postdoc at <a href="http://jennsunday.weebly.com/"> Jenn Sunday's lab </a> in Montreal! <a href="/research"> Take a look to the project. </a>
+         </p>
     </div>
 </div>
 
