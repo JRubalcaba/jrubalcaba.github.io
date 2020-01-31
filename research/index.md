@@ -10,7 +10,7 @@ image:
 
 ---
 
-<p> Now more than ever, ecologists face the challenge of predicting how diversity will respond to a changing environment, which requires integrating theories and methods from disciplines such as physiology, population ecology, biogeography, and macroecology. I'm interested in developing theory that connects these ideas and ultimately understand the causes of the broad-scale patterns that we observe in macroecology and biogeography.</p>
+Now more than ever, ecologists face the challenge of predicting how diversity will respond to a changing environment, which requires integrating theories and methods from disciplines such as physiology, population ecology, biogeography, and macroecology. I'm interested in developing theory that connects these ideas and ultimately understand the causes of the broad-scale patterns that we observe in macroecology and biogeography.
   
 <h4> Projecting global biodiversity responses from first biological principles (SCALE) </h4>
 
