@@ -8,7 +8,7 @@ tags: []
 image:
   feature: lakemontana.jpg
 ---
-I am a postdoc interested in combining theory and data to understand the physiological and behavioural mechanisms that determine global biodiversity patterns and their responses to climate change. Currently I am a Marie-Curie fellow working with <a href="http://jennsunday.weebly.com/"> Jennifer Sunday </a> in McGill University (Montreal).
+I am a postdoc interested in combining theory and data to understand the physiological and behavioural mechanisms that determine global biodiversity patterns and their responses to climate change. Currently, I am a Marie-Curie fellow working with <a href="http://jennsunday.weebly.com/"> Jennifer Sunday </a> in McGill University (Montreal).
 
 <div class="grid">
     <div class="column12">
