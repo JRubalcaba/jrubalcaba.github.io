@@ -6,8 +6,6 @@ tags: []
 image:
   feature: mpgranch.jpg
 ---
-<div class="archive-wrap">
-  <dive class="page-content">
     <div class="titles">
       <div class="tile">
         <h2 class="post-title"> <a href="/posts/temperature_distributions"> 
@@ -28,5 +26,3 @@ image:
         <p class="post-excerpt">Some recommendations (in spanish) for the use of AIC BIC and DIC </p>
       </div>
     </div>
-  </div>
-</div>
