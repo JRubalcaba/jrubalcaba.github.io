@@ -11,7 +11,7 @@ image:
     <h2 class="post-title"> <a href="/posts/temperature_distributions"> 
     <img height="100px" src="/images/posts/lizard.jpg"/>
     Modelling body temperature of ectotherms </a></h2>
-    How to use the model published in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with a little interactive example.
+    How to use the model published in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with an interactive example.
   </div>
 
   <div class="tile">
