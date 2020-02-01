@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Blog"
+title: "Resources"
 #excerpt: ""
 tags: []
 image:
@@ -11,28 +11,28 @@ image:
 <div class="tile">
   <h2 class="post-title"> <a href="/posts/temperature_distributions"> 
   <img src="/images/posts/lizard.jpg"/>
-  Modelling temperature of ectotherms from climatic data </a></h2>
-  This posts shows how to use the model published in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with a little interactive example.
-</div><!-- /.tile -->
+  Modelling body temperature of ectotherms </a></h2>
+  How to use the model published in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with a little interactive example.
+</div>
 
 <div class="tile">
   <h2 class="post-title"><a href="/posts/">
   <img src="/images/posts/atractor.gif"/>
   Simulating chaotic dynamics </a></h2>
   <p class="post-excerpt"> with a toy model of plant-polinator-parasite dynamics </p>
-</div><!-- /.tile -->
+</div>
 
 <div class="tile">
   <h2 class="post-title"><a href="/posts/information_criterion">
   <img src="/images/posts/Bayes_icon.jpg"/>
-  Qué son los indicadores de información </a></h2>
+  Indicadores de información </a></h2>
   <p class="post-excerpt">Some recommendations (in spanish) for the use of AIC BIC and DIC </p>
-</div><!-- /.tile -->
+</div>
 
 <div class="tile">
   <h2 class="post-title"><a href="https://jrubalcaba.shinyapps.io/jrubalcabagithub/">
   <img src="/images/posts/bodytemp.jpg"/>
   More biophysical models </a></h2>
   <p class="post-excerpt"> how to use biophysical models to simulate body temperature of ectotherms. </p>
-</div><!-- /.tile -->
+</div>
 
