@@ -13,7 +13,7 @@ image:
         <h2 class="post-title"> <a href="/posts/temperature_distributions"> 
         <img height="100" src="/images/posts/bodytemp.jpg"/>
         Modelling body temperature of ectotherms </a></h2>
-        using our model in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with an interactive example.
+        using our in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with an interactive example.
       </div>
       <div class="tile">
         <h2 class="post-title"><a href="/posts/">
