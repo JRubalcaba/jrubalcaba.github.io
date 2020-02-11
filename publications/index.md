@@ -11,7 +11,7 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
-    <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181"> <img src="/images/jcovers/JAE.gif" height="100px" width="75px" /></a>
+    <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181"> <img src="/images/jcovers/JAE.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
     <b>Rubalcaba, J.G.</b>, Olalla-Tárraga, M.Á. (2020). The biogeography of thermal risk for terrestrial ectotherms: scaling of thermal sensitivity with body size and latitude. <i>Journal of Animal Ecology </i>.
