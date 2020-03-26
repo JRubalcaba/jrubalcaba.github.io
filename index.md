@@ -23,7 +23,7 @@ I am a postdoc interested in combining theory and data to understand the physiol
           <!---><!--->
           <small>March-2020</small>
            <p> La unidad de cultura científica de la URJC se hace eco de nuestro paper! </p>
-           <a href="https://www.urjc.es/todas-las-noticias-de-actualidad/5109-el-cambio-climatico-amenaza-la-supervivencia-de-lagartos-de-mayor-tamano"> <img src="/images/posts/lizard2.jpg"/> </a>
+           <p> <a href="https://www.urjc.es/todas-las-noticias-de-actualidad/5109-el-cambio-climatico-amenaza-la-supervivencia-de-lagartos-de-mayor-tamano"> <img src="/images/posts/lizard2.jpg"/> </a> </p>
           <!---><!--->
             <small>Jan-2020</small>
             <p>The last paper of my last postdoc with <a href="http://olallalab.com/"> Miguel Á. Olalla </a> is finally out! Find out what biophysical models can tell us about the effect of body size on lizard's thermal traits, and how this affects their biogeography.</p>
