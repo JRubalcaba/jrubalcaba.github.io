@@ -22,7 +22,7 @@ I am a postdoc interested in combining theory and data to understand the physiol
           <h5>News</h5>
           <!---><!--->
           <small>March-2020</small>
-           <p> La unidad de cultura científica de la URJC se hace eco de nuestro paper! </a>
+           <p> La unidad de cultura científica de la URJC se hace eco de nuestro paper! </p>
            <a href="https://www.urjc.es/todas-las-noticias-de-actualidad/5109-el-cambio-climatico-amenaza-la-supervivencia-de-lagartos-de-mayor-tamano"> <img src="/images/posts/lizard2.jpg"/> </a>
           <!---><!--->
             <small>Jan-2020</small>
@@ -35,9 +35,3 @@ I am a postdoc interested in combining theory and data to understand the physiol
          </p>
     </div>
 </div>
-
-
-
-
-
-
