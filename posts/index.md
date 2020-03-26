@@ -38,9 +38,9 @@ image:
   <!---><!--->
   
   <div class="tile">
-    <h2 class="post-title"><a href=https://www.urjc.es/todas-las-noticias-de-actualidad/5109-el-cambio-climatico-amenaza-la-supervivencia-de-lagartos-de-mayor-tamano>
-    <img src="/images/posts/lizard2.jpg"/>
-    Indicadores de información </a></h2>
+    <h2 class="post-title">
+    <a href=https://www.urjc.es/todas-las-noticias-de-actualidad/5109-el-cambio-climatico-amenaza-la-supervivencia-de-lagartos-de-mayor-tamano><img src="/images/posts/lizard2.jpg"/>
+    Noticia URJC </a></h2>
     <p class="post-excerpt">Tamaño corporal, latitud e intercambio de calor en lagartos: comparando modelos biofísicos y datos fisiológicos. </p>
   </div>
 </div>
