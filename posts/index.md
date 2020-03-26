@@ -43,7 +43,3 @@ image:
     <p class="post-excerpt">Tamaño corporal, latitud e intercambio de calor en lagartos: comparando modelos biofísicos y datos fisiológicos. </p>
   </div>
 </div>
-
-
-
-
