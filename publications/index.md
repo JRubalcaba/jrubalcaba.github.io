@@ -16,7 +16,7 @@ image:
     <a href="https://www.sciencedirect.com/science/article/pii/S0304380020301046?dgcid=coauthor"> <img src="/images/jcovers/ECOMOD.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    Gouveia, S. F., <b>Rubalcaba, J.G.</b>, Soukhovolsky, V., Tarasova, O., Barbosa, M., Real, R. (2020). Ecophysics reload—exploring applications of theoretical physics in macroecology. <i>Ecological Modelling</i>, 424, . DOI: 10.1016/j.ecolmodel.2020.109032.
+    Gouveia, S. F., <b>Rubalcaba, J.G.</b>, Soukhovolsky, V., Tarasova, O., Barbosa, M., Real, R. (2020). Ecophysics reload—exploring applications of theoretical physics in macroecology. <i>Ecological Modelling</i>, 424, 109032. DOI: 10.1016/j.ecolmodel.2020.109032.
   </div>
 </figure>
 
@@ -27,7 +27,7 @@ image:
     <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181"> <img src="/images/jcovers/JAE.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    <b>Rubalcaba, J.G.</b>, Olalla-Tárraga, M.Á. (2020). The biogeography of thermal risk for terrestrial ectotherms: scaling of thermal sensitivity with body size and latitude. <i>Journal of Animal Ecology </i>.
+    <b>Rubalcaba, J.G.</b>, Olalla-Tárraga, M.Á. (2020). The biogeography of thermal risk for terrestrial ectotherms: scaling of thermal sensitivity with body size and latitude. <i>Journal of Animal Ecology </i>, 89, 1277-1285.
   </div>
 </figure>
 
