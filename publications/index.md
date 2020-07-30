@@ -16,7 +16,7 @@ image:
     <a href="https://academic.oup.com/cz/article/doi/10.1093/cz/zoaa040/5874443"> <img src="/images/jcovers/ECOMOD.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    Shah, A. A., Bacmeister, E. M. S., <b> Rubalcaba </b>, J. G., Ghalambor C. K. (2020). Divergence and constraint in the thermal sensitivity of aquatic insect swimming performance. <i>Current Zoology</i>, zoaa040, DOI: 10.1093/cz/zoaa040.
+    Shah, A. A., Bacmeister, E. M. S., <b> Rubalcaba, J. G. </b>, Ghalambor C. K. (2020). Divergence and constraint in the thermal sensitivity of aquatic insect swimming performance. <i>Current Zoology</i>, zoaa040, DOI: 10.1093/cz/zoaa040.
   </div>
 </figure>
 
