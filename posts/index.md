@@ -14,7 +14,7 @@ image:
     <h2 class="post-title"><a href="/posts/oxygen limitation">
     <img src="/images/news/fig PNAS media.png"/>
     Breathing in warming waters </a></h2>
-    <p class="post-excerpt"> How warming waters will affect respiratory performance of fish </p>
+    <p class="post-excerpt"> Modelling the effect of warming on fish respiratory performance </p>
   </div>
   
   <!---><!--->
