@@ -4,6 +4,9 @@ author: "Juan G. Rubalcaba"
 layout: article
 ---
 
+<a href="https://www.pnas.org/content/early/2020/11/24/2003292117"> Rubalcaba, J. G., Verberk, W. C. E. P, Hendriks, A. J., Saris, B. & Woods, H. A. (2020). Oxygen limitation may affect the temperature- and size-dependence of metabolism in aquatic ectotherms. PNAS. DOI: 10.1073/pnas.2003292117. </a> 
+
+
 Extracting oxygen from the environment -to generate energy for locomotion, growth and reproduction, is especially challenging for aquatic animals because the availability and diffusive capacity of oxygen is much lower in water than in air.
 
 Contrary to warm-blooded animals such as mammals and birds, cold-blooded animals like fish increase their metabolic demand for oxygen as temperature increases. In a warming world, many fish species would experience higher metabolic rates, and therefore, they need to increase oxygen supply rates to meet this demand. However, respiratory organs (gills) and circulatory systems of fish cannot extract and distribute oxygen to tissues at an infinitely high rate. If fishes experience limitations in oxygen supply capacity, warming oceans would reduce their physiological performance which may have an impact on survival.
