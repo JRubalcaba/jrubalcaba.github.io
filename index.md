@@ -22,9 +22,9 @@ I am a postdoc interested in combining theory and data to understand the physiol
           <h5>News</h5>   
           <!---><!--->
           <small>November-2020</small>
-           <p> Our new paper is out!! We used biophysical models to understand how water temperature and oxygen supply affects the aerobic metabolism of fish</p>
-            <p> <a href="https://doi.org/10.1073/pnas.2003292117"> Here you can find out a lay summary of what we did </a> </p>
+           <p> Our new paper is out in PNAS!! We used biophysical models to understand how water temperature and oxygen supply affects fish aerobic metabolism.</p>
            <p> <a href="https://doi.org/10.1073/pnas.2003292117"> <img src="/images/news/fig PNAS media.png"/> </a> </p>
+           <p> Find out a lay summary of what we did <a href="https://doi.org/10.1073/pnas.2003292117"> here </a> </p>
           <!---><!--->  
           <small>March-2020</small>
            <p> La unidad de cultura científica de la URJC se hace eco de nuestro paper! </p>
