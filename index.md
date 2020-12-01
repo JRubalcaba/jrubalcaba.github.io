@@ -19,12 +19,18 @@ I am a postdoc interested in combining theory and data to understand the physiol
     </div>
     <div class="column12">
        <div class="content">
-          <h5>News</h5>
+          <h5>News</h5>   
           <!---><!--->
+          <small>November-2020</small>
+           <p> Our new paper is out!! We used biophysical models to understand how water temperature and oxygen supply affects the aerobic metabolism of fish</p>
+            <p> <a href="https://doi.org/10.1073/pnas.2003292117"> Here you can find out a lay summary of what we did </a> </p>
+           <p> <a href="https://doi.org/10.1073/pnas.2003292117"> <img src="/images/news/fig PNAS media.png"/> </a> </p>
+
+          <!---><!--->  
           <small>March-2020</small>
            <p> La unidad de cultura científica de la URJC se hace eco de nuestro paper! </p>
            <p> <a href="https://www.urjc.es/todas-las-noticias-de-actualidad/5109-el-cambio-climatico-amenaza-la-supervivencia-de-lagartos-de-mayor-tamano"> <img src="/images/posts/lizard2.jpg"/> </a> </p>
-          <!---><!--->
+          <!---><!--->   
             <small>Jan-2020</small>
             <p>The last paper of my last postdoc with <a href="http://olallalab.com/"> Miguel Á. Olalla </a> is finally out! Find out what biophysical models can tell us about the effect of body size on lizard's thermal traits, and how this affects their biogeography.</p>
           <p><a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13181">
