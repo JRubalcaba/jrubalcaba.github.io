@@ -13,7 +13,7 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
-     <a href="https://academic.oup.com/cz/article/doi/10.1093/cz/zoaa040/5874443"> <img src="/images/jcovers/PNAS.jpg" height="100px" width="75px" /></a>
+     <a href="https://doi.org/10.1073/pnas.2003292117"> <img src="/images/jcovers/PNAS.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
     <b> Rubalcaba, J. G. </b>, Verberk, W. C. E. P, Hendriks, A. J., Saris, B. & Woods, H. A. (2020).  DOxygen limitation may affect the temperature- and size-dependence of metabolism in aquatic ectotherms. <i>PNAS</i>, DOI: 10.1073/pnas.2003292117.
