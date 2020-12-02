@@ -11,7 +11,7 @@ image:
   <!---><!--->
   
   <div class="tile">
-    <h2 class="post-title"><a href="/posts/oxygen_limitation">
+    <h2 class="post-title"><a href="/posts/oxygen_limitation.md">
     <img src="/images/news/fig PNAS media.png"/>
     Breathing in warming waters </a></h2>
     <p class="post-excerpt"> Modelling the effect of warming on fish respiratory performance </p>
