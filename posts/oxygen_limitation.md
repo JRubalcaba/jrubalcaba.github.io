@@ -34,4 +34,5 @@ The model and data together suggest that oxygen limitation determines how metabo
 Our study demonstrates that warming waters **can cause** respiratory distress in fish (especially in larger individuals). We encourage further experimental research to understand the impact of oxygen limitation on fish physiology, behavior and survival.
 
 Juan G. Rubalcaba
+
 Dec 2, 2020
