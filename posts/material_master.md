@@ -6,15 +6,15 @@ layout: article
 
 <h2> Práctica - Modelo ectotermo </h2>
 
-1. Instala R y R-Studio <a href="jrubalcaba.github.io/posts/Material Master URJC/Instalar RStudio.docx"> - guía y links - </a>
+1. Instala R y R-Studio <a href="/posts/Material Master URJC/Instalar RStudio.docx"> - guía y links - </a>
 
-2. Descarga el <a href="jrubalcaba.github.io/posts/Material Master URJC/Modelo ectotermo - Codigo.R"> código de R </a> de la práctica.
+2. Descarga el <a href="/posts/Material Master URJC/Modelo ectotermo - Codigo.R"> código de R </a> de la práctica.
 
-3. Decarga los <a href="jrubalcaba.github.io/posts/Material Master URJC/data_temp.csv"> datos de temperatura </a> para la práctica.
+3. Decarga los <a href="/posts/Material Master URJC/data_temp.csv"> datos de temperatura </a> para la práctica.
 
-4. Tienes una explicación paso a paso en estos <a href="jrubalcaba.github.io/posts/Material Master URJC/Videos.zip"> videos </a>.
+4. Tienes una explicación paso a paso en estos <a href="/posts/Material Master URJC/Videos.zip"> videos </a>.
 
-5. <a href="jrubalcaba.github.io/posts/Material Master URJC/Trabajo - Modelo ectotermo.docx"> Trabajo de prácticas </a>
+5. <a href="/posts/Material Master URJC/Trabajo - Modelo ectotermo.docx"> Trabajo de prácticas </a>
 
 
 <h2> Referencias </h2>
