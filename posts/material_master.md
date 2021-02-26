@@ -6,17 +6,15 @@ layout: article
 
 <h2> Práctica - Modelo ectotermo </h2>
 
-<a href="https://doi.org/10.1073/pnas.2003292117"> Código de R </a> - Modelo Ectotermo
+1. Instala R y R-Studio <a href="jrubalcaba.github.io/posts/Material Master URJC/Instalar RStudio.docx"> - guía y links - </a>
 
-<a href="https://doi.org/10.1073/pnas.2003292117"> Video 1 - </a> Introducción modelo biofísico de un ectotermo terrestre
+2. Descarga el <a href="jrubalcaba.github.io/posts/Material Master URJC/Modelo ectotermo - Codigo.R"> código de R </a> de la práctica.
 
-<a href="https://doi.org/10.1073/pnas.2003292117"> Video 2 - </a> Cómo implementar el modelo en R
+3. Decarga los <a href="jrubalcaba.github.io/posts/Material Master URJC/data_temp.csv"> datos de temperatura </a> para la práctica.
 
-<a href="https://doi.org/10.1073/pnas.2003292117"> Video 3 - </a> Simulando el comportamiento de termorregulación
+4. Tienes una explicación paso a paso en estos <a href="jrubalcaba.github.io/posts/Material Master URJC/Videos.zip"> videos </a>.
 
-<a href="https://doi.org/10.1073/pnas.2003292117"> Video 4 - </a> Solución analítica del modelo
-
-<a href="https://doi.org/10.1073/pnas.2003292117"> Trabajo prácticas </a>
+5. <a href="jrubalcaba.github.io/posts/Material Master URJC/Trabajo - Modelo ectotermo.docx"> Trabajo de prácticas </a>
 
 
 <h2> Referencias </h2>
