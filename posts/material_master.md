@@ -16,6 +16,8 @@ layout: article
 
 <a href="https://doi.org/10.1073/pnas.2003292117"> Video 4 - </a> Solución analítica del modelo
 
+<a href="https://doi.org/10.1073/pnas.2003292117"> Trabajo prácticas </a>
+
 
 <h2> Referencias </h2>
 
