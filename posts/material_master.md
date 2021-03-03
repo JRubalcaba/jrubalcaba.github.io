@@ -16,6 +16,10 @@ layout: article
 
 5. <a href="/posts/Material Master URJC/Trabajo - Modelo ectotermo.docx"> Trabajo de prácticas </a>
 
+<h2> Presentaciones clase </h2>
+
+<a href="/posts/Material Master URJC/Presentación_teoría.pdf"> Presentación teoría </a>
+<a href="/posts/Material Master URJC/Presentación_práctica.pdf"> Presentación práctica </a>
 
 <h2> Referencias </h2>
 
