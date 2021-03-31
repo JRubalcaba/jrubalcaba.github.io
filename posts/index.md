@@ -39,7 +39,7 @@ image:
   
   <div class="tile">
     <h2 class="post-title">
-    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/lizard2.jpg"/> Tamaño corporal y latitud determinan el riesgo térmico en lagartos </a></h2>
+    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/lizard2.jpg"/> Tamaño corporal y latitud determinan el riesgo térmico para los lagartos </a></h2>
     <p class="post-excerpt"> Comparando modelos biofísicos y datos fisiológicos - Noticia URJC científica! </p>
   </div> 
   
@@ -47,7 +47,7 @@ image:
   
   <div class="tile">
     <h2 class="post-title">
-    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/lizard2.jpg"/> Try our Shiny app! </a></h2>
+    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/fishbank.jpg"/> Try our Shiny app! </a></h2>
     <p class="post-excerpt"> Modeling resting and maximum metabolic rate of fish </p>
   </div>
     
@@ -55,7 +55,7 @@ image:
   
   <div class="tile">
     <h2 class="post-title">
-    <a href="http://www.mcgilltribune.com/sci-tech/disappearing-giants-how-warming-oceans-are-suffocating-large-fish-02022021/"><img src="/images/posts/lizard2.jpg"/> Impacts of warming on fish physiology </a></h2>
+    <a href="http://www.mcgilltribune.com/sci-tech/disappearing-giants-how-warming-oceans-are-suffocating-large-fish-02022021/"><img src="/images/posts/taja-de-silva-scitech-disappearing-giants-1000x500.jpg"/> Impacts of warming on fish physiology </a></h2>
     <p class="post-excerpt"> How body size, temperature and oxygen affect respiration in fish - by McGill Tribune" </p>
   </div>
   
