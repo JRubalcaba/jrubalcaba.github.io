@@ -56,7 +56,7 @@ image:
   <div class="tile">
     <h2 class="post-title">
     <a href="http://www.mcgilltribune.com/sci-tech/disappearing-giants-how-warming-oceans-are-suffocating-large-fish-02022021/"><img src="/images/posts/taja-de-silva-scitech-disappearing-giants-1000x500.jpg"/> Impacts of warming on fish physiology </a></h2>
-    <p class="post-excerpt"> How body size, temperature and oxygen affect respiration in fish - great article by McGill Tribune! </p>
+    <p class="post-excerpt"> How body size, temperature and oxygen affect fish metabolism - great article by McGill Tribune! </p>
   </div>
   
   <!---><!--->
