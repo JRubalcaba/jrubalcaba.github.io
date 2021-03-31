@@ -47,7 +47,7 @@ image:
   
   <div class="tile">
     <h2 class="post-title">
-    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/fishbank.jpg"/> Modeling resting and maximum metabolic rate of fish </a></h2>
+    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/fishbank.jpg"/> Modeling resting and maximum metabolic rates </a></h2>
     <p class="post-excerpt"> with our Shiny app!</p>
   </div>
     
