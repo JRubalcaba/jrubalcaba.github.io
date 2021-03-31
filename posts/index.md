@@ -23,7 +23,7 @@ image:
     <h2 class="post-title"> <a href="/posts/temperature_distributions"> 
     <img src="/images/posts/bodytemp.jpg"/>
     Modelling body temperature of ectotherms </a></h2>
-    using our in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank">       Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with an interactive example.
+    using our in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with a Shiny app!
   </div>
     
   <!---><!--->
@@ -32,14 +32,34 @@ image:
     <h2 class="post-title"><a href="/posts/information_criterion">
     <img src="/images/posts/Bayes_icon.jpg"/>
     Indicadores de información </a></h2>
-    <p class="post-excerpt">Some recommendations (in spanish) for the use of AIC BIC and DIC </p>
+    <p class="post-excerpt"> Some recommendations for the use of AIC BIC and DIC </p>
   </div>
   
   <!---><!--->
   
   <div class="tile">
     <h2 class="post-title">
-    <a href="https://www.urjc.es/todas-las-noticias-de-actualidad/5109-el-cambio-climatico-amenaza-la-supervivencia-de-lagartos-de-mayor-tamano"><img src="/images/posts/lizard2.jpg"/> Noticia URJC Cultura Científica </a></h2>
-    <p class="post-excerpt">Tamaño corporal, latitud e intercambio de calor en lagartos: comparando modelos biofísicos y datos fisiológicos. </p>
+    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/lizard2.jpg"/> Tamaño corporal y latitud determinan el riesgo térmico en lagartos </a></h2>
+    <p class="post-excerpt"> Comparando modelos biofísicos y datos fisiológicos - Noticia URJC científica! </p>
+  </div> 
+  
+<!---><!--->
+  
+  <div class="tile">
+    <h2 class="post-title">
+    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/lizard2.jpg"/> Try our Shiny app! </a></h2>
+    <p class="post-excerpt"> Modeling resting and maximum metabolic rate of fish </p>
   </div>
+    
+  <!---><!--->
+  
+  <div class="tile">
+    <h2 class="post-title">
+    <a href="http://www.mcgilltribune.com/sci-tech/disappearing-giants-how-warming-oceans-are-suffocating-large-fish-02022021/"><img src="/images/posts/lizard2.jpg"/> Impacts of warming on fish physiology </a></h2>
+    <p class="post-excerpt"> How body size, temperature and oxygen affect respiration in fish - by McGill Tribune" </p>
+  </div>
+  
+  <!---><!--->
+  
+  
 </div>
