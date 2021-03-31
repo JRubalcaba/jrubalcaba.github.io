@@ -23,7 +23,7 @@ image:
     <h2 class="post-title"> <a href="/posts/temperature_distributions"> 
     <img src="/images/posts/bodytemp.jpg"/>
     Modelling body temperature of ectotherms </a></h2>
-    using our in <a href = "https://www.amnat.org/an/newpapers/MayRubalcaba.html" target="_blank"> Rubalcaba et al. (2019, <i>Am Nat</i>)</a> with a Shiny app!
+    using this Shiny app!
   </div>
     
   <!---><!--->
@@ -47,8 +47,8 @@ image:
   
   <div class="tile">
     <h2 class="post-title">
-    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/fishbank.jpg"/> Try our Shiny app! </a></h2>
-    <p class="post-excerpt"> Modeling resting and maximum metabolic rate of fish </p>
+    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/fishbank.jpg"/> Modeling resting and maximum metabolic rate of fish </a></h2>
+    <p class="post-excerpt"> with our Shiny app!</p>
   </div>
     
   <!---><!--->
@@ -56,7 +56,7 @@ image:
   <div class="tile">
     <h2 class="post-title">
     <a href="http://www.mcgilltribune.com/sci-tech/disappearing-giants-how-warming-oceans-are-suffocating-large-fish-02022021/"><img src="/images/posts/taja-de-silva-scitech-disappearing-giants-1000x500.jpg"/> Impacts of warming on fish physiology </a></h2>
-    <p class="post-excerpt"> How body size, temperature and oxygen affect respiration in fish - by McGill Tribune" </p>
+    <p class="post-excerpt"> How body size, temperature and oxygen affect respiration in fish - great article by McGill Tribune! </p>
   </div>
   
   <!---><!--->
