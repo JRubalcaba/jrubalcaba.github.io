@@ -22,6 +22,16 @@ layout: article
 
 <p> Introductory tutorial <a href="https://shiny.rstudio.com/tutorial/"> https://shiny.rstudio.com/tutorial/ </a> </p>
 <p> COVID19 Tracker <a href="https://shiny.rstudio.com/gallery/covid19-tracker.html"> https://shiny.rstudio.com/gallery/covid19-tracker.html </a> </p>
-<p> NicheMapR app (Kearney et al. 2021 MEE) <a href="http://bioforecasts.science.unimelb.edu.au/app_direct/ectotherm_transient/"> http://bioforecasts.science.unimelb.edu.au/app_direct/ectotherm_transient/ </a> </p>
+<p> NicheMapR app <a href="http://bioforecasts.science.unimelb.edu.au/app_direct/ectotherm_transient/"> Kearney et al. (2020, MEE) </a> </p>
+<p> Visualizing human impacts on marine biodiversity <a href="http://ohi science.nceas.ucsb.edu/visualizing_human_impacts/"> O'Hara et al. (2021, Science)  </a> </p>
+<p> Models in ecology and evolution <a href="http://ecoevoeducation.github.io/EcoEvoApps/"> O'Hara et al. (2021, Science)  </a> </p>
+<p> Shiny layout guide <a href="https://shiny.rstudio.com/articles/layout-guide.html"> https://shiny.rstudio.com/articles/layout-guide.html </a> </p>
+<p> Shiny Dashboard PLUS! <a href="https://rinterface.com/shiny/shinydashboardPlus/"> https://rinterface.com/shiny/shinydashboardPlus/ </a> </p>
+<p> Widget gallery <a href="https://shiny.rstudio.com/gallery/widget-gallery.html"> https://shiny.rstudio.com/gallery/widget-gallery.html </a> </p>
+<p> More widgets and tricks<a href="https://github.com/daattali/advanced-shiny#shinyjs"> https://github.com/daattali/advanced-shiny#shinyjs </a> </p>
+<p> Interactive plots with Ploly <a href="https://plotly-r.com/"> https://plotly-r.com/ </a> </p>
+<p> Making maps with leaflet JS <a href="https://leafletjs.com/"> https://leafletjs.com/ </a> </p>
+<p> Launch your shiny app <a href="https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/">https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/ </a> </p>
+
 
 
