@@ -11,14 +11,17 @@ layout: article
 <h2> R Codes </h2>
 
 <p> 1 - Making a scatterplot with Shiny - <a href="/posts/shiny_seminar/1_scatterplot.R"> 1_scatterplot.R </a> </p>
-<p> 2 - Scatterplot editor - <a href="/posts/shiny_seminar/2_scatterplot_edit.Rf"> 2_scatterplot_edit.R </a> </p>
+<p> 2 - Scatterplot editor - <a href="/posts/shiny_seminar/2_scatterplot_edit.R"> 2_scatterplot_edit.R </a> </p>
 <p> 3 - Adding more widgets - <a href="/posts/shiny_seminar/3_scatterplot_widgets.R"> 3_scatterplot_widgets.R </a> </p>
 <p> 4 - Playing with model - parameters <a href="/posts/shiny_seminar/4_nonlinear_model.R"> 4_nonlinear_model.R </a> </p>
-<p> 5 - Professional-looking apps with Shinydashboard - <a href="/posts/shiny_seminar/5_shinydasboard.R"> 5_shinydasboard.R </a> </p>
+<p> 5 - Professional-looking apps with Shinydashboard - <a href="/posts/shiny_seminar/5_shinydashboard.R"> 5_shinydasboard.R </a> </p>
 <p> 6 - Using observers - <a href="/posts/shiny_seminar/6_Observe_event.R"> 6_Observe_event.R </a> </p>
 <p> 7 - Using observers to fit nonlinear least squares - <a href="/posts/shiny_seminar/7_Fitting_nls.R">7_Fitting_nls.R </a> </p>
 
 <h2> Resources </h2>
 
 <p> Introductory tutorial <a href="https://shiny.rstudio.com/tutorial/"> https://shiny.rstudio.com/tutorial/ </a> </p>
+<p> COVID19 Tracker <a href="https://shiny.rstudio.com/gallery/covid19-tracker.html"> https://shiny.rstudio.com/gallery/covid19-tracker.html </a> </p>
+<p> NicheMapR app (Kearney et al. 2021 MEE) <a href="http://bioforecasts.science.unimelb.edu.au/app_direct/ectotherm_transient/"> http://bioforecasts.science.unimelb.edu.au/app_direct/ectotherm_transient/ </a> </p>
+
 
