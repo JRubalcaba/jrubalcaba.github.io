@@ -20,3 +20,5 @@ layout: article
 
 <h2> Resources </h2>
 
+<p> Introductory tutorial <a href="https://shiny.rstudio.com/tutorial/"> https://shiny.rstudio.com/tutorial/ </a> </p>
+
