@@ -21,7 +21,7 @@ layout: article
 <h2> Resources </h2>
 
 <p> Introductory tutorial - <a href="https://shiny.rstudio.com/tutorial/"> https://shiny.rstudio.com/tutorial/ </a> </p>
-<p> COVID19 Tracker - a href="https://shiny.rstudio.com/gallery/covid19-tracker.html"> https://shiny.rstudio.com/gallery/covid19-tracker.html </a> </p>
+<p> COVID19 Tracker - <a href="https://shiny.rstudio.com/gallery/covid19-tracker.html"> https://shiny.rstudio.com/gallery/covid19-tracker.html </a> </p>
 <p> NicheMapR app - <a href="http://bioforecasts.science.unimelb.edu.au/app_direct/ectotherm_transient/"> Kearney et al. (2020, MEE) </a> </p>
 <p> Visualizing human impacts on marine biodiversity - <a href="http://ohi-science.nceas.ucsb.edu/visualizing_human_impacts/"> O'Hara et al. (2021, Science)  </a> </p>
 <p> Models in ecology and evolution - <a href="http://ecoevoeducation.github.io/EcoEvoApps/"> O'Hara et al. (2021, Science)  </a> </p>
