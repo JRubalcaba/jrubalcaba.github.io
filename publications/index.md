@@ -9,6 +9,18 @@ image:
   feature: lakemontana.jpg
 ---
 
+
+<!---><!--->
+
+<figure class = "third">
+  <div align = "center"> 
+     <a href="https://doi.org/10.1073/pnas.2003292117"> <img src="" height="100px" width="75px" /></a>
+  </div>
+  <div align = "left"> 
+    <b> Rubalcaba, J. G. </b>, Jimeno, B. (in press). Biophysical models unravel associations between glucocorticoids and thermoregulatory costs across avian species. <i>Functional Ecology</i>.
+  </div>
+</figure>
+
 <!---><!--->
 
 <figure class = "third">
@@ -16,7 +28,7 @@ image:
      <a href="https://doi.org/10.1073/pnas.2003292117"> <img src="/images/jcovers/PNAS.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    <b> Rubalcaba, J. G. </b>, Verberk, W. C. E. P, Hendriks, A. J., Saris, B. & Woods, H. A. (2020).  DOxygen limitation may affect the temperature- and size-dependence of metabolism in aquatic ectotherms. <i>PNAS</i>, DOI: 10.1073/pnas.2003292117.
+    <b> Rubalcaba, J. G. </b>, Verberk, W. C. E. P, Hendriks, A. J., Saris, B. & Woods, H. A. (2020).  Oxygen limitation may affect the temperature- and size-dependence of metabolism in aquatic ectotherms. <i>PNAS</i>, DOI: 10.1073/pnas.2003292117.
   </div>
 </figure>
 
