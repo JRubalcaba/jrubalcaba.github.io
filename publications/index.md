@@ -14,10 +14,10 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
-     <a href="https://doi.org/10.1073/pnas.2003292117"> <img src="/images/jcovers/fec.v35.9.cover.gif" height="100px" width="75px" /></a>
+     <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13946?af=R"> <img src="/images/jcovers/fec.v35.9.cover.gif" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    <b> Rubalcaba, J. G. </b>, Jimeno, B. (in press). Biophysical models unravel associations between glucocorticoids and thermoregulatory costs across avian species. <i>Functional Ecology</i>.
+    <b> Rubalcaba, J. G. </b>, Jimeno, B. (in press). Biophysical models unravel associations between glucocorticoids and thermoregulatory costs across avian species. <i>Functional Ecology</i>, DOI: 10.1111/1365-2435.13946.
   </div>
 </figure>
 
