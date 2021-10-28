@@ -23,7 +23,7 @@ I am a postdoc interested in combining theory and data to understand the physiol
           <!---><!--->
           <small>November-2021</small>
            <p> Chek out the first (of many!) collaboration with <a href="https://blancajimeno.wixsite.com/physcoping">Blanca Jimeno</a></p>
-           <p> <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13946"> <img src="/images/news/illustration_FE.jpg"/> </a> </p>
+           <p> <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13946"> <img src="/images/news/Graphical abstract.png"/> </a> </p>
           <!---><!--->
           <small>November-2020</small>
            <p> Our new paper is out in PNAS!! We used biophysical models to understand how water temperature and oxygen supply affects fish aerobic metabolism.</p>
