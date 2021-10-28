@@ -22,7 +22,7 @@ I am a postdoc interested in combining theory and data to understand the physiol
           <h5>News</h5>   
           <!---><!--->
           <small>November-2021</small>
-           <p> Chek out the first (of many!) collaboration with <a href="https://blancajimeno.wixsite.com/physcoping">Blanca Jimeno</a></p>
+           <p> Paper alert!! Glucocorticoids levels are related to thermoregulatory costs in birds worldwide - this is the first (of many!) collaboration with <a href="https://blancajimeno.wixsite.com/physcoping">Blanca Jimeno</a></p>
            <p> <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13946"> <img src="/images/news/Graphical abstract.png"/> </a> </p>
           <!---><!--->
           <small>November-2020</small>
