@@ -14,7 +14,7 @@ I am a postdoc interested in combining theory and data to understand the physiol
     <div class="column12">
        <div class="content">
            <h5></h5>
-       <iframe style="width: 500px; height: 800px;" src="https://jrubalcaba.github.io/twitter-embed/" width="300" height="150"></iframe>
+       <iframe style="width: 500px; height: 1600px;" src="https://jrubalcaba.github.io/twitter-embed/" width="300" height="150"></iframe>
        </div>
     </div>
     <div class="column12">
