@@ -21,14 +21,14 @@ I am a postdoc interested in combining theory and data to understand the physiol
        <div class="content">
           <h5>News</h5>   
           <!---><!--->
+          <small>November-2021</small>
+           <p> Chek out the first (of many!) collaboration with <a href="https://blancajimeno.wixsite.com/physcoping">Blanca Jimeno</a></p>
+           <p> <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13946"> <img src="/images/news/illustration_FE.jpg"/> </a> </p>
+          <!---><!--->
           <small>November-2020</small>
            <p> Our new paper is out in PNAS!! We used biophysical models to understand how water temperature and oxygen supply affects fish aerobic metabolism.</p>
            <p> <a href="https://doi.org/10.1073/pnas.2003292117"> <img src="/images/news/pnas cover.jpg"/> </a> </p>
            <p> <a href="/posts/oxygen_limitation"> Find out a lay summary here! <img src="/images/news/fig PNAS media.png"/> </a> </p>
-          <!---><!--->  
-          <small>March-2020</small>
-           <p> La unidad de cultura científica de la URJC se hace eco de nuestro paper! </p>
-           <p> <a href="https://www.urjc.es/todas-las-noticias-de-actualidad/5109-el-cambio-climatico-amenaza-la-supervivencia-de-lagartos-de-mayor-tamano"> <img src="/images/posts/lizard2.jpg"/> </a> </p>
           <!---><!--->   
     </div>
 </div>
