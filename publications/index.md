@@ -17,7 +17,7 @@ image:
      <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13946?af=R"> <img src="/images/jcovers/fec.v35.10.cover.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    <b> Rubalcaba, J. G. </b>, Jimeno, B. (in press). Biophysical models unravel associations between glucocorticoids and thermoregulatory costs across avian species. <i>Functional Ecology</i>, DOI: 10.1111/1365-2435.13946.
+    <b> Rubalcaba, J. G. </b>, Jimeno, B. (2021). Biophysical models unravel associations between glucocorticoids and thermoregulatory costs across avian species. <i>Functional Ecology</i>, DOI: 10.1111/1365-2435.13946.
   </div>
 </figure>
 
