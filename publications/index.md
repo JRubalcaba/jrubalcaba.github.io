@@ -82,7 +82,7 @@ image:
   <div align = "center"> 
   </div>
   <div align = "left"> 
-    Shah, A. A., Bacmeister, E. M. S., <b> Rubalcaba, J. G. </b>, Ghalambor C. K. (2020). Divergence and constraint in the thermal sensitivity of aquatic insect swimming performance. <i>Current Zoology</i>, zoaa040 <a href="https://academic.oup.com/cz/article/doi/10.1093/cz/zoaa040/5874443"> DOI: 10.1093/cz/zoaa040.</a>
+    <a href="https://academic.oup.com/cz/article/doi/10.1093/cz/zoaa040/5874443"> Shah, A. A., Bacmeister, E. M. S., <b> Rubalcaba, J. G. </b>, Ghalambor C. K. (2020). Divergence and constraint in the thermal sensitivity of aquatic insect swimming performance. <i>Current Zoology</i>, zoaa040 DOI: 10.1093/cz/zoaa040.</a>
   </div>
 </figure>
 
@@ -92,7 +92,7 @@ image:
   <div align = "center"> 
   </div>
   <div align = "left"> 
-    Gouveia, S. F., <b>Rubalcaba, J.G.</b>, Soukhovolsky, V., Tarasova, O., Barbosa, M., Real, R. (2020). Ecophysics reload—exploring applications of theoretical physics in macroecology. <i>Ecological Modelling</i>, 424, 109032.  <a href="https://www.sciencedirect.com/science/article/pii/S0304380020301046?dgcid=coauthor"> DOI: 10.1016/j.ecolmodel.2020.109032.</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0304380020301046?dgcid=coauthor"> Gouveia, S. F., <b>Rubalcaba, J.G.</b>, Soukhovolsky, V., Tarasova, O., Barbosa, M., Real, R. (2020). Ecophysics reload—exploring applications of theoretical physics in macroecology. <i>Ecological Modelling</i>, 424, 109032.  DOI: 10.1016/j.ecolmodel.2020.109032.</a>
   </div>
 </figure>
 
@@ -102,7 +102,7 @@ image:
   <div align = "center"> 
   </div>
   <div align = "left"> 
-    Fuentes, D., <b>Rubalcaba, J.G.</b>, Veiga, J.P., Polo, V. (2019). Long-term fitness consequences of breeding density in    starling colonies: an observational approach. <i>Journal of Ornithology</i>, 160, 1035-1042.  <a href="https://link.springer.com/article/10.1007/s10336-019-01674-7"> DOI: 10.1007/s10336-019-01674-7 </a>
+     <a href="https://link.springer.com/article/10.1007/s10336-019-01674-7"> Fuentes, D., <b>Rubalcaba, J.G.</b>, Veiga, J.P., Polo, V. (2019). Long-term fitness consequences of breeding density in    starling colonies: an observational approach. <i>Journal of Ornithology</i>, 160, 1035-1042. DOI: 10.1007/s10336-019-01674-7 </a>
   </div>
 </figure>
 
@@ -112,7 +112,7 @@ image:
   <div align = "center"> 
   </div>
   <div align = "left">   
-    <b>Rubalcaba, J. G.</b>, & Polo, V. (2018). Sex differences in early determinants of lifetime reproductive success in a polygynous bird: Should mothers adjust offspring sex ratios?. <i>The Auk</i>, 135, 400-408.<a href="https://academic.oup.com/auk/article-abstract/135/3/400/5148873?redirectedFrom=fulltext"> DOI: 10.1642/AUK-17-227.1.</a> 
+    <a href="https://academic.oup.com/auk/article-abstract/135/3/400/5148873?redirectedFrom=fulltext"> <b>Rubalcaba, J. G.</b>, & Polo, V. (2018). Sex differences in early determinants of lifetime reproductive success in a polygynous bird: Should mothers adjust offspring sex ratios?. <i>The Auk</i>, 135, 400-408. DOI: 10.1642/AUK-17-227.1.</a> 
   </div>
 </figure>
 
@@ -122,7 +122,7 @@ image:
   <div align = "center"> 
   </div>
   <div align = "left"> 
-    <b>Rubalcaba, J. G.</b>, Fuentes, D., Veiga, J. P. & Polo, V. (2017). Nest decoration as social signals by males and females: greenery and feathers in starling colonies. <i>Behavioral Ecology</i>, 28, 1369–1375.<a href="https://academic.oup.com/beheco/article/28/5/1369/4064360"> DOI: 10.1093/beheco/arx101.</a>  
+    <a href="https://academic.oup.com/beheco/article/28/5/1369/4064360"> <b>Rubalcaba, J. G.</b>, Fuentes, D., Veiga, J. P. & Polo, V. (2017). Nest decoration as social signals by males and females: greenery and feathers in starling colonies. <i>Behavioral Ecology</i>, 28, 1369–1375. DOI: 10.1093/beheco/arx101.</a>  
   </div>
 </figure>
 
@@ -132,7 +132,7 @@ image:
   <div align = "center"> 
   </div>
   <div align = "left"> 
-     <b>Rubalcaba, J.G.</b>, Polo, V., Maia, R., Rubenstein, D.R. & Veiga, J.P. (2016). Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings. <i>Journal of Evolutionary Biology</i>, 29, 1585-1592. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12893"> DOI: 10.1111/jeb.12893.</a> 
+     <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12893"> <b>Rubalcaba, J.G.</b>, Polo, V., Maia, R., Rubenstein, D.R. & Veiga, J.P. (2016). Sexual and natural selection in the evolution of extended phenotypes: the use of green nesting material in starlings. <i>Journal of Evolutionary Biology</i>, 29, 1585-1592. DOI: 10.1111/jeb.12893.</a> 
   </div>
 </figure>
 
@@ -142,7 +142,7 @@ image:
   <div align = "center"> 
   </div>
   <div align = "left">
-     <b>Rubalcaba, J.G.</b>, Veiga, J.P. & Polo, V. (2016). Is offspring dispersal related to male mating status? An experiment with the facultatively polygynous spotless starling. <i>Journal of Avian Biology</i>, 48, 203-208.<a href="https://onlinelibrary.wiley.com/doi/10.1111/jav.00974"> DOI: 10.1111/jav.00974.</a>
+     <a href="https://onlinelibrary.wiley.com/doi/10.1111/jav.00974"> <b>Rubalcaba, J.G.</b>, Veiga, J.P. & Polo, V. (2016). Is offspring dispersal related to male mating status? An experiment with the facultatively polygynous spotless starling. <i>Journal of Avian Biology</i>, 48, 203-208. DOI: 10.1111/jav.00974.</a>
   </div>
 </figure>
                 
@@ -151,7 +151,8 @@ image:
 <figure class = "third">
   <div align = "center"> 
   </div>
-  <div align = "left">                                                                                                                      Polo, V., <b>Rubalcaba, J.G.</b> & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. <i>Behavioral Ecology</i>, 26, 1131–1137. <a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> DOI: 10.1093/beheco/arv056.</a>    
+  <div align = "left"> 
+    <a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> Polo, V., <b>Rubalcaba, J.G.</b> & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. <i>Behavioral Ecology</i>, 26, 1131–1137. DOI: 10.1093/beheco/arv056.</a>    
     </div>
 </figure>
                        
@@ -160,7 +161,7 @@ image:
 <figure class = "third">
   <div align = "center"> 
   </div>
-   <div align = "left">                                                                                                                      <b>Rubalcaba, J.G.</b> (2017).   <a href="/publications/JGR_Thesis.pdf"> PhD Thesis. </a> Sexual asymmetry of avian life histories: a comparative study in Sturnidae, and  experimental and theoretical approaches in the polygynous spotless starling.
+   <div align = "left">                                                                                                                      <b>Rubalcaba, J.G.</b> (2017).   <a href="/publications/JGR_Thesis.pdf"> PhD Thesis. Sexual asymmetry of avian life histories: a comparative study in Sturnidae, and  experimental and theoretical approaches in the polygynous spotless starling.</a> 
     </div>
 </figure>
             
