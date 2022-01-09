@@ -96,7 +96,7 @@ image:
 
 <div align = "left"> 
   <a href="https://link.springer.com/article/10.1007/s10336-019-01674-7"> Fuentes, D., <b>Rubalcaba, J.G.</b>, Veiga, J.P., Polo, V. (2019). Long-term fitness consequences of
-    breeding density in starling colonies: an observational approach. <i>Journal of Ornithology</i>, 160, 1035-1042. DOI: 10.1007/s10336-019-01674-7 </a>
+    breeding density in starling colonies: an observational approach. <i>Journal of Ornithology</i>, 160, 1035-1042. DOI: 10.1007/s10336-019-01674-7. </a>
 </div>
 <p></p>
 
