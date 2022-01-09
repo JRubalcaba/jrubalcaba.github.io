@@ -161,7 +161,8 @@ image:
 <figure class = "third">
   <div align = "center"> 
   </div>
-   <div align = "left">                                                                                                                      <b>Rubalcaba, J.G.</b> (2017).   <a href="/publications/JGR_Thesis.pdf"> PhD Thesis. Sexual asymmetry of avian life histories: a comparative study in Sturnidae, and  experimental and theoretical approaches in the polygynous spotless starling.</a> 
+   <div align = "left">                                                                                                                      
+     <a href="/publications/JGR_Thesis.pdf"><b>Rubalcaba, J.G.</b> (2017). PhD Thesis. Sexual asymmetry of avian life histories: a comparative study in Sturnidae, and  experimental and theoretical approaches in the polygynous spotless starling.</a> 
     </div>
 </figure>
             
