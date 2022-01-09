@@ -77,24 +77,21 @@ image:
 
 <!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!--->
 
-<figure class = "third">
   <div align = "center">
-    NA
   </div>
   <div align = "left"> 
-    Shah, A. A., Bacmeister, E. M. S., <b> Rubalcaba, J. G. </b>, Ghalambor C. K. (2020). Divergence and constraint in the thermal sensitivity of aquatic insect swimming performance. <i>Current Zoology</i>, zoaa040 DOI: 10.1093/cz/zoaa040.
+    Shah, A. A., Bacmeister, E. M. S., <b> Rubalcaba, J. G. </b>, Ghalambor C. K. (2020). Divergence and constraint in the thermal sensitivity of aquatic insect swimming performance. <i>Current Zoology</i>, zoaa040. DOI: 10.1093/cz/zoaa040.
   </div>
-</figure>
+
 
 <!---><!--->
 
-<figure class = "third">
   <div align = "center"> 
   </div>
   <div align = "left"> 
     <a href="https://www.sciencedirect.com/science/article/pii/S0304380020301046?dgcid=coauthor"> Gouveia, S. F., <b>Rubalcaba, J.G.</b>, Soukhovolsky, V., Tarasova, O., Barbosa, M., Real, R. (2020). Ecophysics reload—exploring applications of theoretical physics in macroecology. <i>Ecological Modelling</i>, 424, 109032.  DOI: 10.1016/j.ecolmodel.2020.109032.</a>
   </div>
-</figure>
+
 
 <!---><!--->
 
