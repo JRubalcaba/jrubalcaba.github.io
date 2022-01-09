@@ -8,7 +8,7 @@ tags: []
 image:
   feature: lakemontana.jpg
 ---
-I am a postdoc interested in combining theory and data to understand the physiological and behavioural mechanisms that determine global biodiversity patterns and their responses to climate change. Currently, I am a Marie-Curie fellow working with <a href="http://jennsunday.weebly.com/"> Jennifer Sunday </a> in McGill University (Montreal).
+SCALE is a MSCA project that investigates the biophysical mechanisms underpinning broad-scale patterns in macroecology and macroevolution and the response of organisms to climate change. 
 
 <div class="grid">
     <div class="column12">
