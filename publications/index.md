@@ -80,6 +80,7 @@ image:
   <div align = "left"> 
     <a href="https://academic.oup.com/cz/article/doi/10.1093/cz/zoaa040/5874443">  Shah, A. A., Bacmeister, E. M. S., <b> Rubalcaba, J. G. </b>, Ghalambor C. K. (2020). Divergence and constraint in the thermal sensitivity of aquatic insect swimming performance. <i>Current Zoology</i>, zoaa040. DOI: 10.1093/cz/zoaa040. </a>
   </div>
+  <p></p>
 
 <!---><!--->
 
@@ -124,8 +125,7 @@ image:
   <div align = "left"> 
     <a href="https://academic.oup.com/beheco/article/26/4/1131/210664"> Polo, V., <b>Rubalcaba, J.G.</b> & Veiga, J.P. (2015). Green plants in the nest reduce offspring recruitment rates in the spotless starling. <i>Behavioral Ecology</i>, 26, 1131–1137. DOI: 10.1093/beheco/arv056.</a>    
     </div>
-</figure>
-                       
+           
 <!---><!--->
 
 <div align = "left">                                                                                                                      
