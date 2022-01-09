@@ -39,7 +39,7 @@ image:
   
   <div class="tile">
     <h2 class="post-title">
-    <a href="https://jrubalcaba.shinyapps.io/app_oxlim/"><img src="/images/posts/lizard2.jpg"/> Tamaño corporal y latitud determinan el riesgo térmico para los lagartos </a></h2>
+    <a href="https://www.urjc.es/todas-las-noticias-de-actualidad-cientifica/5109-el-cambio-climatico-amenaza-la-supervivencia-de-lagartos-de-mayor-tamano"><img src="/images/posts/lizard2.jpg"/> Tamaño corporal y latitud determinan el riesgo térmico para los lagartos </a></h2>
     <p class="post-excerpt"> Comparando modelos biofísicos y datos fisiológicos - Noticia URJC científica! </p>
   </div> 
   
