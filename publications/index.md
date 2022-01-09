@@ -77,13 +77,13 @@ image:
 
 <!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!--->
 
-<figure class = "half">
-  <div align = "center">
-  </div>
+<figure class = "third">
+  <div></div>
+  <div></div>
   <div align = "left"> 
     <a href="https://academic.oup.com/cz/article/doi/10.1093/cz/zoaa040/5874443">  Shah, A. A., Bacmeister, E. M. S., <b> Rubalcaba, J. G. </b>, Ghalambor C. K. (2020). Divergence and constraint in the thermal sensitivity of aquatic insect swimming performance. <i>Current Zoology</i>, zoaa040. DOI: 10.1093/cz/zoaa040. </a>
   </div>
-</half>
+</figure>
 
 <!---><!--->
 
