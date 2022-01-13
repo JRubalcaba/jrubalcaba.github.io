@@ -11,7 +11,7 @@ image:
 ---
 
 <figure class = "half">
-<img src="/images/SCALE.jpg" height="370px" width="400px"> 
+<img src="/images/SCALE.png" height="370px" width="400px"> 
 
 <p>Realistic projections of the biological impacts of climate change require a unified framework capable of integrating advances from distinct research areas such as ecophysiology, behavioural ecology, and biogeography. Mechanistic modelling in macroecology arises as a promising framework to address this challenge, because it aims at describing biodiversity patterns from biophysical, physiological, and behavioural processes determining the way organisms interact with their environment. Nonetheless, mechanistic modelling face further challenges such as the need to connect processes across scales and levels of ecological organization.</p>
 <p>SCALE is a Marie-Curie funded project that investigates how organismal-microclimate interactions influence broad-scale patterns and thermal adaptations of ectotherms, a group that is especially vulnerable to global change, across climatic gradients.</p>
