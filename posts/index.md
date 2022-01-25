@@ -64,7 +64,7 @@ image:
   <div class="tile">
     <h2 class="post-title">
     <a href="https://besjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1365-2435.13946&file=fec13946-sup-0001-Summary.pdf"><img src="/images/news/Graphical abstract.png"/> Biophysical modelling of thermoregulatory costs </a></h2>
-    <p class="post-excerpt"> Plain-language summary of our recent publication showing associations between thermoregulatory energy expenditure and glucocorticoides levels in birds </p>
+    <p class="post-excerpt"> Plain language summary of our recent publication showing associations between thermoregulatory energy expenditure and glucocorticoid levels in birds </p>
   </div>
   
   <!---><!--->
