@@ -22,7 +22,7 @@ SCALE is a MSCA project that investigates the biophysical mechanisms underpinnin
           <h5>News</h5> 
           <!---><!--->
           <small>January-2022</small>
-           <p> Just accepted in PNAS!! "Physical constraints drive morphological evolution in bats" - stay tuned! :) </p>
+           <p> Just accepted in PNAS!! "Physical constraints on thermoregulation and flight drive morphological evolution in bats" - stay tuned! :) </p>
           <!---><!--->
           <small>November-2021</small>
            <p> Paper alert!! Glucocorticoids levels are related to thermoregulatory costs in birds worldwide - my first (of many!) collaboration with <a href="https://blancajimeno.wixsite.com/physcoping">Blanca Jimeno</a></p>
