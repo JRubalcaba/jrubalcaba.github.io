@@ -16,9 +16,9 @@ layout: article
 
 <h2> Presentaciones clase </h2>
 
-<p> <a href="/posts/Material Master URJC/Presentación_teoria.pdf"> Presentación teoría </a> </p>
+<p> <a href="/posts/Material Master URJC/Presentacion_teoria.pdf"> Presentación teoría </a> </p>
 
-<p> <a href="/posts/Material Master URJC/Presentación_practica.pdf"> Presentación práctica </a> </p>
+<p> <a href="/posts/Material Master URJC/Presentacion_practica.pdf"> Presentación práctica </a> </p>
 
 <h2> Referencias </h2>
 
