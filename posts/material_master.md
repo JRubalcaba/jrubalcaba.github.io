@@ -12,15 +12,13 @@ layout: article
 
 3. Decarga los <a href="/posts/Material Master URJC/data_temp.csv"> datos de temperatura </a> para la práctica.
 
-4. Tienes una explicación paso a paso en estos <a href="/posts/Material Master URJC/Videos.zip"> videos </a>.
-
-5. <a href="/posts/Material Master URJC/Trabajo - Modelo ectotermo.docx"> Trabajo de prácticas </a>
+4. <a href="/posts/Material Master URJC/Trabajo - Modelo ectotermo.docx"> Trabajo de prácticas </a>
 
 <h2> Presentaciones clase </h2>
 
-<p> <a href="/posts/Material Master URJC/Presentación_teoría.pdf"> Presentación teoría </a> </p>
+<p> <a href="/posts/Material Master URJC/Presentación_teoria.pdf"> Presentación teoría </a> </p>
 
-<p> <a href="/posts/Material Master URJC/Presentación_práctica.pdf"> Presentación práctica </a> </p>
+<p> <a href="/posts/Material Master URJC/Presentación_practica.pdf"> Presentación práctica </a> </p>
 
 <h2> Referencias </h2>
 
