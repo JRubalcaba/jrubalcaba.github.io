@@ -154,7 +154,7 @@ microambiente
 
 # Estos datos han sido generados con el paquete NicheMapR (Kearney and Porter 2017 Ecography) 
 
-dir <- "C:/Users/Juanvigr/Dropbox/Presentaciones varias/Clases URJC/Master 2021-2022/Practica" # Introduce el directorio donde tienes el archivo "data_temp.csv"
+dir <- "..." # Introduce el directorio donde tienes el archivo "data_temp.csv"
 data_temp <- read.csv(paste0(dir,"/data_temp.csv"))
 
 head(data_temp) # Ta_sol / Ta_sombra (temperatura del aire sol / sombra, ºC) - Rad_sol / Rad_sombra (radiación solar, Wm-2)
@@ -322,7 +322,7 @@ for(i in 1:nrow(xy.values)){
       microambiente[t] <- microambiente[t-1]
     }
   }
-
+  
   Tb_paleartico[,i] <- Tb
   microambiente_paleartico[,i] <- microambiente
   
@@ -330,8 +330,8 @@ for(i in 1:nrow(xy.values)){
   
 }
 
-# save(Tb_paleartico, file=paste0(dir,"/Tb_paleartico_5g.RData"))
-# save(microambiente_paleartico, file=paste0(dir,"/microambiente_paleartico_5g.RData"))
+load(file=paste0(dir,"/Tb_paleartico_5g.RData"))
+load(file=paste0(dir,"/microambiente_paleartico_5g.RData"))
 
 # Temperatura máxima
 
