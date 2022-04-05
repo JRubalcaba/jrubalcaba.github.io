@@ -13,6 +13,17 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
+     <a href="https://www.pnas.org/doi/full/10.1073/pnas.2103745119"> <img src="/images/jcovers/pnas22.jpg" height="100px" width="75px" /></a>
+  </div>
+  <div align = "left"> 
+    <b> Rubalcaba, J. G. </b>, Jimeno, B. (2021). Physical constraints on thermoregulation and flight drive morphological evolution in bats. <i>PNAS</i>, DOI: 10.1073/pnas.2103745119.
+  </div>
+</figure>
+
+<!---><!--->
+
+<figure class = "third">
+  <div align = "center"> 
      <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13946?af=R"> <img src="/images/jcovers/fec.v35.10.cover.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
