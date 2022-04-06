@@ -21,17 +21,13 @@ SCALE is a MSCA project that investigates the biophysical mechanisms underpinnin
        <div class="content">
           <h5>News</h5> 
           <!---><!--->
-          <small>January-2022</small>
+          <small>Aprily-2022</small>
            <p> New paper out in PNAS! "Physical constraints on thermoregulation and flight drive morphological evolution in bats"</p>
            <p> <a href="https://www.pnas.org/doi/10.1073/pnas.2103745119"> <img src="/images/news/Image1_scheme.png"/> </a> </p>
           <!---><!--->
           <small>November-2021</small>
            <p> Paper alert!! Glucocorticoids levels are related to thermoregulatory costs in birds worldwide - my first (of many!) collaboration with <a href="https://blancajimeno.wixsite.com/physcoping">Blanca Jimeno</a></p>
            <p> <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13946"> <img src="/images/news/Graphical abstract.png"/> </a> </p>
-          <!---><!--->
-          <small>November-2020</small>
-           <p> Our new paper is out in PNAS!! We used biophysical models to understand how water temperature and oxygen supply affects fish aerobic metabolism.</p>
-           <p> <a href="/posts/oxygen_limitation"> Find out a lay summary here! <img src="/images/news/fig PNAS media.png"/> </a> </p>
           <!---><!--->   
     </div>
 </div>
