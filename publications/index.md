@@ -16,7 +16,7 @@ image:
      <a href="https://www.pnas.org/doi/full/10.1073/pnas.2103745119"> <img src="/images/jcovers/pnas22.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    <b> Rubalcaba, J. G. </b>, Gouveia, S. F., Villalobos, F., Cruz-Neto, A. P., Castro G. C., Amado, T. F., Martínez, P. A., Navas C. A., Dobrovolski R., Diniz-Filho J. A. F., Olalla-Tárraga, M. Á. (2021). Physical constraints on thermoregulation and flight drive morphological evolution in bats. <i>PNAS</i>, DOI: 10.1073/pnas.2103745119.
+    <b> Rubalcaba, J. G. </b>, Gouveia, S. F., Villalobos, F., Cruz-Neto, A. P., Castro G. C., Amado, T. F., Martínez, P. A., Navas C. A., Dobrovolski R., Diniz-Filho J. A. F., Olalla-Tárraga, M. Á. (2022). Physical constraints on thermoregulation and flight drive morphological evolution in bats. <i>PNAS</i>, DOI: 10.1073/pnas.2103745119.
   </div>
 </figure>
 
