@@ -89,6 +89,13 @@ image:
 <!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!---><!--->
 
 <div align = "left">  
+  <a href="https://onlinelibrary.wiley.com/doi/10.1111/aje.13051"> Wamiti, W., Gichuki, N., Sigana, D. A. O., Njoroge, P., Morrison, K., Schröder, W., Ndung'u, G.,  Warui, G, <b>Rubalcaba, J. G. </b> (2022). Nesting habits of grey crowned crane Balearica regulorum in Lake Ol’ Bolossat basin, Kenya. <i> African Journal of Ecology </i>, e02993. DOI: [10.1111/jav.02993](https://doi.org/10.1111/aje.13051).</a> 
+</div>
+<p></p>
+
+<!---><!--->
+
+<div align = "left">  
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jav.02993"> <b>Rubalcaba, J. G.</b>, & Polo, V. (2022). Density dependence of clutch size and offspring sex ratio in starling colonies. <i>Journal of Avian Biology </i>, e02993. DOI: 10.1111/jav.02993.</a> 
 </div>
 <p></p>
