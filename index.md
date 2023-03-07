@@ -23,6 +23,7 @@ SCALE is a MSCA project that investigates the biophysical mechanisms underpinnin
           <!---><!--->
           <small>March-2023</small>
            <p> Check out our new paper in Nature E&E!! "Climate drives global functional trait variation in lizards" </p>
+           <p> Full text: <a href=" https://rdcu.be/c6ZWG"> https://rdcu.be/c6ZWG </a> </p>
            <p> <a href="https://www.nature.com/articles/s41559-023-02007-x"> <img src="/images/news/lizards.jpg"/> </a> </p>
           <!---><!--->
           <small>Aprily-2022</small>
