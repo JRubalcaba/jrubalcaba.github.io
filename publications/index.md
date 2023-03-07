@@ -13,6 +13,17 @@ image:
 
 <figure class = "third">
   <div align = "center"> 
+     <a href="https://www.nature.com/articles/s41559-023-02007-x"> <img src="/images/jcovers/NEE.jpg" height="100px" width="75px" /></a>
+  </div>
+  <div align = "left"> 
+    <b> Rubalcaba, J. G. </b>, Gouveia, S. F., Villalobos, Olalla-Tárraga, M. Á., Sunday, J. (2023). Climate drives global functional trait variation in lizards. <i> Nature Ecology & Evolution </i>, DOI: 10.1038/s41559-023-02007-x.
+  </div>
+</figure>
+
+<!---><!--->
+
+<figure class = "third">
+  <div align = "center"> 
      <a href="https://www.pnas.org/doi/full/10.1073/pnas.2103745119"> <img src="/images/jcovers/pnas22.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
