@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Selected publications"
 layout: home
 output:
   html_document: home
