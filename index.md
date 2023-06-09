@@ -8,7 +8,6 @@ tags: []
 image:
   feature: lakemontana.jpg
 ---
-SCALE is a MSCA project that investigates the biophysical mechanisms underpinning broad-scale patterns in macroecology and macroevolution and the response of organisms to climate change. 
 
 <div class="grid">
     <div class="column12">
