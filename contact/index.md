@@ -13,6 +13,6 @@ image:
   <img src="../images/jr.jpg" height="300px" width="500px"/>
   <h4> Juan G. Rubalcaba </h4> 
     <p> jg.rubalcaba@gmail.com  </p>
-    <p> Marie-Curie Fellow at McGill University 
-    (1205 Docteur Penfield Montreal, QC, Canada) </p>
+    <p> Senior researcher (Talent Attraction program, Comunidad de Madrid) at Universidad Complutense de Madrid
+    Despacho 18, planta 9, Fac CC Biológicas (Edificio A) </p>
 </figure>
