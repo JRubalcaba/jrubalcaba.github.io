@@ -12,8 +12,8 @@ image:
 <h4> Assessing the energetic impacts of climate change on biodiversity (2022-T1/AMB-23753) </h4>
 <figure class = "half">
   <img src="/images/TCAM.jpg">
-  <p> Climate warming challenges the capacity of organisms to balance heat and water budgets, affeting homostasis, survival, and overall fitness. In this project, we aim to quantify the impacts of increasing ambient temperature on energy metabolism in both endotherms and ecotherms, across global climatic gradients </p>
-  <p> This project combines field metabolic rates collected from the literature covering more than 3 decades of empirical research and biophysical models, used to gain knowledge on the mechanisms underlying metabolic responses of animals to temperature fluctuations. </p>
+  <p> Climate warming challenges the capacity of organisms to balance heat and water budgets, affeting homostasis, survival, and overall fitness. In this project, we aim to quantify the impacts of warming on energy metabolism in both endotherms and ecotherms, across global climatic gradients. </p>
+  <p> The project combines field metabolic rates collected from the literature covering more than 3 decades of empirical research and biophysical models, used to gain knowledge on the mechanisms underlying metabolic responses of animals to temperature fluctuations. </p>
 </figure>
 
 <h4> Former projects </h4>
