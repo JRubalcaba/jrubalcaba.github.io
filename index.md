@@ -9,7 +9,7 @@ image:
   feature: lakemontana.jpg
 ---
 
-<p> Wecolme to the Biophysical Ecology Lab! We are a young lab landing at the Department of Biodiversity, Ecology and Evolution (Faculty of Biological Sciences, Complutense University of Madrid). Check out our 
+<p  style="font-size:11px; "> Wecolme to the Biophysical Ecology Lab! We are a young lab landing at the Department of Biodiversity, Ecology and Evolution (Faculty of Biological Sciences, Complutense University of Madrid). Check out our 
   <a href="https://jrubalcaba.github.io/research/"> research projects </a>,
   <a href="https://jrubalcaba.github.io/publications/"> publications </a>, and 
   <a href="https://jrubalcaba.github.io/posts/"> posts! </a> </p>
