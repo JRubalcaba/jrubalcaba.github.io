@@ -12,7 +12,7 @@ image:
 <h4> Biophysical constraints on the evolution of lizard morphology </h4>
 <figure class = "half">
   <img src="/images/evomorph.png" height="100px" width="166px">
-  <p style="font-size:16px; "> Climate affects physiological performance and fitness of organisms - particularly ectotherms - modulating evolutionary adaptations across many different traits involved in thermoregulation such as body size and shape, or radiative properties of the skin. </p>
+  <p style="font-size:16px; "> Climate affects physiological performance and fitness of organisms - particularly ectotherms - modulating evolutionary adaptations of multiple involved in thermoregulation such as body size and shape, radiative properties of the skin, thermal physiology or behavior. </p>
   <p style="font-size:16px; "> <i> evomorph </i> studies morphological adaptations of lizards to extreme environments. We perform 3D reconstructions of lizards combined with biophysical (heat-transfer) models to test how morpohlogy affects body temperature and thermoregulatory capacity. Ultimately, we are interested in the mechanisms driving morphological evolution of lizards and in developing accurate, mechanism-oriented forecasts of their responses to climate change. </p>
   <p style="font-size:14px; "> Funding: Spanish National Research Agency (Proyectos de Generación de Conocimiento 2023, Agencia Estatal de Investigación). PID2023-148774NA-I00. 80k€ (2025-2028)</p>
 </figure>
