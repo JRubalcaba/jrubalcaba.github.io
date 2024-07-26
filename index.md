@@ -21,7 +21,7 @@ image:
           <h5>News</h5> 
           <!---><!--->
           <small>July-2024</small>
-           <p> New project granted! <i> evomorph </i> by the Natial Research Agency" </p>
+           <p> New project granted! <i> evomorph </i> program "Proyectos de Generación de Conocimiento" by the Spanish Research Agency" </p>
            <p> <a href="https://rdcu.be/c6ZWG](https://jrubalcaba.github.io/research/"> Take a look at the project's summary! </a> </p>
           <!---><!--->
     </div>
