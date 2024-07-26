@@ -8,7 +8,7 @@ tags: []
 image:
   feature: lakemontana.jpg
 ---
-<p> Wecolme to the Biophysical Ecology Lab's website! This is a young lab led by Juan G. Rubalcaba at the Department of Biodiversity, Ecology and Evolution (Faculty of Biological Sciences, Complutense University of Madrid). Navigate through our 
+<p> Wecolme to the Biophysical Ecology Lab's website! We are a young lab (led by Juan G. Rubalcaba) establishing at the Department of Biodiversity, Ecology and Evolution (Faculty of Biological Sciences, Complutense University of Madrid). Navigate through our 
   <a href="https://jrubalcaba.github.io/research/"> research projects </a>,
   <a href="https://jrubalcaba.github.io/publications/"> publications </a>, and 
   <a href="https://jrubalcaba.github.io/posts/"> posts! </p>
