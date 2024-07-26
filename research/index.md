@@ -19,7 +19,7 @@ image:
 
 <h4> Assessing the energetic impacts of climate change on biodiversity </h4>
 <figure class = "half">
-  <img src="/images/TCAM.jpg" height="300px" width="500px">
+  <img src="/images/TCAM.jpg" height="300px" width="450px">
   <p> Climate warming challenges the capacity of organisms to balance heat and water budgets, affeting homostasis, survival, and overall fitness. In this project, we aim to quantify the impacts of warming on energy metabolism in both endotherms and ecotherms, across global climatic gradients. </p>
   <p> The project combines field metabolic rates collected from the literature throughout more than three decades of field research and biophysical models, used to gain knowledge about the mechanisms underlying metabolic responses of animals to temperature fluctuations. </p>
   <p> Funding: Talent Attraction Program for Senior Researchers 2022, Comunidad de Madrid (Spain). 2022-T1/AMB-23753. 180k€ (2023-2028) </p>
