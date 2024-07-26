@@ -11,7 +11,7 @@ image:
 <p> Wecolme to the Biophysical Ecology Lab's website! We are a young lab (led by Juan G. Rubalcaba) establishing at the Department of Biodiversity, Ecology and Evolution (Faculty of Biological Sciences, Complutense University of Madrid). Navigate through our 
   <a href="https://jrubalcaba.github.io/research/"> research projects </a>,
   <a href="https://jrubalcaba.github.io/publications/"> publications </a>, and 
-  <a href="https://jrubalcaba.github.io/posts/"> posts! </p>
+  <a href="https://jrubalcaba.github.io/posts/"> posts! </a> </p>
 <div class="grid">
     <div class="column12">
        <div class="content">
