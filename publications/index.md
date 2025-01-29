@@ -10,7 +10,7 @@ image:
 ---
 
 <!---><!--->
-
+Complete publication list in <a href="https://scholar.google.es/citations?user=iz0jOAsAAAAJ&hl=es"> Google Scholar </a>
 <figure class = "third">
   <div align = "center"> 
      <a href="https://www.nature.com/articles/s41559-023-02007-x"> <img src="/images/jcovers/NEE.jpg" height="100px" width="75px" /></a>
