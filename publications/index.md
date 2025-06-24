@@ -15,7 +15,7 @@ Complete publication list in <a href="https://scholar.google.es/citations?user=i
 
 <figure class = "third">
   <div align = "center"> 
-     <a href="https://www.journals.uchicago.edu/doi/full/10.1086/736225?journalCode=an"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a>
+     <a href="https://www.journals.uchicago.edu/doi/full/10.1086/736225?casa_token=qKFX2Zcbuj0AAAAA:KBJtriAE02ShiwCnVWnzIEDph6QlKKljIcHDQghPwngvDgj1MliSoQDOXJzk66f5dOgaV-zCNec&casa_token=2lJCAQIx_Z0AAAAA:nUWUZQ3kM84Hwb19t-TqUZ3k3j1_FyI04BquDtcs5JD-MkaB7oKOxdlybOEkfZXvy0M-NBhY1HA"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
     The evolution of homeothermic endothermy via life history optimization. <i> American Naturalist </i>, Rubalcaba, J. G. (2025).
