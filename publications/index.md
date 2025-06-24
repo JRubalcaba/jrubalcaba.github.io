@@ -15,7 +15,7 @@ Complete publication list in <a href="https://scholar.google.es/citations?user=i
 
 <figure class = "third">
   <div align = "center"> 
-     <a href="https://www.journals.uchicago.edu/doi/full/10.1086/736225?journalCode=an"> <img src="/images/jcovers/AmNat.jpg" height="100px" width="75px" /></a>
+     <a href="https://www.journals.uchicago.edu/doi/full/10.1086/736225?journalCode=an"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
     Rubalcaba, J. G. (2025). The evolution of homeothermic endothermy via life history optimization. <i> American Naturalist </i>, DOI: https://doi.org/10.1086/736225.
