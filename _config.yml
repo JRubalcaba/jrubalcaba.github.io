@@ -8,7 +8,7 @@ locale: en
 url: //jrubalcaba.github.io
 feed:
   path: atom.xml
-
+toc: false
 # Jekyll configuration
 
 sass:
