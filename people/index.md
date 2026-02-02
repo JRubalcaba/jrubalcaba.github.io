@@ -20,7 +20,7 @@ image:
 <b> Pablo Ortigosa (BSc student, Nov 2025–ongoing). </b> Pablo’s undergraduate project takes a comparative approach to investigate biogeographic patterns of body size and shape in lizards.
 
 <h2> Past members </h2>
-<b> Marta Correas-Araus (research assistant, Nov 2024–Dec 2025). </b> Marta focuses on compiling metabolic data in mammals. Her work has led to a scientific manuscript currently under review. Preprint: https://www.researchsquare.com/article/rs-6651627/v1
+<b> Marta Correas-Araus (research assistant, Nov 2024–Dec 2025). </b> Marta focuses on compiling metabolic data in mammals. Her work has led to a scientific manuscript currently under review. <a href="https://www.researchsquare.com/article/rs-6651627/v1"> Preprint</a>.
 
 <b> Sofía Travieso (MSc student, completed Sept 2025). </b> Sofía studied how body size influences heat balance in lizards through experimental work.
 
