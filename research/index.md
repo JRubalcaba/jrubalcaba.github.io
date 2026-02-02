@@ -1,5 +1,5 @@
 ---
-title: "Ongoing projects"
+title: ""
 layout: home
 output:
   html_document: home
