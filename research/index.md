@@ -9,6 +9,8 @@ image:
   feature: Mpala.jpg
 
 ---
+My research explores how animals respond to environmental change, with a particular focus on how climate shapes physiology, behavior, and energy use. By studying how animals exchange heat, water, oxygen, and nutrients with their surroundings, I aim to understand where species can live, how they function, and how they may respond to ongoing climate change. I combine theoretical models with empirical data across a wide range of animal groups and ecosystems.
+
 <h4> Biophysical constraints on the evolution of lizard morphology </h4>
 <figure class = "half">
   <img src="/images/evomorph.png" height="100px" width="166px">
