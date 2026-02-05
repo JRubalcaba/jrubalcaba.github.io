@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Resources"
+title: 
 #excerpt: ""
 tags: []
 image:
