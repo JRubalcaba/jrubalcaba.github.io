@@ -82,7 +82,7 @@ image:
  
   <div class="tile">
     <h2 class="post-title"><a href="[https://www.urjc.es/todas-las-noticias-de-actualidad/7195-la-temperatura-y-vuelo-de-los-murcielagos-claves-para-definir-su-tamano](https://www.amnat.org/an/newpapers/Aug-2025-Rubalcaba.html)">
-    <img src="/images/news/Image1_scheme.png"/>
+    <img src="/images/news/endothermy.png"/>
    Why we aren’t lizards: the evolution of endothermy through optimizing life history </a></h2>
     <p class="post-excerpt"> Why do endotherms spend so much energy? A theoretical model shows that species followed one of two possible evolutionary pathways: live fast while spending a lot (homeotherms), live slowly and keep your costs low (heterotherms) </p>
   </div>
