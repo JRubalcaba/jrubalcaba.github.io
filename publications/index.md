@@ -19,7 +19,7 @@ Complete publication list in <a href="https://scholar.google.es/citations?user=i
   </div>
   <div align = "left"> 
     The evolution of homeothermic endothermy via life history optimization. <i> American Naturalist </i>, Rubalcaba, J. G. (2025).
-    <p></p><a href="https://www.researchgate.net/publication/390901756_The_evolution_of_homeothermic_endothermy_via_life-history_optimization"> Full text.</a></p>
+    <p></p><a href="https://www.researchgate.net/publication/390901756_The_evolution_of_homeothermic_endothermy_via_life-history_optimization"> Full text.</a>
   </div>
 </figure>
 
