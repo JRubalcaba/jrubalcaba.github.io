@@ -19,6 +19,7 @@ Complete publication list in <a href="https://scholar.google.es/citations?user=i
   </div>
   <div align = "left"> 
     The evolution of homeothermic endothermy via life history optimization. <i> American Naturalist </i>, Rubalcaba, J. G. (2025).
+    <a href="https://www.researchgate.net/publication/390901756_The_evolution_of_homeothermic_endothermy_via_life-history_optimization">  Full text. </a>
   </div>
 </figure>
 
@@ -28,7 +29,7 @@ Complete publication list in <a href="https://scholar.google.es/citations?user=i
      <a href="https://www.nature.com/articles/s41559-023-02007-x"> <img src="/images/jcovers/NEE.jpg" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    Climate drives global functional trait variation in lizards. <i> Nature Ecology & Evolution </i>, Rubalcaba, J. G., Gouveia, S. F., Villalobos, Olalla-Tárraga, M. Á., Sunday, J. (2023).
+    Climate drives global functional trait variation in lizards. <i> Nature Ecology & Evolution </i>, Rubalcaba, J. G., Gouveia, S. F., Villalobos, Olalla-Tárraga, M. Á., Sunday, J. (2023). <a href="https://zenodo.org/records/7777427">  Full text. </a>
   </div>
 </figure>
 
