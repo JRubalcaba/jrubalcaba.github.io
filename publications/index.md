@@ -15,14 +15,22 @@ Complete publication list in <a href="https://scholar.google.es/citations?user=i
 
 <figure class = "third">
   <div align = "center"> 
-     <a href="https://www.journals.uchicago.edu/doi/full/10.1086/736225?casa_token=qKFX2Zcbuj0AAAAA:KBJtriAE02ShiwCnVWnzIEDph6QlKKljIcHDQghPwngvDgj1MliSoQDOXJzk66f5dOgaV-zCNec&casa_token=2lJCAQIx_Z0AAAAA:nUWUZQ3kM84Hwb19t-TqUZ3k3j1_FyI04BquDtcs5JD-MkaB7oKOxdlybOEkfZXvy0M-NBhY1HA"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a>
+     <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.70293"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    The evolution of homeothermic endothermy via life history optimization. <i> American Naturalist </i>, Rubalcaba, J. G. (2025).
-    <a href="https://www.researchgate.net/publication/390901756_The_evolution_of_homeothermic_endothermy_via_life-history_optimization">Full text.</a>
+   Metabolic Responses of Mammals to Temperature Anomalies Vary Across Climates. <i> Global Ecology and Biogeography </i>, Rubalcaba, J. G. & Correas-Araus, M. (2026).
   </div>
 </figure>
 
+<!---><!--->
+<figure class = "third">
+  <div align = "center"> 
+     <a href="https://www.nature.com/articles/s41559-023-02007-x"> <img src="/images/jcovers/NEE.jpg" height="100px" width="75px" /></a>
+  </div>
+  <div align = "left"> 
+    Climate drives global functional trait variation in lizards. <i> Nature Ecology & Evolution </i>, Rubalcaba, J. G., Gouveia, S. F., Villalobos, Olalla-Tárraga, M. Á., Sunday, J. (2023). <a href="https://zenodo.org/records/7777427">  Full text. </a>
+  </div>
+</figure>
 <!---><!--->
 <figure class = "third">
   <div align = "center"> 
