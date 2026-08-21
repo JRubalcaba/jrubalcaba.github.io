@@ -25,10 +25,10 @@ Complete publication list in <a href="https://scholar.google.es/citations?user=i
 <!---><!--->
 <figure class = "third">
   <div align = "center"> 
-     <a href="https://www.nature.com/articles/s41559-023-02007-x"> <img src="/images/jcovers/NEE.jpg" height="100px" width="75px" /></a>
+     <a href="https://doi.org/10.1086/736225"> <img src="/images/jcovers/AmNat.gif" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-    Climate drives global functional trait variation in lizards. <i> Nature Ecology & Evolution </i>, Rubalcaba, J. G., Gouveia, S. F., Villalobos, Olalla-Tárraga, M. Á., Sunday, J. (2023). <a href="https://zenodo.org/records/7777427">  Full text. </a>
+    The Evolution of Homeothermic Endothermy via Life History Optimization. <i> American Naturalist </i>, Rubalcaba, J. G. (2025). <a href="https://www.researchgate.net/profile/Juan-Rubalcaba/publication/390901756_The_evolution_of_homeothermic_endothermy_via_life-history_optimization/links/685918d093040b17338cad04/The-Evolution-of-Homeothermic-Endothermy-via-Life-History-Optimization.pdf">  Full text. </a>
   </div>
 </figure>
 <!---><!--->
