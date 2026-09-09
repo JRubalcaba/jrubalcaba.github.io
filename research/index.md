@@ -31,7 +31,7 @@ I study how animals respond to climate change by examining the physiological, be
 <h4>Assessing the energetic impacts of climate change on biodiversity</h4>
 
 <figure class="half">
-  <img src="/images/TCAM.jpg" alt="Thermal imaging / research figure" style="width: 150px; height: auto;">
+  <img src="/images/TCAM.jpg" height="100px" width="166px">
   
   <p style="font-size:16px;">
     Climate warming challenges the ability of organisms to balance heat and water budgets, affecting homeostasis, survival, and overall fitness. This project aims to quantify the impacts of warming on energy metabolism in both endotherms and ectotherms across global climatic gradients.
@@ -48,7 +48,8 @@ I study how animals respond to climate change by examining the physiological, be
 
 <h4> Former projects </h4>
 <figure class = "half">
-  <a href = "https://cordis.europa.eu/article/id/443204-predicting-organismal-environment-interactions-under-climatic-scenarios"> <img src="/images/SCALE.png"  height="100px" width="1660px"> </a>
+  <a href = "https://cordis.europa.eu/article/id/443204-predicting-organismal-environment-interactions-under-climatic-scenarios"> 
+    <img src="/images/SCALE.png"  height="100px" width="1660px"> </a>
   <p style="font-size:16px; "><b>SCALE was a Marie-Curie funded project </b> investigating how heat- and water-transfer mechanisms determine phenotypic traits of animals across global 
     climatic gradients </p>
   <p style="font-size:16px; "> Juan G. Rubalcaba (MSCA fellow Grant agreement ID: 843094); Jennifer Sunday (supervisor at McGill University, Montreal), Miguel Á. Olalla-Tárraga (supervisor at Rey Juan Carlos
