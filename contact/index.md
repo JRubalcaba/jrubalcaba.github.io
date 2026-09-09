@@ -12,9 +12,9 @@ image:
 <figure class = "half">
   <img src="../images/jr.jpg" height="300px" width="500px"/>
   <h4> Juan G. Rubalcaba </h4> 
-    <p> jg.rubalcaba@gmail.com  </p>
-    <p> Dept Biodiversity, Ecology and Evolution (Universidad Complutense de Madrid) </p>
-    <p> Despacho 18, planta 9, Fac CC Biológicas (Edificio A) </p>
+    <p> jgrubalcaba@ipe.csic.com  </p>
+    <p> Department of Biological Conservation and Ecosystem Restoration, Quantitative and Behavioural Ecology Group, Pyrenean Institute of Ecology (IPE-CSIC), Nuestra Señora de la Victoria 16, 22700 Jaca, Spain </p>
+  
 </figure>
 <h4> CV </h4> 
 <p>Sept 2026 - <b> Ramón y Cajal researcher. </b> Pyrenean Institute of Ecology (CSIC). </p>
