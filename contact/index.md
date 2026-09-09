@@ -13,7 +13,8 @@ image:
   <img src="../images/jr.jpg" height="300px" width="500px"/>
   <h4> Juan G. Rubalcaba </h4> 
     <p> jgrubalcaba@ipe.csic.com  </p>
-    <p> Department of Biological Conservation and Ecosystem Restoration, Quantitative and Behavioural Ecology Group, Pyrenean Institute of Ecology (IPE-CSIC), Nuestra Señora de la Victoria 16, 22700 Jaca, Spain </p>
+    <p> Department of Biological Conservation and Ecosystem Restoration, Quantitative and Behavioural Ecology Group, Pyrenean Institute of Ecology (IPE-CSIC). </p>
+         <p> Nuestra Señora de la Victoria 16, 22700 Jaca, Spain </p>
   
 </figure>
 <h4> CV </h4> 
