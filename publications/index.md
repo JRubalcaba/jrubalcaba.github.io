@@ -18,7 +18,7 @@ Complete publication list in <a href="https://scholar.google.es/citations?user=i
      <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.70293"> <img src="/images/jcovers/GEB.png" height="100px" width="75px" /></a>
   </div>
   <div align = "left"> 
-   Metabolic Responses of Mammals to Temperature Anomalies Vary Across Climates. <i> Global Ecology and Biogeography </i>, Rubalcaba, J. G. & Correas-Araus, M. (2026).
+   Metabolic Responses of Mammals to Temperature Anomalies Vary Across Climates. <i> Global Ecology and Biogeography </i>, Rubalcaba, J. G. & Correas-Araus, M. (2026). <a href="https://zenodo.org/records/23948520">  Full text. </a>
   </div>
 </figure>
 
