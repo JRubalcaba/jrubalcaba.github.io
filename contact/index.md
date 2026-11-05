@@ -10,7 +10,6 @@ image:
 ---
 
 <figure class = "half">
-  <img src="../images/jr.jpg" height="300px" width="500px"/>
   <h4> Juan G. Rubalcaba </h4> 
     <p> jgrubalcaba@ipe.csic.com  </p>
     <p> Department of Biological Conservation and Ecosystem Restoration, Quantitative and Behavioural Ecology Group, Pyrenean Institute of Ecology (IPE-CSIC). </p>
